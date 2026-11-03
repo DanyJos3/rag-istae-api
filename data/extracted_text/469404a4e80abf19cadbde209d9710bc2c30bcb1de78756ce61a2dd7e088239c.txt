@@ -1,0 +1,170 @@
+**NORMATIVA PARA LOS TRABAJOS DE INTEGRACIÓN CURRICULAR CON ARTÍCULO CIENTÍFICO**
+
+**1. OBJETIVO**
+
+Regular la modalidad de artículo científico como vía de titulación, sustituyendo la defensa privada por la publicación o aceptación del artículo en una revista indexada, y manteniendo la defensa pública única como instancia final de evaluación.
+
+**2. ALCANCE**
+
+Esta normativa aplica a estudiantes de nivel técnico y tecnológico que opten por la modalidad de artículo científico como trabajo de integración curricular, siempre que la carrera lo permita y sea aprobado por el OCS.
+
+**3. ANTEPROYECTO**
+
+El estudiante deberá presentar el ANTEPROYECTO DEL TRABAJO DE INTEGRACIÓN CURRICULAR (Anexo 1), con enfoque en la redacción de un artículo científico, que incluya:
+
+- Título tentativo.
+- Objetivos.
+- Marco teórico.
+- Metodología.
+- Plan de publicación (revista propuesta, bases de datos, índice de impacto).
+
+El anteproyecto será evaluado por la Comisión Asesora de Carrera (CAC) con la Rúbrica del Anteproyecto (Anexo 1.1).
+
+Si cumple con los criterios, la CAC emitirá el CERTIFICADO DE EXAMINACIÓN DEL ANTEPROYECTO (Anexo 2).
+
+El Coordinador de Carrera remitirá el expediente a la CTI para su envío al OCS.
+
+**4. APROBACIÓN DEL ANTEPROYECTO Y ASIGNACIÓN DE ACTORES**
+
+El Órgano Colegiado Superior (OCS), en sesión, aprobará el anteproyecto y asignará:
+
+- Tutor (especializado en investigación científica).
+- Revisor metodológico (dominio de APA 7, diseño de investigación, redacción científica).
+- Revisor técnico (especialista en el área del artículo).
+
+La asignación se realizará en coordinación con la CTI y los Coordinadores de Carrera.
+
+El OCS emitirá la resolución de aprobación y asignación, notificada al estudiante en un plazo máximo de 72 horas hábiles.
+
+**5. DESARROLLO DEL ARTÍCULO CIENTÍFICO**
+
+El estudiante desarrollará el artículo bajo la supervisión del tutor, con reuniones semanales y entrega de avances.
+
+El tutor presentará el Informe Mensual de Avance (Anexo 8) a la CTI.
+
+El revisor metodológico asesorará en:
+
+- Normativas APA 7.
+- Estructura del artículo científico (IMRaD).
+- Citación, referencias y redacción académica.
+
+El revisor técnico asesorará en:
+
+- Pertinencia del contenido.
+- Viabilidad de publicación.
+- Alineación con el perfil profesional.
+
+Ambos revisores emitirán informes de seguimiento que se integrarán al expediente.
+
+**6. PUBLICACIÓN O ACEPTACIÓN DEL ARTÍCULO**
+
+El estudiante deberá presentar uno de los siguientes documentos como sustitución de la defensa privada:
+
+- Publicación del artículo en revista indexada, O
+- Carta de aceptación de la revista para su publicación.
+
+La revista debe estar indizada en al menos una de las siguientes bases de datos:
+
+- Latindex
+- Dialnet
+- Redalyc
+- Scielo
+- Emerging Source Citation Index (WoS)
+- Scopus
+- JCR (WoS)
+- PubMed
+- LILACS
+- MedLine
+
+El artículo debe ser entregado en formato impreso y digital (PDF), junto con:
+
+- Enlace de publicación o carta de aceptación.
+- Certificado de antiplagio (Anexo 9).
+- Informe del tutor (Anexo 12).
+
+**7. FILTRO FINAL Y CERTIFICADO DE APTITUD PARA DEFENSA PÚBLICA**
+
+El Coordinador de Carrera recopilará toda la documentación y la remitirá a la CTI.
+
+La CTI realizará un filtro final que verificará:
+
+- Publicación o aceptación del artículo.
+- Certificado de antiplagio ≤15% (Anexo 9).
+- Informes mensuales del tutor (Anexo 8).
+- Informes de aptitud del tutor (Anexo 12), revisor metodológico y revisor técnico.
+- Aprobación del anteproyecto (Anexo 2).
+- Declaratoria de egresado (Anexo 14).
+
+Si todo está en orden, la CTI emitirá el CERTIFICADO DE APTITUD PARA DEFENSA PÚBLICA (Anexo 16).
+
+Sin este certificado, no se podrá avanzar al OCS.
+
+**8. DEFENSA PÚBLICA ÚNICA**
+
+La CTI remitirá el expediente completo al OCS.
+
+El OCS, en sesión ordinaria, aprobará la documentación final y autorizará la programación de la defensa pública, asignando fecha, hora y lugar.
+
+La defensa pública será la única instancia de evaluación final. Participarán:
+
+- El estudiante.
+- El tutor.
+- El revisor metodológico.
+- El revisor técnico.
+- El Coordinador de Carrera o su representante.
+- Un representante de la CTI (presidente del comité).
+
+El estudiante presentará:
+
+- El artículo publicado o aceptado.
+- Los aportes del artículo al perfil profesional.
+- La experiencia de redacción y publicación.
+
+La calificación será sobre 10 puntos, con base en la Rúbrica del Trabajo de Titulación (Anexo 24).
+
+**Nota mínima de aprobación: 8/10.**
+
+**9. ENTREGA FINAL DEL TRABAJO**
+
+Una vez aprobada la defensa pública, el estudiante presentará a la CTI:
+
+- Cargar el archivo digital al repositorio
+
+La CTI verificará el cumplimiento y remitirá el material a la Secretaría General para el acta de grado.
+
+- 10. SIMILITUD, PLAGIO Y USO DE IA
+
+El artículo no deberá superar el 15% de similitud de texto, verificado mediante software oficial (Turnitin o similar).
+
+El tutor verificará el porcentaje y emitirá el CERTIFICADO DE REVISIÓN DE ANTIPLAGIO (Anexo 9).
+
+El uso de Inteligencia Artificial (IA) está permitido hasta en un 15% del contenido, siempre que:
+
+- Se declare en una sección titulada "Declaración de Uso de IA".
+- No se utilice para generar el contenido central (objetivos, metodología, análisis, conclusiones).
+
+En caso de plagio o deshonestidad académica, se aplicarán las sanciones del Reglamento de Régimen Disciplinario.
+
+**12. DISPOSICIONES GENERALES**
+
+Esta normativa se aplica a partir del 1 de agosto de 2025.
+
+Deroga a la versión 01 de esta normativa.
+
+Cualquier caso no previsto será resuelto por el OCS, a propuesta de la CTI
+
+**CERTIFICO.** Que la presente normativa fue aprobada en primera instancia en sesión ordinaria del OCS N° 07 mediante resolución RES-ISTAE-OCS-2024-SO-07-R003 del 17 de mayo de 2024.
+
+En constancia firman:
+
+**Mgtr. Ever Alejandro Palacios Acosta**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**RECTOR ISTAE**
+
+**Abga. Ana Karen Solís Bolaño**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**SECRETARIA GENERAL ACADÉMICA**

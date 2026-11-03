@@ -1,0 +1,1141 @@
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 1 de 18
+
+## INSTITUTO SUPERIOR TECNOLOGICO
+
+## ALBERTO ENRIQUEZ
+
+<!-- image -->
+
+## RECTORADO
+
+MODALIDAD: EDUCACIÓN PRESENCIAL
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 2 de 18
+
+## REGLAMENTO DEL CENTRO DE IDIOMAS DEL INSTITUTO SUPERIOR TECNOLOGICO ALBERTO ENRIQUEZ
+
+## Considerando:
+
+Que, el artículo 226 de la Constitución de la República del Ecuador señala "Las instituciones del Estado, sus organismos, dependencias, las servidoras o servidores públicos y las personas que actúen en virtud de una potestad estatal ejercerán solamente las competencias y facultades que les sean atribuidas en la Constitución y la ley. Tendrán el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los derechos reconocidos en la Constitución."
+
+Que, el artículo 350 de la ley ibídem prevé "El sistema de educación superior tiene como finalidad la formación académica y profesional con visión científica y humanista; la investigación científica y tecnológica; la innovación, promoción, desarrollo y difusión de los saberes y las culturas; la construcción de soluciones para los problemas del país, en relación con los objetivos del régimen de desarrollo."
+
+Que, el artículo 351 de la Constitución de la República del Ecuador señala "El sistema de educación superior estará articulado al sistema nacional de educación y al Plan Nacional de Desarrollo; la ley establecerá los mecanismos de coordinación del sistema de educación superior con la Función Ejecutiva. Este sistema se regirá por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad, pertinencia, integralidad, autodeterminación para la producción del pensamiento y conocimiento, en el marco del diálogo de saberes, pensamiento universal y producción científica tecnológica global."
+
+Que, el artículo 352 de la ley ibídem prevé "El sistema de educación superior estará integrado por universidades y escuelas politécnicas; institutos superiores técnicos, tecnológicos y pedagógicos; y conservatorios de música y artes, debidamente acreditados y evaluados."
+
+Que, el artículo 5 literal a) de la Ley Orgánica de Educación Superior establece "Son derechos de las y los estudiantes los siguientes: a) Acceder, movilizarse, permanecer, egresar y titularse sin discriminación conforme sus méritos académicos (…)."
+
+Que, el artículo 12 de la ley ibídem prevé que "El Sistema de Educación Superior se rige por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad, pertinencia, integralidad, autodeterminación para la producción del pensamiento y conocimiento, en el marco del diálogo de saberes, pensamiento universal y producción científica y tecnológica global.
+
+El Sistema de Educación Superior, al ser parte del Sistema Nacional de Inclusión y Equidad Social, se rige por los principios de universalidad, igualdad, equidad, progresividad, interculturalidad, solidaridad y no discriminación; y funcionará bajo los criterios de calidad, eficiencia, eficacia, transparencia, responsabilidad y participación.
+
+Estos principios rigen de manera integral a las instituciones, actores, procesos, normas, recursos, y demás componentes del sistema, en los términos que establece esta Ley."
+
+Que, el artículo 13 literal l) de la Ley Orgánica de Educación Superior establece "Son funciones del Sistema de Educación Superior: l) Promover y fortalecer el desarrollo de las lenguas, culturas y sabidurías ancestrales de los pueblos y nacionalidades del Ecuador en el marco de la interculturalidad (…)."
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 3 de 18
+
+Que, e l segundo inciso del artículo 65 de la Ley Orgánica de Educación Superior, prevé "Las autoridades del gobierno de los institutos superiores técnicos, tecnológicos, pedagógicos, de artes y conservatorios superiores públicos, serán designadas por el órgano rector de la política pública de educación superior, previo concurso de méritos y oposición, con criterios de equidad y paridad de género, alternancia e igualdad de oportunidades".
+
+Que, el artículo 80 de la Ley Orgánica de Educación Superior, prevé "Se garantiza la gratuidad de la educación superior pública hasta el tercer nivel. La gratuidad observará el criterio de responsabilidad académica de los y las estudiantes (…)."
+
+Que, el artículo 83 de la Ley ibídem, establece "Son estudiantes regulares de las instituciones del Sistema de Educación Superior quienes previo el cumplimiento de los requisitos establecidos en esta ley, se encuentren legalmente matriculados."
+
+Que, el artículo 93 de la Ley Orgánica de Educación Superior prevé "El principio de calidad establece la búsqueda continua, autorreflexiva del mejoramiento, aseguramiento y construcción colectiva de la cultura de la calidad educativa superior con la participación de todos los estamentos de las instituciones de educación superior y el Sistema de Educación Superior, basada en el equilibrio de la docencia, la investigación e innovación y la vinculación con la sociedad, orientadas por la pertinencia, la inclusión, la democratización del acceso y la equidad, la diversidad, la autonomía responsable, la integralidad, la democracia, la producción de conocimiento, el diálogo de saberes, y valores ciudadanos".
+
+Que, el artículo 124 de la Ley Orgánica de Educación Superior, establece "Es responsabilidad de las instituciones de educación superior proporcionar a quienes egresen de cualquiera de las carreras o programas, el conocimiento efectivo de sus deberes y derechos ciudadanos y de la realidad socioeconómica, cultural y ecológica del país; el dominio de una lengua diferente a la materna y el manejo efectivo de herramientas informáticas".
+
+Que, el artículo 80 del Reglamento de Régimen Académico prevé "El aprendizaje de una segunda lengua será requisito para graduación en las carreras de tercer nivel, de acuerdo con los siguientes niveles de suficiencia tomando como referencia el Marco Común Europeo para lenguas:
+
+- a) Para el tercer nivel técnico se requerirá al menos el nivel A1 y para el tecnológico se requerirá al menos el nivel A2.
+- b) Para el tercer nivel de grado se requerirá al menos el nivel B1.
+
+En los programas de posgrado, las IES definirán en función del desarrollo del área del conocimiento, el nivel de dominio de la segunda lengua, si esta es requerida.
+
+Cada IES decidirá la integración o no del aprendizaje de una segunda lengua en el currículo de la carrera o programa.
+
+Para que los estudiantes regulares matriculados en una carrera cumplan el requisito de suficiencia de una lengua extranjera, las instituciones de educación superior, en el caso de que así lo requieran, podrán realizar convenios con otras IES o instituciones que, si bien no forman parte del Sistema de Educación Superior, brindan programas o cursos de lenguas, siempre que éstas emitan certificados de suficiencia mediante la rendición de exámenes con reconocimiento internacional. La presente disposición no se aplicará para las carreras de idiomas.".
+
+Que, el artículo 41 del Estatuto del Instituto Superior Alberto Enríquez prevé que: "El Centro de Idiomas, es la unidad responsable de la enseñanza, certificación y capacitación en idiomas,
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 4 de 18
+
+de los miembros de la comunidad estudiantil, docentes y público en general. (...)".
+
+El Instituto Superior Universitario Alberto Enríquez, en ejercicio de las atribuciones que le confiere la Ley Orgánica de Educación Superior y demás normativas que rigen el Sistema de Educación Superior.
+
+## RESUELVE:
+
+Expedir el siguiente:
+
+REGLAMENTO DEL CENTRO DE IDIOMAS DEL INSTITUTO SUPERIOR ALBERTO ENRÍQUEZ
+
+## TITULO I
+
+ÁMBITO, OBJETO, ESTRUCTURA Y FUNCIONALIDAD ADMINISTRATIVA DEL CENTRO DE IDIOMAS (CAI)
+
+## CAPÍTULO I
+
+## ÁMBITO, OBJETO Y ALCANCE
+
+Artículo 1.- Ámbito. - El presente reglamento será de aplicación obligatoria para las y los estudiantes, docentes, personal administrativo, del Instituto Superior Tecnológico Alberto Enríquez y público en general, para el estudio de una segunda lengua.
+
+Artículo 2.- Objeto. - El presente reglamento tiene como objeto regular el funcionamiento, competencias y atribuciones del Centro de Aprendizaje de Idiomas (CAI) normar los procesos educativos de planificación, ejecución, evaluación, y mejora del proceso de enseñanza - aprendizaje de una segunda lengua para la obtención del nivel de una segunda lengua requerido por la LOES y Reglamento de Régimen Académico (RRAA), y bajo los estándares del Marco Común Europeo de Referencia para las Lenguas (MCER), y como prerrequisito de grado para los estudiantes del Instituto Superior Tecnológico Alberto Enríquez, además de normar los procesos educativos de planificación, ejecución, evaluación, y mejora del proceso enseñanza - aprendizaje de los idiomas que el CAI desarrolle como parte de capacitación a la comunidad educativa y a la sociedad en general.
+
+Artículo 3.- Alcance. - El Centro de Idiomas CAI es una unidad académica que goza de autonomía administrativa interna, pedagógico-educativa y de gestión.
+
+De esta manera el Centro de Aprendizaje de Idiomas CAI:
+
+- a) Tendrá dos competencias a su cargo: de educación-formación y de capacitación.
+- b) Diversificará su oferta académica en otros idiomas conforme al manual de procesos.
+- c) Fortalecerá el proceso de enseñanza - aprendizaje del inglés como segunda lengua tomando como referencia los lineamientos internacionales del Marco Común Europeo de Referencia para las Lenguas (MCER) en cuanto a idiomas.
+
+ACTUALIZACION: N/A
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 5 de 18
+
+- d) Ofertará cursos de idiomas a la Comunidad.
+- e) Ofertará cursos de idiomas a la sociedad en general conforme al manual de procesos.
+
+## CAPÍTULO II
+
+## FINES Y POLITICAS DEL CENTRO DE IDIOMAS
+
+Artículo 4.- Fines del Centro de Idiomas. - Son fines del Centro de Idiomas del Instituto Superior Tecnológico Alberto Enríquez:
+
+- a) Preparar profesionales capaces de usar una segunda lengua, ya sea una lengua ancestral nacional y/o extranjera, en forma integral de conformidad a los perfiles de egreso.
+- b) Concienciar a la Comunidad Institucional sobre la importancia del manejo de Idiomas Nacionales y Extranjeros, como una herramienta de crecimiento personal, social y profesional;
+- c) Proponer recursos de autogestión económicos/humanos, para el Instituto Superior Tecnológico Alberto Enríquez a través de la oferta de cursos dirigidos a la sociedad; y,
+- d) Garantizar el nivel de los idiomas ofertados conforme el perfil de egreso de los estudiantes legalmente matriculados en el CAI.
+
+Artículo 5.- Políticas del Centro de Idiomas. - Dentro de las políticas del Centro de Idiomas, se señalan:
+
+- a) Buscar permanentemente el mejoramiento de sus servicios a favor de las y los estudiantes, docentes y comunidad;
+- b) Perfeccionar constantemente al personal docente de la comunidad educativa y/o estudiantes,
+- c) Planificar y evaluar todas las actividades académicas que garanticen el cumplimiento de las metas propuestas;
+- d) Promover y difundir la ejecución de actividades académicas, sociales y/o artísticas (cursos, foros, charlas y talleres entre otros) que fortalezcan la adquisición de conocimientos, y el desarrollo de destrezas de estudiantes, docentes y público en general; de manera articulada con la Coordinación de Vinculación con la sociedad y el Centro de emprendimiento,
+- e) Impulsar la investigación científica, tecnológica y social, con carácter interdisciplinario o multidisciplinario, en base a las líneas de Investigación creadas para el efecto.
+
+## CAPÍTULO III
+
+## MISIÓN, VISIÓN, ESTRUCTURA ADMINISTRATIVA, ATRIBUCIONES Y RESPONSABILIDADES
+
+Artículo 6.- Misión. - El Centro de Idiomas es una entidad autónoma dirigida a la formacióneducación y capacitación en la enseñanza del idioma inglés como segunda lengua, con una planta docente especializada y certificada, que contribuye con la inserción del pensamiento universal, la pluriculturalidad y al desarrollo institucional.
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 6 de 18
+
+Artículo 7.- Visión. - Ser un Centro líder y competitivo en el proceso de enseñanzaaprendizaje del idioma inglés como segunda lengua a nivel de educación superior, comprometido a cumplir con los principios de la calidad, eficiencia, eficacia, transparencia, responsabilidad y participación; mediante la oferta institucional.
+
+## Artículo 8.- Estructura. - El Centro de Idiomas está conformado por:
+
+- a. Coordinador(a);
+- b. Docentes; y,
+- c. Estudiantes.
+
+Artículo 8.- Del coordinador(a).- El o la Coordinador(a) del Centro de Idiomas será nombrado por el Rector del Instituto Superior Tecnológico Alberto Enríquez.
+
+## Artículo 9.- Deberes y atribuciones del o la Coordinador(a).- Al coordinador(a) le corresponde:
+
+- a) Coordinar, planificar y dirigir las actividades de docencia académicas del Centro de Idiomas;
+- b) Solicitar y dar seguimiento a la contratación del personal docente para cubrir las necesidades del Centro de Idiomas;
+- c) Convocar y presidir las reuniones académicas a conveniencia de los requerimientos del Centro de Idiomas;
+- d) Organizar y promover espacios pedagógicos, conferencias, jornadas pedagógicas, mesas redondas, publicaciones, certámenes, seminarios y de actualización relacionadas con las actividades del Centro de Idiomas;
+- e) Presentar un informe semestral y anual de su gestión el cual estará dirigido a las autoridades del Instituto;
+- f) Elaborar el calendario académico del Centro de Idiomas para cada periodo académico lectivo;
+- g) Proponer al Rector la formalización de convenios de colaboración con entidades públicas o privadas en los cuales intervenga el Centro de Idiomas;
+- h) Las demás que sean asignadas por las autoridades del Instituto.
+
+Artículo 10.- Deberes y atribuciones de los docentes. - Son deberes y a atribuciones de los docentes del Centro de Idiomas, a más de las establecidas por el Instituto las siguientes:
+
+## TITULO II DE LA PLANTA DOCENTE Y ESTUDIANTES DEL CENTRO DE IDIOMAS
+
+## CAPÍTULO I DEL DOCENTE Y FUNCIONES
+
+Artículo. 11.- Docente. - Para ser docente del Centro de Idiomas deberá cumplir con los siguientes requisitos:
+
+- a) Poseer título de tercer nivel o superior en enseñanza de segunda lengua.
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 7 de 18
+
+- b) Certificación internacional de idiomas mínimo del nivel B2 o superior vigente.
+- c) Probidad en el proceso de enseñanza-aprendizaje de una segunda lengua.
+- d) Experiencia docente mínimo de tres años en Educación.
+
+## Artículo. 12.- Funciones del docente del CAI. - Las funciones de los docentes del CAI son:
+
+- a) Cumplir con su carga laboral y horaria de acuerdo al distributivo docente.
+- b) Desempeñar su cátedra de acuerdo a las planificaciones micro-curriculares definidas por el CAI.
+- c) Asistir a las convocatorias del CAI.
+- d) Regirse al cronograma académico preestablecido en cada período lectivo.
+- e) Cumplir con los planes y programas curriculares preestablecidos por el CAI.
+
+## CAPÍTULO II
+
+## DE LOS ESTUDIANTES, DERECHOS Y OBLIGACIONES
+
+Artículo. 13.- Estudiantes. - Son estudiantes del CAI quienes:
+
+- a) Estén legalmente matriculados en el Instituto Superior Alberto Enríquez, previo cumplimiento de los requisitos establecidos en la Ley Orgánica de Educación Superior.
+- b) Estén legalmente matriculados dentro de los parámetros establecidos por el CAI.
+- c) Docentes y personal administrativo del Instituto Superior Alberto Enríquez, que se matriculen legalmente dentro de los parámetros establecidos por el Centro de Idiomas.
+- d) Público en general, quienes no pertenecen a la comunidad educativa del Instituto Superior Alberto Enríquez y se matriculen legalmente dentro de los parámetros establecidos por el Centro de Idiomas.
+
+Artículo 14.- Derechos de los estudiantes. - Los estudiantes del Centro de Idiomas CAI tendrán los derechos establecidos en la LOES y los demás establecidos en normativa que rige el sistema de educación superior.
+
+- a) Los estudiantes del CAI tendrán derecho a la gratuidad educativa como contempla la ley.
+- b) Los estudiantes tienen derecho a recibir una formación-educación de calidad conforme a la normativa de educación superior.
+- c) Recibir contestación a sus requerimientos de manera oportuna y ágil.
+- d) Las demás que estipulare la ley.
+
+Artículo 15.- Obligaciones de los estudiantes. - Los estudiantes del CAI tendrán las obligaciones establecidas en la LOES y los demás establecidos en normativa que rige el sistema de educación superior.
+
+- a) Los estudiantes están obligados a aprobar los niveles que se establecen en la ley en el tiempo correspondiente.
+- b) Los estudiantes deberán rendir un examen de ubicación para determinar su nivel de
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 8 de 18
+
+conocimiento de a la segunda lengua, como requisito previo a la matriculación.
+
+- c) Los estudiantes retirados por más de cuatro niveles consecutivos establecidos en el Centro de Idiomas, deberán rendir un nuevo examen de ubicación para determinar su nivel de conocimiento de la segunda lengua, como requisito previo a la matriculación
+- d) Los estudiantes que no opten por rendir el examen de ubicación deberán matricularse en el primer nivel de la segunda lengua como indica el manual de procesos.
+- e) Los estudiantes podrán justificar las faltas en un término no superior a 72 horas, mediante los lineamientos establecidos por el CAI.
+- f) Los docentes y público en general deberán cubrir los rubros que se establezcan bajo los parámetros legales vigentes.
+- g) Los estudiantes, se acogen al sistema de evaluación del CAI para poder ser promovidos.
+- h) Los estudiantes deberán aprobar el nivel de una segunda lengua, conforme a los parámetros establecidos en la institución.
+- i) Los estudiantes se acogerán a lo establecido en la normativa interna vigente del Instituto.
+
+## CAPÍTULO III DE LAS MATRÍCULAS DEL CENTRO DE IDIOMAS
+
+Artículo 16.- De las matrículas. - La matrícula es el acto de carácter académicoadministrativo, mediante el cual una persona adquiere la condición de estudiante, a través del registro de las asignaturas, cursos o sus equivalentes, en un período académico determinado y conforme a los procedimientos internos. La condición de estudiante se mantendrá hasta el inicio del nuevo período académico ordinario o hasta el cumplimiento de los niveles.
+
+Para iniciar el proceso de matriculación del CAI se deberá cumplir los siguientes requisitos:
+
+- a) Los estudiantes que por primera vez ingresen y reingresen al CAI, deberán cumplir el proceso de preinscripción, llenando un formulario.
+- b) Se considera reingreso cuando un estudiante que, habiendo sido parte del CAI, se hubiere retirado durante cuatro niveles académicos consecutivos del CAI.
+- c) Los estudiantes preinscritos deberán rendir el examen de ubicación en la fecha y hora establecida. Caso contrario deberán esperar a un nuevo proceso de examen de ubicación.
+- d) Se publicarán los resultados del examen de ubicación con el nivel correspondiente.
+- e) El estudiante deberá elegir su horario y matricularse en el nivel correspondiente de acuerdo a la disponibilidad de tiempo y los parámetros establecidos por el CAI.
+- f) Los estudiantes deberán adquirir el material de estudio, previo al inicio de clases de acuerdo a los lineamientos establecidos por el CAI.
+
+Artículo 17.- De la anulación de la matrícula. - El centro de idiomas podrá, de oficio o a petición de parte, declarar nula una matrícula cuando ésta haya sido realizada incumpliendo la normativa y los parámetros establecidos por el CAI.
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 9 de 18
+
+Artículo 18.- Retiro de un nivel de aprendizaje de una segunda lengua. - Un estudiante que curse un nivel de aprendizaje de una segunda lengua podrá retirarse del nivel voluntariamente, en el término máximo de 5 días, contado a partir de la fecha de inicio de las actividades académicas. El estudiante deberá emitir una solicitud de anulación de matrícula a la secretaria del CAI en el formato vigente.
+
+En caso de retiro, no constará como pérdida de nivel ni de matrícula en el CAI. Sin embargo, si el estudiante no ha realizado el retiro de un nivel de inglés, constará como estudiante regular.
+
+Artículo 19.- De la pérdida del nivel. - Las y los estudiantes perderán el nivel en los siguientes casos:
+
+- a) No haya aprobado el curso dentro de los parámetros establecidos por el CAI.
+- b) Cuando no haya procedido con la anulación de matrícula en los plazos establecidos.
+- c) No haya cumplido con el 70% de asistencia.
+- d) En el caso de docentes o público en general, se aplican los literales a, b y c; y además no existirá reembolso ni parcial ni total de los rubros establecidos.
+
+Artículo 20.- Tercera Matrícula. - Cuando un estudiante repruebe por tercera vez un mismo nivel de la segunda lengua no podrá continuar en el CAI. De ser el caso podrá solicitar el ingreso a otra institución y podrán cumplir con el requisito de certificación en el inglés nivel A2 siempre y cuando provengan de una institución de educación superior u otra que emitan certificados con reconocimiento internacional.
+
+Artículo 21.- De la oferta de los cursos de capacitación. - El Centro de Idiomas se articulará con el Centro de Formación Integral y Servicios Especializados con el fin de ofertar cursos de capacitación, mismos que deberán considerar lo siguiente:
+
+- a) Estimar los costos de capacitación a la fecha de su oferta.
+- b) Difundir los cursos a la comunidad educativa y al público en general.
+- c) Ofertar con el aval y auspicio del Instituto Superior Alberto Enríquez.
+
+Todos, sin excepción deberán cumplir con los requisitos establecidos por el CAI para el proceso de matriculación.
+
+## TÍTUTLO III DE LA EVALUACIÓN DEL APRENDIZAJE
+
+Artículo 22. Evaluación. - Para efecto del presente reglamento se entiende por evaluación el conjunto de actividades realizadas para obtener y analizar la información en forma continua y sistemática, del proceso de enseñanza-aprendizaje y verificar los logros obtenidos, otorgándoles un valor específico.
+
+Artículo 23. Normas generales. - La evaluación constituye un pilar fundamental dentro del proceso educativo, garantizando la calidad integral de la formación profesional.
+
+La evaluación de los niveles y subniveles del Centro de Idiomas es de carácter formativo, permanente y sistemático, para poder apreciar los avances progresivos en la aprehensión y desarrollo de contenidos, en la orientación de procesos, en la modificación de aptitudes y procedimientos; proporcionando información científica suficiente y actualizada, detectando
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 10 de 18
+
+vacíos, atendiendo diferencias individuales, con el propósito de fundamentar la promoción de las y los estudiantes y evidenciar de esta forma que se ha desarrollado las habilidades, destrezas y el saber hacer.
+
+El avance académico del estudiante en el plan de estudios en que se encuentre matriculado se realizará a través de las evaluaciones que se realicen de conformidad con este reglamento, las mismas que serán sumativas y tendrán como finalidad el comprobar las competencias y saberes necesarios para llegar a la aprobación del nivel y sub nivel.
+
+Artículo 24.- Juntas de área. - Se realizarán dos juntas de área en cada período lectivo, la primera al final del primer parcial y la segunda al final del segundo parcial.
+
+Al finalizar la junta de área, con los informes individuales por nivel y paralelo, se definirán las acciones necesarias de mejora y refuerzo académico, en el cual cada docente planteará las actividades, evaluaciones y tutorías pertinentes para el seguimiento de estudiantes.
+
+Artículo 25.- De los componentes de la evaluación.- De acuerdo con las normas establecidas en este reglamento, las evaluaciones se realizarán considerando los siguientes componentes:
+
+- 25.1 Componente autónomo: Incluye las actividades que durante el parcial de cada sub nivel realice el estudiante, que se orienten al desarrollo de capacidades para el aprendizaje independiente e individual, entre otras actividades la lectura; el análisis y comprensión de materiales bibliográficos y documentales, tanto analógicos como digitales; la generación de datos y búsqueda de información; la elaboración individual de ensayos, trabajos y exposiciones.
+- 25.2 Componente Práctico: Comprende las actividades que durante el parcial de cada sub nivel realice el estudiante, orientadas al desarrollo de experiencias de aplicación de los aprendizajes. Estas prácticas pueden ser, entre otras: actividades académicas desarrolladas en escenarios experimentales, las prácticas de campo, resolución de problemas, talleres y acervos bibliográficos. La planificación de estas actividades deberá garantizar el uso de conocimientos teóricos, metodológicos y técnicoinstrumentales, y podrá ejecutarse en diversos entornos de aprendizaje.
+
+Artículo 26.- Equivalencias. - El Centro de Idiomas para dar cuenta del desempeño de sus estudiantes, establece las siguientes equivalencias:
+
+| Escala Cuantitativa | Escala Cualitativa |
+|-----------------------|----------------------|
+| 10 => x >= 9 | Excelente |
+| 9 > x >= 8 | Muy Bueno |
+| 8 > x >= 7 | Bueno |
+| 7 > x >= 4 | Regular |
+| Menor a 4 | Deficiente |
+
+Artículo27.- Difusión. - El calendario académico y las notas de evaluación serán publicadas de manera oportuna en el Sistema Académico institucional, para conocimiento de las y los estudiantes.
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 11 de 18
+
+## CAPÍTULO I DE LA EVALUACIÓN
+
+Artículo 28. Examen de Ubicación. - Los aspirantes al Centro de Idiomas podrán rendir un examen de ubicación, el cual valorará sus conocimientos en el idioma extranjero, los resultados obtenidos avalaran los niveles correspondientes.
+
+Los exámenes de ubicación serán publicados en la página web del Instituto Superior Tecnológico Alberto Enríquez y en la cartelera del Centro de Idiomas acorde al calendario académico aprobado para cada periodo.
+
+Artículo 29.- Exoneración. - Un aspirante podrá exonerarse de cursar los niveles correspondientes del Centro de Idiomas si el examen de ubicación avala un resultado de nivel A2 según corresponda y se requiera o con la presentación de certificados internacionales, para lo cual deberá presentar el original del certificado internacional y adjuntar el documento materializado ante un notario de la página web que emitió dicho certificado, cumpliendo lo determinado en el presente Reglamento para el trámite de homologación.
+
+Artículo 30.- Calificación. - La calificación final o nota final es la que determina la aprobación o reprobación del nivel, está será sobre 10 puntos para cada nivel, en cada período académico, y será el resultado de la sumatoria de:
+
+| Parcial 1 | 4 pts. | 40 % |
+|------------------|----------|--------|
+| Parcial 2 | 4 pts. | 40 % |
+| Evaluación final | 2 pts. | 20 % |
+| TOTAL | 10 pts. | 100 % |
+
+La nota mínima para aprobar el nivel será de 7 puntos.
+
+Artículo 31. La evaluación de cada parcial. La evaluación de los parciales se realizará con los siguientes componentes:
+
+| SUB NIVELES - COMPONENTE | SUB NIVELES - PARCIAL 1 | SUB NIVELES - PARCIAL 1 | SUB NIVELES - PARCIAL 2 | SUB NIVELES - PARCIAL 2 | SUB NIVELES - TOTAL | SUB NIVELES - TOTAL |
+|---------------------------------|---------------------------|---------------------------|---------------------------|---------------------------|-----------------------|-----------------------|
+| Gestión académica 1 | /100 | 20 % | /100 | 20 % | 20 pts. | 21% |
+| Gestión académica 2 | /100 | 20 % | /100 | 20 % | 21 pts. | 21% |
+| Promedio Evaluaciones Parciales | /100 | 10 % | /100 | 10 % | 28 pts. | 28% |
+| SUBTOTAL | 5 pts. | 50 % | 5 pts. | 50 % | 10 pts. | 100% |
+| TOTAL | TOTAL | TOTAL | TOTAL | TOTAL | 100 pts. | 100% |
+
+Todas las calificaciones de las asignaturas serán ingresadas al sistema académico sobre un total de 100 puntos, donde la ponderación de cada parcial se realizará en concordancia con su peso final, de la siguiente manera:
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 12 de 18
+
+| PARCIAL 1 Y PARCIAL 2 | PARCIAL 1 Y PARCIAL 2 | PARCIAL 1 Y PARCIAL 2 |
+|-----------------------------------|-------------------------|-------------------------|
+| Gestión académica 1 | /10 | 40 % |
+| Gestión académica 2 | /10 | 40 % |
+| Evaluaciones Parciales (Promedio) | /10 | 20 % |
+| Total parcial | /10 | 100 % |
+
+Artículo. - 32.- Componente de Gestión Académica. - El componente de gestión académica incluye todas las actividades a realizarse durante el parcial, y debe incluir entre sus actividades tanto el componente autónomo y el componente práctico, según corresponda de acuerdo a lo siguiente:
+
+- a) Los componentes de gestión académica, según la naturaleza de la asignatura se dividirán en dos partes (parciales);
+- b) Durante cada parcial las actividades de cada componente de gestión académica deberán ser al menos cuatro;
+- c) Las actividades deberán estar planificadas en el sílabo de la asignatura;
+- d) El docente podrá solicitar a sus estudiantes el desarrollo de otras actividades que no consten en el sílabo en virtud de las necesidades del proceso educativo, las cuales se incrementarán a este componente;
+- e) Las actividades podrán ser individuales o grupales, y su presentación podrá ser oral, escrita o virtual;
+- f) En caso que el estudiante no presente los trabajos del componente práctico dentro del plazo establecido, se le asignará la nota de 1 punto sobre 100.
+
+Artículo 33.- Evaluación Parcial. - Se realizará una evaluación en cada parcial, conforme lo establecido en el calendario académico del Centro de Idiomas aprobado por el Órgano Colegiado Superior.
+
+- a) Los reactivos serán de base estructurada, de evaluación del aprendizaje práctico con rúbrica, o combinados;
+- b) Las evaluaciones parciales se desarrollarán dentro de las actividades académicas regulares y podrán ser escritas, orales o virtuales;
+- c) En caso que el estudiante no se presente a rendir la evaluación parcial y no realice el trámite de justificación correspondiente se le asignará la nota de 1 punto sobre 10.
+
+Artículo 34.- Proyecto de Sub Nivel. - Corresponde a la elaboración individual o grupal de un trabajo académico y/o práctico, que tiene como fin demostrar los conocimientos obtenidos por las y los estudiantes durante cada período académico o sub nivel, y evidencian el dominio de cada tema mediante la presentación y defensa de los mismos.
+
+- a) El proyecto se planteará al inicio del período académico en cada uno de los sub niveles y se lo elaborará según el cronograma propuesto por el área académica responsable;
+- b) El proyecto contará con un seguimiento, un informe y un producto final;
+- c) La evaluación se la realizará mediante rúbricas de calificación y la nota será el promedio entre las evaluaciones individuales y/o grupales;
+- d) Las rúbricas de calificaciones serán propuestas por el área académica responsable al iniciar el período lectivo.
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 13 de 18
+
+En caso que el estudiante no presente el proyecto de nivel y no realice el trámite de justificación correspondiente, se le asignará la nota de 1 punto sobre 10 y no podrá presentarse a la evaluación final de igual manera se procederá en caso de que el estudiante no obtenga al menos 70 puntos en el proyecto de Sub Nivel.
+
+Artículo 35.- Evaluación Final. - La evaluación final es de carácter obligatorio y se realizará después de finalizar el segundo parcial de cada sub nivel, conforme lo establecido en el calendario académico.
+
+- a) Los reactivos serán de base estructurada, de evaluación del aprendizaje práctico o combinados, poniendo más énfasis en la parte práctica en función de las características de la asignatura;
+- b) La evaluación final será individual y podrá ser virtual, escrita u oral;
+- c) En caso de que el estudiante no se presente a rendir la evaluación final y no realice el trámite de justificación correspondiente, se le asignará la nota de 1 punto sobre 10.
+
+Artículo 36.- Recuperación. - El estudiante que obtenga una calificación final de 4.0 a 6.9 puntos deberá rendir una evaluación supletoria. El estudiante aprobará la asignatura si después de haber rendido la evaluación supletoria obtiene un promedio entre la calificación final y la evaluación supletoria igual o mayor a 7.0 puntos, caso contrario el estudiante reprobará el sub nivel.
+
+Artículo 37.- Fraude o deshonestidad académica. - Se entiende por fraude o deshonestidad académica toda acción que, inobserve el principio de transparencia académica y/o contravenga los derechos de autor para los procesos de evaluación y/o de presentación de resultados de aprendizaje, investigación o sistematización. Configuran conductas de fraude o deshonestidad académica las siguientes:
+
+- a) Apropiación de ideas o de información de pares dentro de procesos de evaluación;
+- b) Uso de soportes de información para el desarrollo de procesos de evaluación que no han sido autorizados por el profesor;
+- c) Reproducción en lo substancial, a través de la copia literal, la paráfrasis o síntesis de creaciones intelectuales o artísticas, sin observar los derechos de autor;
+- d) Acuerdo para la suplantación de identidad o la realización de actividades en procesos de evaluación, incluyendo el trabajo de titulación; y,
+- e) Acceso no autorizado a reactivos y/o respuestas para evaluaciones.
+
+Las sanciones a estos hechos y demás que contravengan el normal desarrollo de las actividades académicas del Centro de Idiomas serán sancionados conforme lo establece el Reglamento Disciplinario del Instituto Superior Tecnológico Central Técnico.
+
+Artículo 38. Derechos de las y los estudiantes. - Son derechos de las y los estudiantes dentro del proceso de evaluación:
+
+- a) Rendir evaluaciones fundamentadas en el aprendizaje adquirido;
+- b) Conocer al inicio del periodo académico, el sistema y los criterios de evaluación y promoción;
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 14 de 18
+
+- c) Revisar junto con el docente las calificaciones obtenidas con anterioridad a la incorporación a las actas oficiales;
+- d) Entregar un trabajo o rendir una evaluación parcial atrasada, siempre y cuando justifique de forma documentada el motivo por el que no realizó el trabajo o no rindió la evaluación al docente de la asignatura, en un plazo máximo de 48 horas laborables de la fecha de entrega del trabajo o de la evaluación, y con la penalización correspondiente que considere el docente;
+- e) Solicitar recalificación de un trabajo o evaluación siguiendo el procedimiento indicado en este reglamento;
+- f) Anular la matrícula dentro del término de (7) siete días de iniciado el período lectivo, siempre y cuando se cumpla con lo dispuesto en el Reglamento de Régimen Académico.
+
+Artículo 39.- Evaluación de los aprendizajes de estudiantes con necesidades especiales.- En el caso de que sea necesario realizar adaptaciones curriculares no significativas para atender requerimientos de estudiantes con necesidades educativas especiales, asociadas o no a la discapacidad, el Coordinador conjuntamente con los Docentes del Centro de Idiomas deberán presentar una propuesta de los mecanismos de adaptación de los procesos de enseñanzaaprendizaje y, por tanto, de evaluación, los cuales deberán ser:
+
+- a) Programados antes de iniciar el periodo académico correspondiente;
+- b) Comunicados oportunamente a las y los estudiantes;
+- c) Objeto de seguimiento pedagógico de las y los estudiantes en cuanto a sus avances durante el proceso formativo;
+- d) Generar, al final de cada periodo, un análisis de resultados de las actividades encaminadas a cumplir con las adaptaciones curriculares propuestas.
+
+## CAPÍTULO II DE LA PROMOCIÓN Y ARRASTRES
+
+Artículo 40.- Homologaciones de sub niveles. - Para la homologación de sub niveles se debe considerar los siguientes procesos:
+
+- a) Homologación de certificados internacionales: Para realizar las homologaciones de los sub niveles por medio de un certificado internacional, los aspirantes deben acercarse al Centro de Idiomas con el certificado original, una copia a color del certificado, adjuntando la materialización de la página web que emitió el certificado ante un notario público; en caso de no existir la misma, no cabrá homologación.
+- b) Prueba de ubicación: la homologación a través de este mecanismo se efectuará de acuerdo a la siguiente tabla:
+
+RES-ISTAE-OCS-2024-SO-07-R004
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 15 de 18
+
+| PUNTAJE DEL EXAMEN DE UBICACIÓN | SUB NIVEL |
+|-----------------------------------|----------------------------|
+| 1 a 30 | A1 |
+| 31 a 54 | A1.1 |
+| 54 a 60 | A2. Entrega de Certificado |
+
+Artículo 41.- Promoción de Sub Nivel. - La promoción de los sub niveles se efectuará de conformidad con la malla curricular establecida y aprobada para el Centro de Idiomas. Para la aprobación de una asignatura el estudiante deberá obtener como mínimo siete (7) puntos en la calificación final del sub nivel.
+
+Artículo 42.- De la Asistencia. - El estudiante que reporte menos del 70% de asistencia a clases reprueba el sub nivel y no podrá presentarse a la evaluación final.
+
+Artículo 43.- De la Pérdida del Sub Nivel. - El estudiante que no obtuviere la nota final mínima de 7 (siete), tiene derecho a matricularse hasta por tercera ocasión en el mismo sub nivel. La matrícula en el mismo sub nivel se considera segunda y tercera matrícula respectivamente, la aceptación de tercera matricula será autorizada por el Órgano Colegiado Superior.
+
+Artículo 44. Reingreso al Centro de Idiomas. - Aplica a los estudiantes que solicitan el reingreso al Centro de Idiomas y que se hayan retirado por un tiempo no mayor a un periodo académico, para lo que se realizará la verificación, análisis, aprobación y registro de reingreso. Si no cumple con el tiempo establecido, el estudiante deberá solicitar una prueba de ubicación, con lo que se le situará en el sub nivel correspondiente, acorde a los resultados de la misma.
+
+## CAPÍTULO III DE LA RECTIFICACIÓN Y RECALIFICACIÓN
+
+Artículo 45.- De las Rectificaciones. - La rectificación de calificaciones por parte de las y los docentes deberá ser efectuada a través de solicitud escrita dirigida al Coordinador del Centro de Idiomas. Esta petición no podrá exceder de (3) tres días laborables de cerrado el período de asentamiento de calificaciones.
+
+Artículo 46.- De la Recalificación. - En el caso de que un estudiante no esté de acuerdo con las calificaciones obtenidas podrá solicitar la recalificación de las mismas para lo cual deberá dirigir una petición por escrito al Coordinador del Centro de Idiomas en un plazo no mayor de (3) tres días laborables luego de la publicación de las calificaciones o de la revisión de la evaluación. El Coordinador del Centro de Idiomas una vez receptada la solicitud de recalificación designará una comisión de dos docentes, para que inicien dicho proceso, cuyo informe será presentado en un plazo de (4) cuatro días laborables, una vez aprobado el informe el Coordinador del Centro de Idiomas autorizará se asiente la nota de recalificación.
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 16 de 18
+
+En la revisión de la evaluación. El Coordinador del Centro de Idiomas una vez receptada la solicitud de recalificación designará un docente, para que inicien dicho proceso, cuyo informe será presentado en un plazo de cuatro (4) días laborables, una vez aprobado el informe el Coordinador del Centro de Idiomas autorizará se asiente la nota de recalificación.
+
+- a) Dar fiel cumplimiento a la planificación académica;
+- b) Cumplir con los horarios asignados por el Centro de Idiomas, demostrando siempre intachable conducta, puntualidad y responsabilidad;
+- c) Velar por el perfecto mantenimiento de aulas, equipos y demás material didáctico audiovisual del Centro de Idiomas;
+- d) Presentar sugerencias, iniciativas e innovaciones relacionadas al programa de estudio y materiales didácticos digitales a la Coordinación; y
+- e) Las demás actividades delegadas por el Coordinador
+
+## CAPÍTULO IV CERTIFICACIÓN, ESTRUCTURA Y PLANIFICACIÓN CURRICULAR
+
+Artículo 47.- De los certificados. - El CAI podrá otorgar un certificado de aprobación a solicitud del estudiante una vez aprobado cada nivel ofertado.
+
+Artículo 48.- De la estructura curricular. - El currículo del CAI es el documento en el cual se integra la planificación, ejecución y evaluación curricular contemplada en los PEAS y syllabus de cada nivel. La estructura y planificación curricular depende, de los requerimientos institucionales y de estándares internacionales.
+
+Los recursos didácticos a ser empleados por el CAI deben ser revisados al final de cada programación curricular completa del CAI. Por lo tanto, para la elección de los recursos didácticos (libros de estudio) a emplear, la planta docente del CAI deberá hacer un estudio e informe para determinar criterios de pertinencia, actualización, calidad, interactividad de entre dos o tres opciones. Se deberá seleccionar la que mejor se ajuste al desarrollo de las competencias comunicativas y fomento de un aprendizaje significativo. En virtud de alcanzar logros educativos relevantes, el CAI podrá realizar convenios con organizaciones acreditadas y reconocidas internacionalmente, de modo que los estudiantes (de forma optativa) obtengan sus certificaciones en niveles más altos que los obligatorios.
+
+Artículo 49.- Programación Curricular. - La programación de contenidos se regirá de acuerdo a la siguiente estructura basada en la MCER:
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 17 de 18
+
+## PROGRAMACIÓN CURRICULAR PRE A1.1 - PRE A1.2 BEGINNER
+
+## PROGRAMACIÓN CURRICULAR
+
+## PRE A0 - PRE A1 BEGINNER
+
+## PRE A0 - PRE A1
+
+## SKILL: LISTENING
+
+Understand the letters of the alphabet.
+
+Understand cardinal numbers from 1 to 20.
+
+Understand cardinal numbers from 21 to 100.
+
+Understand ordinal numbers from 1 to 100.
+
+Understand basic questions about personal details if addressed slowly and clearly.
+
+Recognise a few familiar, everyday words, if delivered slowly and clearly.
+
+Understand the time of day when expressed in full hours.
+
+Recognise the letters of the English alphabet when pronounced.
+
+Recognise simple formal Greetings.
+
+Understand basic personal details if given carefully and slowly.
+
+Understand simple language related to prices and quantities.
+
+Recognise simple informal greetings.
+
+Understand very basic common classroom instructions.
+
+Recognise familiar words in short phrases and sentences spoken slowly and clearly, supported by pictures.
+
+Recognise basic time words (e.g. Days, months) in simple phrases or sentences.
+
+Understand cardinal numbers from 101 to 1000.
+
+Understand short, simple instructions addressed carefully and slowly.
+
+Understand questions addressed carefully and slowly.
+
+Understand the time of day when expressed to within five minutes.
+
+Identify a caller's name and phone number from a short, simple telephone conversation.
+
+Understand basic statements about where things or people are, if spoken slowly and clearly and supported by pictures.
+
+Understand basic questions about objects in pictures or in their immediate surroundings.
+
+Understand the main information when people introduce themselves (e.g. Name, age, where they are from).
+
+Distinguish between 'can' and 'can't'.
+
+Extract the names of people or places from short, simple dialogues, if delivered slowly and clearly.
+
+Understand the time of day when expressed to the quarter hour.
+
+Follow speech which is very slow and carefully articulated, with long pauses.
+
+Understand basic questions about people's likes and dislikes.
+
+Understand basic information about someone's likes and dislikes.
+
+| PRE A0 - PRE A1 |
+|------------------------------------------------------------------|
+| SKILL: READING |
+| Understand basic sentences introducing someone (e.g. Name, age). |
+| Recognise cardinal numbers up to 10. |
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 18 de 18
+
+Read and understand simple prices.
+
+Recognise familiar names, words and very basic phrases on simple notices.
+
+Recognise basic plural forms of nouns (e.g. Cars, books).
+
+Recognise the letters of the alphabet.
+
+Identify very common food and drink on a menu.
+
+Understand basic sentences describing everyday objects (e.g. Colour, size), given visual support.
+
+Recognize cardinal numbers from 11-100.
+
+Understand short, simple descriptions of objects, people and animals, given visual support.
+
+Ask someone for their name.
+
+Use some very basic words to ask for food and drink.
+
+Ask someone what their job is.
+
+Name a few very common everyday objects.
+
+Recognise and say the name of their own country, nationality and language.
+
+Ask for and give the day and date.
+
+Establish basic social contacts with simple, polite greetings and farewells.
+
+Say a range of basic numbers, quantities and prices.
+
+Say the letters of the alphabet.
+
+Say what they do (e.g. Name of their job, student).
+
+Ask for and give a date of birth.
+
+Greet people using a few basic fixed expressions.
+
+Give very limited personal information using basic fixed expressions.
+
+Name very common forms of transport.
+
+Ask and answer basic requests for information with 'What's this/ that?'
+
+Say their name.
+
+Use a few simple words to describe objects (e.g. Colour, number), if supported by pictures.
+
+Use a few basic words and phrases to show politeness (e.g. 'Please', 'thank you').
+
+Spell out their own name and address.
+
+Ask someone what their nationality is.
+
+Ask about the price of something.
+
+Say other people's nationalities.
+
+Introduce themselves using a basic phrase (e.g. 'My name's ...').
+
+Ask very simply for repetition when they don't understand.
+
+Ask where other people are in a limited way.
+
+Read out phone numbers.
+
+Name a few common jobs.
+
+Tell the time of day in full hours.
+
+Say their own age and ask someone about their age.
+
+Ask and answer simple questions about things they have in a limited way.
+
+Ask for and give a phone number.
+
+Make simple purchases by pointing or other gestures.
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+## PRE A0 - PRE A1
+
+## SKILL: SPEAKING
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 19 de 18
+
+## PRE A0 - PRE A1
+
+## SKILL: WRITING
+
+Write their name, address and nationality.
+
+Write consistently with joined-up letters.
+
+Write cardinal numbers from 1 to 20 as words.
+
+Write the letters of the alphabet in upper and lower case.
+
+Copy familiar words and short phrases about everyday objects and set phrases.
+
+Complete simple forms with basic personal details.
+
+Use capital letters appropriately.
+
+Write a few basic sentences introducing themselves (e.g. Name, age, where they are from), given prompts or a model.
+
+Copy short sentences on everyday subjects (e.g. Directions how to get somewhere).
+
+Write simple sentences about things that they and other people have.
+
+## A2. - WAYSTAGE 1
+
+## LEVEL: A2
+
+## SKILL: LISTENING
+
+Extract key factual information such as prices, times and dates from short clear, simple announcements. Follow short, simple social exchanges.
+
+Identify basic factual information in short, simple dialogues or narratives on familiar everyday topics, if spoken slowly and clearly.
+
+Identify key information (e.g. places, times) from short audio recordings, if spoken slowly and clearly.
+
+Identify key words and phrases in descriptions of someone's appearance and clothes.
+
+Identify simple information in a short video, provided that the visual supports this information and the delivery is slow and clear.
+
+Recognise phrases and content words related to basic personal and family information.
+
+Recognise phrases and content words related to familiar topics (e.g. shopping, local geography).
+
+Understand excuses if expressed in simple language.
+
+Understand information related to people's daily routines.
+
+Understand the main information in simple conversations about hobbies and interests.
+
+Understand who a phone call is intended for.
+
+Understand the main information in short, simple dialogues about familiar activities, if spoken slowly and clearly.
+
+Extract key factual information such as prices, times and dates from a recorded phone message.
+
+Understand simple, everyday conversations if conducted slowly and clearly.
+
+Understand short, basic descriptions of familiar topics and situations, if delivered slowly and clearly.
+
+## LEVEL: A2
+
+## SKILL: READING
+
+Find specific, predictable information in everyday materials (e.g. Menus, timetables).
+
+Understand simple questions in questionnaires on familiar topics.
+
+Understand simple descriptions of people's physical appearance.
+
+Follow basic instructions on how to play a simple board game, if supported by pictures.
+
+Understand short, simple messages on postcards, emails and social networks.
+
+Get the gist of short, simple narratives, with visual support.
+
+Understand simple safety instructions, with visual support.
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 20 de 18
+
+Follow a simple series of written instructions to carry out a task.
+
+Extract specific information (e.g. Facts and numbers) from simple informational texts related to everyday life (e.g. Posters, leaflets).
+
+Understand simple instructions on everyday equipment (e.g. Cash machines).
+
+Understand the general meaning of short, simple informational material and descriptions if there is visual support.
+
+Identify basic biographical information in short simple texts about other people.
+
+Read a simple text and extract factual details.
+
+Identify key information in short, simple factual texts from the headings and pictures.
+
+Identify basic personal details about someone on website profiles, business cards etc.
+
+Understand short, simple texts about everyday activities.
+
+## LEVEL: A2
+
+## SKILL: SPEAKING
+
+Ask and answer questions about what they do at work and in their free time.
+
+Express basic intentions with simple time markers (e.g. 'Tomorrow').
+
+Talk about furniture and rooms using simple language.
+
+Make simple transactions in shops, post offices and banks.
+
+Initiate and respond to simple statements on very familiar topics.
+
+Describe skills and abilities using simple language.
+
+Describe what someone is wearing using a limited range of expressions.
+
+Talk about hotel accommodation using simple language.
+
+Make offers using basic fixed expressions.
+
+Show understanding using a limited range of fixed expressions.
+
+Describe familiar activities, given visual support.
+
+Ask others if they can do everyday activities using simple language, given a model.
+
+Use simple language to describe people's appearance.
+
+Ask for simple directions from X to Y on foot or by public transport.
+
+Ask someone to repeat a specific point or idea.
+
+Make requests related to immediate needs using basic fixed expressions.
+
+Ask someone about their hobbies and activities using simple language.
+
+Decline offers using basic fixed expressions.
+
+Check that someone has understood information, using simple language.
+
+Express agreement using simple fixed expressions.
+
+Refuse requests politely, using simple language.
+
+Describe common everyday objects using simple language.
+
+Answer simple questions about their life and experiences.
+
+Say what they like and dislike.
+
+Ask simple questions to find out about a subject.
+
+Make simple references to the past using 'was/were'.
+
+Describe a travel experience with a few very basic stock phrases.
+
+Use brief, everyday expressions to ask for and give personal details.
+
+Answer simple questions in a face-to-face survey.
+
+Give a short description of their home, family and job, given some help with vocabulary.
+
+Ask for repetition and clarification when they don't understand, using basic fixed
+
+| FECHA DE EXPEDICIÓN: 17/05/2024 | FECHA DE ACTUALIZACION: N/A | ELABORADO POR: Centro Académico de Idiomas | APROBADO POR: RES-ISTAE-OCS-2024-SO-07-R004 |
+|-----------------------------------|-------------------------------|----------------------------------------------|-----------------------------------------------|
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+VERSION: 01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 21 de 18
+
+## expressions.
+
+Make simple invitations using basic fixed expressions.
+
+Ask basic questions about colour, size, price etc. When shopping.
+
+Compare quantities in a basic way.
+
+Make excuses using basic fixed expressions.
+
+Exchange simple information on everyday topics, provided the other person speaks slowly and clearly and is prepared to help.
+
+Ask to borrow things using basic fixed expressions.
+
+Describe the position of things in a picture using a range of fixed expressions
+
+Express their likes and dislikes in relation to familiar topics using simple language.
+
+Describe their daily routines in a simple way.
+
+Respond to suggestions to do something using basic fixed expressions.
+
+Start or end a short conversation using basic fixed expressions
+
+Ask for and provide everyday goods and services.
+
+Make simple purchases by stating what is wanted and asking for the price.
+
+Use simple phrases to order a meal.
+
+Introduce themselves on the phone and close a simple call.
+
+Describe their family, living conditions, education and present or most recent job.
+
+Ask for and provide things using simple phrases.
+
+Use a limited range of fixed expressions to describe objects, possessions, or products.
+
+## LEVEL: A2
+
+## SKILL: WRITING
+
+Write simple sentences about what they and other people do.
+
+Write a simple description of a room, house or apartment.
+
+Write simple sentences about someone's work and duties.
+
+Give personal details in written form in a limited way.
+
+Write a standard greeting on a card.
+
+Write a few basic sentences to introduce someone and give basic personal information about them.
+
+Write simple sentences about what they or other people can or can't do.
+
+Use very basic connectors like 'and', 'but', 'so' and 'then'.
+
+Write simple plans and arrangements on a calendar or in a diary.
+
+Write very short, basic directions.
+
+Write very short, simple sentences about their feelings.
+
+Write simple sentences about personal skills.
+
+Write short, basic descriptions of everyday activities, given a model.
+
+Write short descriptive texts (4-6 sentences) on familiar personal topics (e.g. Family,
+
+possessions), given a model.
+
+Write short texts about their likes and dislikes using basic fixed expressions.
+
+Give an example of something in a very simple text using 'like' or 'for example'.
+
+Write basic personal details for a website profile, business card, etc.
+
+Write a simple text (e.g. An invitation to a party) containing key information, given a model.
+
+<!-- image -->
+
+## PROYECTO DEL CENTRO ACADÉMICO DE IDIOMAS (CAI)
+
+ÁREA: Académico
+
+CODIGO: ISTAE-CAI-01
+
+UBICACIÓN: San Lorenzo
+
+N° PAGINAS: 22 de 18
+
+## DISPOSICIÓN GENERAL
+
+PRIMERA. - El estudiante podrá solicitar la legalización de su récord académico CAI a través de la secretaría para cumplir con uno de los requisitos de titulación.
+
+SEGUNDA. - Los casos de dudas sobre la interpretación y aplicación del presente Reglamento serán conocidos y resueltos por la Coordinación del Centro de Idiomas y en caso de apelación de la parte interesada, pasará al análisis y resolución del OCS.
+
+## DISPOSICIÓN TRANSITORIA
+
+PRIMERA: Los docentes que forme parte del CAI deberán contar con certificación internacional de una segunda lengua equivalente al nivel B2 o superior vigente, para lo cual la planta docente del Centro de Idiomas que no cumplan con dicho requisito, se le concederá el plazo máximo de 1 año para obtener y presentar el certificado correspondiente, así como el nivel de formación de maestría o posgrado.
+
+SEGUNDA: Gestionar con el Centro de Formación Integral y Servicios Especializados la obtención de la certificación Nacional y/o internacional para el CAI en el plazo de 1 año.
+
+## DISPOSICIÓN FINAL
+
+ÚNICA. - El presente Reglamento entrará en vigencia a partir de su aprobación por el Órgano Colegiado Superior del Instituto Superior Alberto Enríquez.
+
+Dado en la ciudad de San Lorenzo, provincia de Esmeraldas., a los diez (10) días del mes de mayo de 2024.

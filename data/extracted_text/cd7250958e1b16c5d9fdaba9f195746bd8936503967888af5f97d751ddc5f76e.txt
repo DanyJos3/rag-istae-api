@@ -1,0 +1,844 @@
+<!-- image -->
+
+## ACUERDO Nro. SENESCYT- 2023- 028
+
+## ANDREA ALEJANDRA MONTALVO CHEDRAUI SECRETARIA DE EDUCACIÓN SUPERIOR, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+## CONSIDERANDO:
+
+Que, en el artículo 154 numeral 1 de la Constitución de la República del Ecuador se determina que a las ministras y ministros de Estado además de las atribuciones establecidas en la Ley, les corresponde: "Ejercer la rectoría de las políticas públicas del área a su cargo y expedir los acuerdos y resoluciones administrativas que requiera su gestión."
+
+- Que, el artículo 226 de la Constitución de la República del Ecuador prescribe: "Las instituciones del Estado, sus organismos, dependencias, las servidoras o servidores públicos y las personas que actúen en virtud de una potestad estatal ejercerán solamente las competencias y facultades que les sean atribuidas en la Constitución y la ley. Tendrán el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los derechos reconocidos en la Constitución.";
+- Que, el artículo 227 de la Constitución de la República del Ecuador, establece: "La administración pública constituye un servicio a la colectividad que se rige por los principios de eficacia, eficiencia, calidad, jerarquía, desconcentración, descentralización, coordinación, participación, planificación, transparencia y evaluación."
+- Que, el artículo 280 de la Constitución de la República del Ecuador, manifiesta: "El Plan Nacional de Desarrollo es el instrumento al que se sujetarán las políticas, programas y proyectos públicos; la programación y ejecución del presupuesto del Estado; y la inversión y la asignación de los recursos públicos (…)."
+- Que, el artículo 297 de la Constitución de la República del Ecuador, indica: "Todo programa financiado con recursos públicos tendrá objetivos, metas y un plazo predeterminado para ser evaluado, en el marco de lo establecido en el Plan Nacional de Desarrollo. // Las instituciones y entidades que reciban o transfieran bienes o recursos públicos se someterán a las normas que las regulan y a los principios y procedimientos de transparencia, rendición de cuentas y control público."
+- Que, el artículo 385 de la Constitución de la República del Ecuador, menciona: "El sistema nacional de ciencia, tecnología, innovación y saberes ancestrales, en el marco del respeto al ambiente, la naturaleza, la vida, las culturas y la soberanía, tendrá como finalidad: // 1. Generar, adaptar y difundir conocimientos científicos y tecnológicos. // 2. Recuperar, fortalecer y potenciar los saberes ancestrales. //3. Desarrollar tecnologías e innovaciones que impulsen la producción nacional, eleven la eficiencia y productividad, mejoren la calidad de vida y contribuyan a la realización del buen vivir."
+
+<!-- image -->
+
+<!-- image -->
+
+Que, el artículo 386 de la Constitución de la República del Ecuador, señala que el Sistema de Ciencia, Tecnología e Innovación comprende:"(…)programas, políticas, recursos, acciones, e incorporará a instituciones del Estado, universidades y escuelas politécnicas, institutos de investigación públicos y particulares, empresas públicas y privadas, organismos no gubernamentales y personas naturales o jurídicas, en tanto realizan actividades de investigación, desarrollo tecnológico, innovación y aquellas ligadas a los saberes ancestrales."
+
+Que, los numerales 2 y 4 del artículo 387 de la Constitución de la República del Ecuador, establecen como responsabilidades del Estado: "2. Promover la generación y producción de conocimiento, fomentar la investigación científica y tecnológica, y potenciar los saberes ancestrales, para así contribuir a la realización del buen vivir, al Sumak Kawsay"; y, "4. Garantizar la libertad de creación e investigación en el marco del respeto a la ética, la naturaleza, el ambiente, y el rescate de los conocimientos ancestrales."
+
+Que, el artículo 388 de la Constitución de la República del Ecuador, prescribe: "El Estado destinará los recursos necesarios para la investigación científica, el desarrollo tecnológico, la innovación, la formación científica, la recuperación y desarrollo de saberes ancestrales y la difusión del conocimiento. Un porcentaje de estos recursos se destinará a financiar proyectos mediante fondos concursables. Las organizaciones que reciban fondos públicos estarán sujetas a la rendición de cuentas y al control estatal respectivo."
+
+Que, el primer numeral del artículo 395 de la Constitución de la República del Ecuador, reconoce entre los principios ambientales, el siguiente: "1. El Estado garantizará un modelo sustentable de desarrollo, ambientalmente equilibrado y respetuoso de la diversidad cultural, que conserve la biodiversidad y la capacidad de regeneración natural de los ecosistemas, y asegure la satisfacción de las necesidades de las generaciones presentes y futuras."
+
+- Que, los numerales 1 y 8 del artículo 4 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, publicado en el Registro Oficial Suplemento Nro. 899 de 09 de diciembre de 2016, establecen los siguientes principios: "1. El conocimiento constituye un bien de interés público, su acceso será libre y no tendrá más restricciones que las establecidas en este Código, la Constitución, los tratados internacionales y la Ley y, su distribución se realizará de manera justa, equitativa y democrática;(…)"; y, "8. La generación, transmisión, gestión, uso y aprovechamiento de los conocimientos, la tecnología, la innovación y los conocimientos tradicionales deberán primordialmente promover la cohesión e inclusión social de todos los ciudadanos."
+- Que, el artículo 7 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, determina: "La Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, es parte de la Función Ejecutiva, tiene a su cargo la rectoría de la política pública nacional en las materias regladas por este Código, así como la coordinación entre el sector público, el sector privado, popular y solidario, las instituciones del Sistema de Educación Superior y los demás sistemas, organismos y entidades que integran la economía social de los conocimientos, la creatividad y la innovación (…)."
+
+<!-- image -->
+
+<!-- image -->
+
+Que, en el artículo 8 del citado Código se determina lo siguiente: "La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, tiene las siguientes atribuciones y deberes: // 1. Definir, ejecutar y evaluar la política pública nacional del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales para la economía social de los conocimientos, la creatividad y la innovación, especialmente, en lo referente a investigación, innovación, transferencia, monitoreo, difusión del conocimiento, desarrollo tecnológico, propiedad intelectual, conocimientos tradicionales; […] // 3. Dictar las normas, manuales, instructivos, directrices y otros instrumentos de regulación que serán de cumplimiento obligatorio para todos los actores del Sistema; // 4. Dictar la normativa para el registro, acreditación y categorización, según el caso, de los actores que realicen investigación responsable e innovación social de acuerdo a los siguientes estándares y criterios, entre otros: calidad, seguridad, producción científica, tecnología abierta, infraestructura, gestión del talento humano y transferencia social de los resultados de los procesos que ejecuten; // 5. Emitir la normativa para la acreditación y monitoreo en materia de incentivos para el fomento de las actividades vinculadas a la economía social de los conocimientos, la creatividad y la innovación: […] // 10. Dictar la normativa para la creación, acreditación, funcionamiento y control de los espacios del conocimiento (…)".
+
+Que, el artículo 41 del Código ibídem, menciona, respecto a la libertad de investigación, lo siguiente: "Se garantiza la libertad de investigación en el marco del respeto a la ética, la naturaleza, el ambiente y el rescate, aprovechamiento y potenciación de los conocimientos tradicionales. La política pública, los programas, los proyectos y las acciones que tome el Estado en el marco de este Código no afectarán la libertad de investigación, sin perjuicio de la regulación o limitaciones que por motivos de seguridad, de salud o de ética determinen disposiciones del ordenamiento jurídico. // En el ejercicio de la investigación, los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, mantendrán relaciones colaborativas y corresponsables. Sus actividades se regirán por los principios de solidaridad, equidad, responsabilidad social, transparencia, veracidad, objetividad y calidad."
+
+Que, el artículo 42 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, establece que la investigación responsable comprende: "(…) los procesos investigativos encaminados a obtener resultados orientados al incremento de la productividad, la diversificación productiva, la satisfacción de necesidades o al efectivo ejercicio de los derechos de las personas, las comunidades, los pueblos, las nacionalidades y de la naturaleza."
+
+Que, el artículo 43 del referido Código determina que la investigación responsable que ejercen los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales deberá sujetarse a los siguientes parámetros: "1. Las investigaciones, en todas sus etapas, deberán respetar los derechos de las personas, las comunidades, los pueblos, las nacionalidades y de la naturaleza; // 2. En todo proceso investigativo se garantizará la integridad y dignidad de las personas, principalmente cuando sean parte de algún tipo de experimentación; // 3. Todos los actores involucrados en una investigación en la que se llegue a determinar la vulneración de algún derecho serán corresponsables por dicha afectación en el grado de su participación; y, // 4. Las investigaciones se someterán a las regulaciones establecidas en este Código."
+
+<!-- image -->
+
+<!-- image -->
+
+Que, el artículo 44 del Código ibídem, señala que: "Toda persona natural, jurídica u otra forma asociativa, pública, privada o mixta, que realice actividades de investigación y desarrollo tecnológico, o las dos actividades conjuntamente, podrán registrarse ante la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, de conformidad con el reglamento que se dicte para el efecto. // La Secretaría de Educación Superior, Ciencia, Tecnología e Innovación administrará este registro acorde a los principios y reglas establecidas en el Título del Sistema Nacional de Información de la Ciencia, Tecnología, Innovación, y Conocimientos Tradicionales previstos en este Código. El acto de registro únicamente generará los beneficios contemplados en este Código."
+
+Que, en el artículo 46 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, establece: "Las entidades y los laboratorios de investigación científica deberán acreditarse ante la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, para acceder a los beneficios e incentivos contemplados en el presente Código, acorde al reglamento que dicha institución emita para el efecto (…)."
+
+Que, el artículo 48 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, indica que: "La acreditación es un proceso de validación realizado por la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación para certificar la calidad de investigador científico, nacional o extranjero, que ejecute sus actividades en el Ecuador, sobre la base del cumplimiento de requisitos y de una evaluación rigurosa de estándares y criterios de calidad de nivel internacional. La certificación tendrá una duración de cinco años y será renovable por iguales periodos, previo el cumplimiento de las formalidades correspondientes (…)."
+
+Que, el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, determina: "Art. 60.- Fondos destinados a proyectos de investigación.- Es "la asignación de financiamiento no reembolsable asignado a actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, sean públicos, privados, comunitarios o mixtos, que realicen actividades de investigación para la ejecución de programas y proyectos orientados al efectivo ejercicio de los derechos de las personas, las comunidades, los pueblos, las nacionalidades y de la naturaleza (…)."
+
+- Que, el artículo 61 del cuerpo legal ibídem, señala que: "La Secretaría de Educación Superior, Ciencia, Tecnología e Innovación definirá periódicamente y de manera participativa áreas y líneas de investigación, acorde con los objetivos del Plan Nacional de Desarrollo, Plan Nacional de la Economía Social de los Conocimientos, Creatividad, Innovación y Saberes Ancestrales, los fines del Sistema de Educación Superior y las necesidades sociales y del sistema productivo. Dichas líneas serán de obligatorio cumplimiento para los programas y proyectos de investigación financiados por la entidad rectora (…)."
+
+Que, el artículo 64 del aludido Código Orgánico manifiesta que: "Salvo disposición en contrario establecida en los respectivos procedimientos, los bienes materiales, muebles e inmuebles, que hayan sido adquiridos o producidos con fondos públicos serán de propiedad del actor o actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales que hayan ejecutado el programa o proyecto financiado (…)."
+
+<!-- image -->
+
+<!-- image -->
+
+Que, el artículo 81 de la normativa citada establece que la transferencia de tecnología: "Comprende las actividades para transferir conocimientos, técnicas o procesos tecnológicos que permitan la elaboración de productos, procesos o servicios. La transferencia tecnológica comprende acuerdos contractuales tales como, la prueba de concepto, la validación tecnológica, la transferencia de derechos de propiedad intelectual, concesión de licencias de propiedad intelectual, contratos de saber hacer, capacitación, contratación de mano de obra nacional, entre otros (…)."
+
+Que, el artículo 598 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, dispone: "El Estado ecuatoriano incentivará financiera, tributaria y administrativamente a los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, a fin de fomentar las actividades dirigidas al desarrollo de la producción de los conocimientos, la creatividad y la innovación social de una manera democrática, colaborativa y solidaria. // El Estado ecuatoriano propiciará la interacción entre la academia y los sectores público, privado, mixto, popular y solidario, cooperativista, asociativo y comunitario, con el fin de crear un ecosistema donde se genere la investigación responsable, el desarrollo tecnológico, la innovación social y la creatividad, propiciando el uso efectivo de recursos, tanto humanos como financieros."
+
+Que, el artículo 600 del citado Código señala que: "Los incentivos son mecanismos o instrumentos de motivación orientados a generar cambios en el comportamiento de los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales para el cumplimiento de sus fines. En el marco de este Código, los incentivos se clasificarán en: financieros, administrativos y tributarios."
+
+Que, el artículo 601 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación manifiesta que: "Podrán beneficiarse de los incentivos financieros, tributarios o administrativos previstos en este Código o en otras normas relacionadas, los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales que se encuentren, según el caso, debidamente acreditados o registrados por las autoridades competentes, incluyendo las instituciones de educación superior, en los casos que corresponda."
+
+Que, el artículo 614 de la normativa ibídem establece que: "La Secretaría de Educación Superior, Ciencia, Tecnología e Innovación y otras instituciones públicas competentes crearán y gestionarán programas o proyectos de financiamiento, destinados a personas naturales o jurídicas públicas o privadas, para la ejecución de proyectos de investigación responsable y desarrollo tecnológico, de conformidad con las necesidades y planificación nacional. Estos fondos no son de carácter reembolsable (...)."
+
+Que, el artículo 182 de la Ley Orgánica de Educación Superior, publicada en el Suplemento del Registro Oficial Nro. 298 de 12 de octubre de 2010, señala que: "La Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, es el órgano que tiene por objeto ejercer la rectoría de la política pública de educación superior y coordinar acciones entre la Función Ejecutiva y las instituciones del Sistema de Educación Superior (…)."
+
+<!-- image -->
+
+<!-- image -->
+
+Que, en los literales b) y g) del artículo 183 de la Ley Orgánica de Educación Superior, se establecen como funciones de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, las siguientes: "b) Ejercer la rectoría de las políticas públicas en el ámbito de su competencia."; y, "g) Establecer desde el gobierno nacional, políticas de investigación científica y tecnológica de acuerdo con las necesidades del desarrollo del país y crear los incentivos para que las instituciones de educación superior puedan desarrollarlas, sin menoscabo de sus políticas internas."
+
+Que, mediante Decreto Ejecutivo Nro. 474 de fecha 05 de julio de 2022, el señor Presidente Constitucional de la República del Ecuador, Guillermo Lasso Mendoza, designó a Andrea Alejandra Montalvo Chedraui como Secretaria de Educación Superior, Ciencia, Tecnología e Innovación.
+
+Que, mediante memorando Nro. SENESCYT-SGCT-SIITT-2023-0155-MI de 30 de marzo de 2023, la Subsecretaría de Investigación, Innovación y Transferencia de Tecnología solicitó a la Subsecretaría General de Educación Superior, Ciencia, Tecnología e Innovación la validación de la propuesta de Reglamento de Registro y Acreditación de Actores de Investigación e Incentivos Financieros y Administrativos a la Investigación, Desarrollo Tecnológico y Transferencia de Tecnología, para lo cual adjunto el informe de pertinencia correspondiente. Ante lo cual, la Subsecretaría General de Educación Superior, Ciencia, Tecnología e Innovación mediante sumilla inserta de 06 de abril de 2023, en el memorando de la referencia en el Sistema de Gestión Documental Quipux, aprobó la propuesta.
+
+Que, mediante memorando Nro. SENESCYT-SGCT-SIITT-2023-0179-MI de 10 de abril de 2023, la Subsecretaría de Investigación, Innovación y Transferencia de Tecnología solicitó a la Secretaria de Educación Superior, Ciencia, Tecnología e Innovación la autorización para la expedición del Reglamento de Registro y Acreditación de Actores de Investigación e Incentivos Financieros y Administrativos a la Investigación, Desarrollo Tecnológico y Transferencia de Tecnología. Particular que, mediante sumilla inserta de 10 de abril de 2023, en el memorando de la referencia en el Sistema de Gestión Documental Quipux, fue autorizado.
+
+En ejercicio de las facultades que le confiere el numeral 1 del artículo 154 de la Constitución de la República del Ecuador y de las atribuciones establecidas en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación.
+
+## ACUERDA:
+
+## EXPEDIR EL REGLAMENTO DE REGISTRO Y ACREDITACIÓN DE ACTORES DE INVESTIGACIÓN E INCENTIVOS FINANCIEROS Y ADMINISTRATIVOS A LA INVESTIGACIÓN, DESARROLLO TECNOLÓGICO Y TRANSFERENCIA DE TECNOLOGÍA
+
+## TÍTULO I OBJETO, ÁMBITO Y PRINCIPIOS
+
+Artículo 1.- Objeto.- El presente Reglamento tiene como objeto regular el registro y acreditación de actores de investigación, así como el acceso a los incentivos financieros y administrativos a la investigación, desarrollo tecnológico y a la transferencia de tecnología, previstos en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e
+
+<!-- image -->
+
+<!-- image -->
+
+Innovación, de las personas naturales o jurídicas, que formen parte del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, y que se encuentren registradas o acreditadas ante la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+Artículo 2.- Ámbito de aplicación. - Las disposiciones contenidas en el presente Reglamento serán aplicables a las personas naturales y jurídicas, que formen parte del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, que realicen actividades de investigación y/o desarrollo tecnológico o de transferencia de tecnología, y que se encuentren registradas o acreditadas ante la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+Artículo 3.- Principios. - En la aplicación y ejecución del presente Reglamento se observarán los siguientes principios: transparencia, corresponsabilidad, excelencia, igualdad, eficiencia, progresividad, pertinencia, ética en la investigación y rendición de cuentas.
+
+Así mismo, se deberá respetar la integridad, dignidad y los derechos de las personas, comunidades, pueblos, nacionalidades y de la naturaleza.
+
+Artículo 4.- Definiciones. - Para efectos de aplicación e interpretación del presente instrumento, se considerarán las siguientes definiciones:
+
+- a) Área de Investigación. - Un área de investigación está compuesta por varias líneas de investigación que abarcan un conjunto de problemas científico- técnicos relacionados, de interés nacional, regional e institucional, y que constituye una parte de la realidad que puede ser objeto general de estudio a través del método científico.
+- b) Desarrollo tecnológico. - Uso sistemático del conocimiento y la investigación, dirigidos hacia la producción de materiales, dispositivos, sistemas o métodos incluyendo el diseño, desarrollo, mejoras de prototipos, procesos, productos, servicios o modelos organizativos, que en algunos casos podría comprender actividades de transferencia de tecnología.
+- c) Entidades de investigación científica. - Son aquellas personas jurídicas públicas, privadas y/o mixtas, incluyendo a las instituciones de educación superior, acreditadas según las normas emitidas por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, que dedican sus actividades a la investigación científica, al desarrollo tecnológico, o que presten servicios relacionados.
+- d) Investigación. - Es un proceso que, mediante la aplicación del método científico, procura obtener información relevante o fidedigna, para entender, verificar, corregir o aplicar el conocimiento.
+- e) Investigador. - Profesional que trabaja en la concepción o creación de nuevos conocimientos, productos, procesos, métodos y sistemas; y, en la gestión de estos.
+- f) Línea de Investigación. - Eje temático mono e interdisciplinario, que incluye un conjunto de objetivos, políticas y metodologías científico-técnicas encaminado a la solución de uno o varios problemas identificados en las áreas y que permite generar nuevo conocimiento.
+- g) Operador. - Persona jurídica nacional o internacional de carácter público, privado y/o mixta, especializada en la gestión de capitales de riesgo, propios o de terceros, así como en la inversión en proyectos de innovación y/o transferencia de tecnología. Además, realiza el acompañamiento técnico de proyectos y evalúa los resultados obtenidos.
+- h) Proyecto de Investigación Científica y/o Desarrollo Tecnológico. - Es un plan definido y concreto, que comprende el trabajo creativo llevado a cabo de forma
+
+<!-- image -->
+
+<!-- image -->
+
+- sistemática para incrementar el volumen de conocimientos, incluido el conocimiento del ser humano, la cultura y la sociedad, y el uso de esos conocimientos para crear nuevas aplicaciones.
+- i) Proyecto de Transferencia Tecnológica. - Es un conjunto organizado y sistemático de actividades e hitos ejecutados dentro de un plazo y con recursos limitados, cuyo propósito es transferir las tecnologías generadas en los proyectos de I+D nacionales a agentes de los sectores públicos, productivos y sociales.
+- j) Red de conocimiento. - Es el producto de las relaciones entre actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales afines a una temática que logran alcanzar objetivos concretos mediante el trabajo colaborativo. Además, propenden una integración multidisciplinaria e interinstitucional.
+- k) Red académica. - Es un tipo de red de conocimiento afín a la formación técnica superior o tecnológica superior y/o sus equivalentes; formación de grado y/o posgrado; la investigación; la vinculación con la sociedad; la ejecución de carreras y programas; la educación continua; la innovación tecnológica; el diseño e implementación de programas y desarrollos; y, la movilidad académica de estudiantes y del personal académico, orientadas a favorecer la calidad de la educación superior.
+- l) Red cultural. - Es un tipo de red de conocimiento cuyo objetivo principal es fomentar el fortalecimiento de las diversidades culturales, los conocimientos tradicionales, y la promoción de espacios de concertación y acción intersectorial.
+- m) Red de investigación. - Es un tipo de red de conocimiento cuyo objetivo principal es obtener resultados orientados al incremento de la productividad, la diversificación productiva, la satisfacción de necesidades o al efectivo ejercicio de los derechos de las personas, las comunidades, los pueblos, las nacionalidades y de la naturaleza.
+- n) Red de innovación. - Es una red de conocimiento orientada al aprovechamiento efectivo de los resultados de investigación, ideas creativas o tecnológicas, con el fin de crear y desarrollar emprendimientos innovadores, transferencia de tecnología o sus equivalentes.
+- o) SENESCYT. - Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+- p) Transferencia de tecnología. - Comprende las actividades para transferir conocimientos, técnicas o procesos tecnológicos que permitan la elaboración de productos, procesos o servicios. La transferencia tecnológica comprende acuerdos contractuales tales como, la prueba de concepto, la validación tecnológica, la transferencia de derechos de propiedad intelectual, concesión de licencias de propiedad intelectual, contratos de saber hacer, capacitación, contratación de mano de obra nacional, entre otros.
+
+## TÍTULO II REGISTRO Y ACREDITACIÓN DE LOS ACTORES RELACIONADOS A LA INVESTIGACIÓN
+
+## CAPÍTULO I DEL REGISTRO DE LOS ACTORES RELACIONADOS A LA INVESTIGACIÓN
+
+Artículo 5.- Registro de los actores relacionados a la investigación. - Es la inscripción optativa ante la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales de personas nacionales o extranjeras, naturales, jurídicas u otra forma
+
+<!-- image -->
+
+<!-- image -->
+
+asociativa pública, privada o mixta; que realicen actividades de investigación y/o desarrollo tecnológico.
+
+El registro de los actores relacionados a la investigación tendrá vigencia indefinida.
+
+## Sección I Del registro de personas naturales
+
+Artículo 6.- Registro de las personas naturales. - Las personas nacionales o extranjeras naturales relacionadas con actividades de investigación y/o desarrollo tecnológico, podrán registrarse ante la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, para formar parte del Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales.
+
+Artículo 7.- Requisitos para el registro.- Las personas nacionales o extranjeras naturales relacionadas con actividades de investigación y/o desarrollo tecnológico, interesadas en formar parte del Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales, deberán tener experiencia de al menos un (1) año en actividades de investigación y desarrollo tecnológico (I+D); la cual debe ser avalada mediante la presentación de certificados de la o las instituciones responsables del proceso de I+D.
+
+También se considerarán como aval, una obra de relevancia y/o artículo indexado, una invención protegida bajo el régimen de propiedad intelectual, según lo dispuesto en el presente reglamento.
+
+Los hombres y mujeres que hayan sido reconocidos como legítimos poseedores de conocimientos tradicionales por sus propias comunas, comunidades, pueblos o nacionalidades podrán registrarse ante la SENESCYT, para formar parte del Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales, para lo cual deberán presentar un documento de su máximo representante que avale su reconocimiento. El formato de dicho documento será establecido por esta Cartera de Estado.
+
+Adicionalmente, las personas naturales extranjeras, que no residan en el país deberán contar con una certificación de realizar actividades de investigación y/o desarrollo tecnológico, conferida por una entidad de investigación nacional acreditada.
+
+Artículo 8.- Procedimiento para el registro. - Las personas naturales nacionales o extranjeras, relacionadas con actividades de investigación y/o desarrollo tecnológico, interesadas en formar parte del Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales, deberán cumplir con el siguiente procedimiento:
+
+1. Creación de cuenta. - Deberán crear una cuenta en la plataforma desarrollada para el efecto por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales e ingresar sus datos personales y los documentos que avalen el cumplimiento del requisito establecido en el artículo 7 del presente Reglamento; adicionalmente podrán presentar información relacionada a proyectos, méritos académicos y profesionales, historia laboral, capacitaciones, publicaciones y aporte en conocimientos tradicionales o saberes ancestrales.
+2. Solicitud. - Una vez creada la cuenta, se deberá generar una solicitud de registro en la plataforma correspondiente; adicionalmente, se deberá declarar la veracidad de toda la
+
+<!-- image -->
+
+<!-- image -->
+
+información ingresada y autorizar su publicación en la herramienta de búsqueda de investigadores.
+
+3. Verificación de requisitos. - Recibida la solicitud de registro, la instancia encargada de la investigación verificará y validará la información ingresada en el término de diez (10) días.
+
+En caso de que el/la solicitante cumpla con todos los requisitos, se aprobará la solicitud de incorporación de sus datos en el Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales y se le asignará un número único de registro.
+
+En caso de que de que el/la solicitante no cumpla con los requisitos antes señalados, y/o no declare la veracidad de toda la información ingresada, y/o no autorice su publicación en la herramienta de búsqueda de investigadores; se negará la solicitud de registro y se realizará la notificación respectiva. Dicho acto podrá ser impugnado de conformidad a la normativa vigente.
+
+En cualquier momento las personas naturales podrán solicitar nuevamente el registro cumpliendo el requisito establecido en el artículo 7 del presente Reglamento.
+
+Artículo 9.- Actualización de la información del registro. - Las personas naturales nacionales o extranjeras registradas deberán actualizar la información ingresada en la respectiva plataforma cada cuatro (4) años.
+
+Artículo 10.- Pérdida del registro. - Las personas naturales nacionales o extranjeras relacionadas con actividades de investigación y/o desarrollo tecnológico perderán el registro en el Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales, por las siguientes causales:
+
+- a) Solicitud por escrito de eliminación del registro por parte del titular de este; y,
+- b) Por comprobarse que la información presentada es falsa o alterada.
+
+## Sección II Del registro de redes de conocimiento
+
+Artículo 11.- Registro de redes de conocimiento. - Las personas nacionales o extranjeras, naturales, jurídicas u otra forma asociativa de naturaleza pública, privada o mixta, que realicen actividades de investigación y/o desarrollo tecnológico podrán registrarse ante la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales como redes de conocimiento para formar parte de Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales.
+
+Artículo 12.- Requisitos para el registro de redes de conocimiento. - Las redes de conocimiento podrán registrarse en la plataforma creada para el efecto cumpliendo con los siguientes requisitos:
+
+- a) Documento que evidencie la conformación de la red de conocimiento (acta de conformación), el cual deberá estar suscrito por todos los miembros de la red y deberá contener al menos la siguiente información: nombre de la red; objetivo; misión y visión de la red, que deberá responder a un tipo de red como las detalladas a continuación: académica, cultural, investigación y/o innovación; nombre, cédula e institución de vinculación de los miembros de
+
+<!-- image -->
+
+<!-- image -->
+
+la red; nombre de los miembros que conforman la directiva de la red, los mismos que deberán ser elegidos por votación; y, tiempo de vigencia la red.
+
+- b) Plan de trabajo (al menos 1 año) alineado al objetivo de la red en el que conste al menos: actividades planificadas enfocadas en la generación de conocimiento y personas responsables de su ejecución.
+
+Artículo 13.- Conformación de las redes de conocimiento. - Las redes podrán conformarse entre los siguientes actores:
+
+- a) Gobiernos autónomos descentralizados en el ámbito de sus competencias;
+- b) Instituciones de educación superior, públicas y particulares, nacionales e internacionales;
+- c) Entidades de investigación científica;
+- d) Centros de investigación internacionales;
+- e) Academias de ciencias;
+- f) Personas naturales, jurídicas y otro tipo de asociaciones relacionadas con actividades de la economía social de los conocimientos, la creatividad y la innovación en todos los sectores de la economía incluyendo al sector socio productivo y al sector de la economía popular y solidaria;
+- g) Comunidades, pueblos, y nacionalidades indígenas, a través de sus aportes en el ámbito de los saberes; e
+- h) Instituciones públicas, empresas públicas y otras entidades relacionadas con la investigación responsable, el fortalecimiento del talento humano, la gestión del conocimiento, la ciencia, la tecnología, la innovación social, los conocimientos tradicionales y la creatividad, tanto a nivel central como desconcentrado.
+
+Artículo 14.- Procedimiento para el registro de redes de conocimiento. - Las personas nacionales o extranjeras, naturales, jurídicas u otra forma asociativa sean públicas, privadas o mixtas, que realicen actividades de investigación y/o desarrollo tecnológico que conformen una red de conocimiento, para su registro deberán acogerse al siguiente proceso:
+
+1. Creación de cuenta. - Se deberá crear una cuenta de administrador en la plataforma creada para el efecto, para lo cual, el representante de la Red deberá ingresar sus datos junto con el requisito establecido en el literal a) del artículo referente a los requisitos para el registro de redes de conocimiento.
+2. Ingreso de información. - Una vez creada la cuenta, se deberá completar la información solicitada en la plataforma e ingresar los documentos que avalen el cumplimiento del requisito establecido en el literal b) del artículo referente a los requisitos para el registro de redes de conocimiento.
+3. Generación de solicitud de registro. - Ingresada la información determinada en el numeral anterior, se deberá declarar la veracidad de esta y autorizar su publicación en el Sistema Nacional de Información, Ciencia, Tecnología, Innovación y Conocimientos Tradicionales, a fin de que el usuario pueda generar la solicitud de registro.
+4. Verificación de requisitos. - Recibida la solicitud de registro, la instancia encargada de la investigación de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales validará la información y se notificará el resultado en el término de cinco (5) días.
+
+En caso de que el solicitante cumpla con todos los requisitos, se aprobará la solicitud de registro como red de conocimiento y se asignará un número único de registro.
+
+<!-- image -->
+
+<!-- image -->
+
+En caso de que el solicitante no cumpla con los requisitos, y/o no declare la veracidad de toda la información ingresada, y/o no autorice su publicación en el Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales se negará la solicitud de registro y se notificará al respecto. En este caso, la red podrá solicitar nuevamente el registro, cumpliendo con los requisitos establecidos en el presente Reglamento.
+
+La instancia encargada de la investigación de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales podrá verificar en cualquier momento la veracidad de la información presentada en la plataforma de registro creada para el efecto.
+
+Artículo 15.- Actualización de la información. - Las redes de conocimiento que se encuentren registradas en la plataforma creada para el efecto, deberán actualizar la información ingresada en el formulario de registro cada año. La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales solicitará la actualización de la información, 2 meses antes del cumplimiento de la fecha de actualización.
+
+Las redes registradas que no actualicen la información serán notificadas como inactivos a través de las respectivas plataformas informáticas.
+
+Artículo 16.- Pérdida del registro como redes del conocimiento. - Las redes del conocimiento perderán el registro en el Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales, por las siguientes causales:
+
+- a) Solicitud por escrito de eliminación del registro por parte del representante de la red del conocimiento; y
+- b) Por comprobarse que la información presentada es falsa o alterada
+
+## CAPÍTULO II DE LA ACREDITACIÓN DE LOS ACTORES RELACIONADOS A LA INVESTIGACIÓN
+
+## Sección I
+
+De la acreditación de investigadores
+
+Artículo 17.- Acreditación de investigadores. - La acreditación es un proceso de validación realizado por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, para certificar la calidad del investigador científico, nacional o extranjero, que ejecute sus actividades en el Ecuador, sobre la base del cumplimiento de requisitos y de una evaluación rigurosa de estándares y criterios de calidad.
+
+Los/as investigadores/as científicos que se encuentren registrados en el Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales deberán acreditarse ante la entidad rectora del Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Saberes Ancestrales, para el ingreso a la carrera del investigador en las instituciones públicas que no formen parte del sistema de educación superior, así como para acceder a los beneficios, incentivos previstos en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación.
+
+<!-- image -->
+
+<!-- image -->
+
+Artículo 18.- Requisitos para la acreditación. - Los/las investigadores/as científicos/as que se encuentren registrados en el Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales, y deseen acreditarse, deberán cumplir con los siguientes requisitos:
+
+- a) Contar con al menos un título de maestría o PhD; para los profesionales médicos será válido el título de especialidad médica. En todos los casos, los títulos deberán estar registrados en el Sistema Nacional de Información de la Educación Superior;
+- b) Ser autor o coautor de al menos una obra de relevancia, un artículo indexado o haber realizado una invención protegida bajo el régimen de propiedad industrial, misma que constará en el respectivo registro ante la entidad competente en materia de propiedad intelectual en el Ecuador o en el extranjero. Se considerarán como invenciones; la patente de invención o de modelo de utilidad y el circuito integrado.
+- c) Tener experiencia de al menos un (1) año en participación en procesos de investigación y desarrollo tecnológico, la cual debe ser avalada mediante un documento que especifique el período de inicio y fin de la participación.
+
+Adicionalmente, las personas naturales extranjeras que no residan en el Ecuador, que deseen realizar actividades de investigación y/o desarrollo tecnológico en el Ecuador, deberán presentar el requerimiento de personal extranjero, a través de una contraparte nacional, registrada y/o acreditada, que realice actividades de investigación y/o desarrollo tecnológico. Dicho requerimiento deberá ser efectuado por el/la representante legal de la entidad.
+
+Artículo 19.- Obras de relevancia y artículos indexados. - Se considerarán obras de relevancia y artículos indexados:
+
+## 1. Obras de relevancias:
+
+- 1.1. Libros y capítulos de libros: Obras de autoría individual o colectiva de interés general o divulgativo que cumplan con los siguientes criterios:
+- a) Revisión por al menos de dos pares externos o por un Comité Editorial; y,
+- b) Tener ISBN (International Standard Book Number).
+- 1.2. Contribuciones presentadas en congresos, conferencias, seminarios u otros tipos de reuniones científicas: Se considerarán como tal las actas de memorias de congreso y los proceedings o ponencias que cumplan con los siguientes criterios:
+- a) Tener el ISBN o ISSN en su compilación; y,
+- b) Revisión por pares o tener un comité científico u organizador.
+
+No se considerarán los resúmenes o abstracts.
+
+2. Artículos indexados: Se considerarán como tal a las publicaciones que se encuentren en revistas recogidas en las siguientes bases de datos internacionales: SciELO, Scopus y Web of Science.
+
+Además, se considerarán publicaciones de revistas recogidas en bases de datos internacionales o regionales, que garanticen el cumplimiento de al menos los siguientes criterios:
+
+- a) ISSN (International Standard Serial Number).
+
+<!-- image -->
+
+<!-- image -->
+
+- b) Sistema de arbitraje.
+- c) Cumplimiento de la periodicidad.
+- d) Comité editorial conformado en su mayoría por miembros externos; y
+- e) Autores externos.
+
+No se considerarán como artículos indexados a las editoriales, adendas, cartas, obituarios, entrevistas, erratas, relatos de caso, notas, informes de reuniones y resúmenes y discursos.
+
+Se aceptarán las publicaciones cuya fecha de publicación sea igual o un año previo a la fecha en la cual la revista fue recogida en las distintas bases de datos.
+
+Artículo 20.- Procedimiento de acreditación. - Los/las investigadores/as científicos/as interesados/as en acreditarse, deberán observar el siguiente procedimiento:
+
+1. Solicitud de acreditación. - El/la investigador/a podrá generar una solicitud de acreditación y presentar los requisitos establecidos en el artículo 18, a través de la cuenta obtenida en el proceso de registro; adicionalmente deberá declarar la veracidad de toda la información ingresada.
+2. Verificación de requisitos. - Recibida la solicitud de acreditación, la instancia encargada de la investigación de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales verificará y validará la información y emitirá una respuesta en el término de diez (10) días.
+
+Artículo 21.- Pérdida de la acreditación. - Sin perjuicio de la aplicación de la Ley Orgánica del Servicio Público, su Reglamento General, y demás normativa aplicable a cada caso, la acreditación se perderá por las siguientes causales:
+
+- a) Solicitud por escrito de eliminación de la acreditación, por parte del titular de esta.
+- b) Por comprobarse que la información presentada es falsa o alterada.
+- c) No sujetarse a los parámetros del ejercicio de la investigación, definidos en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación.
+- d) Infringir las disposiciones de las normas de ética correspondiente.
+
+Artículo 22.- Renovación de la acreditación. - Cada cinco (5) años los/as investigadores/as podrán solicitar a través de su cuenta en la plataforma correspondiente, la renovación de su acreditación, para lo cual deberán evidenciar que han desarrollado actividades de investigación científica en los últimos 5 años.
+
+## Sección II Acreditación de las entidades de investigación científica
+
+Artículo 23.- Acreditación de las entidades de investigación científica. - La acreditación es un proceso de validación realizado por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, respecto a la realización de actividades de investigación científica de estas entidades. Esta validación no se refiere a la certificación de calidad de procesos o servicios; por lo tanto, no substituye la acreditación que se deba realizar ante otras instancias según la normativa que exista para el efecto.
+
+Las entidades de investigación científica que se encuentren acreditadas ante la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, según lo
+
+<!-- image -->
+
+<!-- image -->
+
+establecido en esta normativa y en el instructivo emitido para el efecto, podrán acceder a los beneficios e incentivos previstos en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación y estarán registradas en el Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales.
+
+La mencionada acreditación tendrá una vigencia de tres (3) años y podrá ser renovada de acuerdo con lo establecido en este Reglamento.
+
+Artículo 24.- Requisitos para la acreditación. - Para acreditarse, las entidades de investigación científica deberán cumplir con los siguientes requisitos:
+
+- a) Documento de la delegación o designación del representante legal o la persona responsable de la gestión de investigación de la entidad que será acreditada.
+- b) Documento que avale su constitución legal y justifique que realiza actividades de investigación científica.
+- c) Código institucional de ética de la investigación.
+- d) Experiencia en investigación científica de al menos dos (2) años, la cual deberá ser avalada mediante la presentación de un artículo indexado que cumpla con los criterios establecidos en el artículo 19 del presente reglamento. En el artículo indexado deberá constar la afiliación de la entidad que será acreditada.
+- e) Plan de trabajo de la entidad de al menos un año en el que consten: actividades planificadas enfocadas en la investigación científica y al menos una actividad relacionada a ciencia abierta, divulgación o vinculación con la sociedad.
+
+Artículo 25.- Procedimiento de acreditación. - Las entidades de investigación científica interesadas en acreditarse, deberán cumplir el siguiente procedimiento:
+
+1. Solicitud de acreditación. - La entidad de investigación científica deberá generar una solicitud de acreditación y presentar los requisitos establecidos en el artículo 24 y declarar la veracidad de toda la información ingresada.
+2. Verificación de requisitos. - Recibida la solicitud de acreditación, la instancia encargada de la investigación de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales verificará y validará la información y emitirá una respuesta en el término de quince (15) días.
+
+Artículo 26.- Obligación. - Las entidades acreditadas, tendrán la obligación de proporcionar acceso a la información, documentos y registros que sean necesarios y solicitados por SENESCYT, para el mantenimiento de la acreditación.
+
+Artículo 27.- Perdida de la acreditación. - Sin perjuicio de la aplicación de normativa aplicable a cada caso, la acreditación se perderá por las siguientes causales:
+
+- a) Solicitud por escrito de eliminación de la acreditación, por parte del titular de esta.
+- b) Por comprobarse que la información presentada es falsa o alterada.
+- c) No sujetarse a los parámetros del ejercicio de la investigación, definidos en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación;
+- d) Infringir las normas de ética correspondientes.
+- e) Incumplimiento de las obligaciones como entidad acreditada.
+
+<!-- image -->
+
+<!-- image -->
+
+Artículo 28.- Renovación de la acreditación. - Treinta (30) días previos a la fecha de vencimiento de la acreditación, las entidades de investigación que deseen renovar la acreditación deberán generar una solicitud de renovación de acreditación conforme al procedimiento establecido en el instructivo correspondiente, para lo cual deberán cumplir y presentar los siguientes requisitos:
+
+- a) Evidencias actualizadas de los requisitos vigentes al momento de la renovación.
+- b) Evidencias del cumplimiento del plan de trabajo presentado en la acreditación de la entidad.
+- c) Tener vinculado a los procesos de investigación que realiza la entidad, personal de apoyo técnico, al menos un pasante, becario o tesista.
+- d) Un artículo indexado que cumpla con los criterios establecidos en el artículo 19 del presente reglamento, cuya fecha de publicación deberá ser posterior a la acreditación de la entidad. En el artículo indexado deberá constar la afiliación de la entidad que solicita la renovación.
+
+Artículo 29.- Información de las entidades acreditadas. - La información de las entidades de investigación acreditadas en el Ecuador, formará parte del Sistema Nacional de Información de Ciencia, Tecnología, Innovación y Conocimientos Tradicionales.
+
+## TÍTULO III INCENTIVOS PARA LA INVESTIGACIÓN, DESARROLLO TECNOLÓGICO Y TRANSFERENCIA DE TECNOLOGÌA
+
+## CAPÍTULO I INCENTIVOS FINANCIEROS A LA INVESTIGACIÓN, DESARROLLO TECNOLÒGICO Y TRANSFERENCIA DE TECNOLOGÌA
+
+## Sección I
+
+De los programas o proyectos de fomento para la investigación, desarrollo tecnológico y transferencia de tecnología
+
+Artículo 30.- Programas o proyectos. - Los programas o proyectos de investigación, desarrollo tecnológico y transferencia de tecnología deberán guardar relación explícita y directa con las áreas y líneas de investigación priorizadas por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+Artículo 31.- Financiamiento para la investigación, desarrollo tecnológico y transferencia de tecnología.- La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales y otras instituciones públicas competentes, crearán y otorgarán fondos nacionales y/o extranjeros no reembolsables para el financiamiento de programas o proyectos de investigación, desarrollo tecnológico y de transferencia de tecnología, a los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, que respondan a las áreas y líneas de investigación priorizadas, en correspondencia con la planificación y políticas gubernamentales, sujetándose a la disponibilidad presupuestaria, y de conformidad a la bases de cada convocatoria específica y normativa que se emita para el efecto.
+
+Artículo 32.- Mecanismos. - La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales y otras instituciones públicas competentes, coordinarán el financiamiento con fondos nacionales y/o extranjeros a través de convocatorias para el financiamiento de proyectos de investigación, desarrollo tecnológico y transferencia de tecnología.
+
+<!-- image -->
+
+<!-- image -->
+
+La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales y otras instituciones públicas competentes, podrán financiar proyectos de investigación para comunidades, pueblos y nacionalidades como parte de la política de inclusión y acción afirmativa, así como investigaciones en bio conocimiento que garanticen los derechos de la naturaleza, un ambiente sano y sustentable, en áreas como bio energía, agro ecología, bio fármacos, biosimilares, estudios de bio equivalencia, entre otros.
+
+Para el caso de las convocatorias para el financiamiento de proyectos de transferencia de tecnología, la instancia encargada de la investigación, innovación y transferencia de tecnología de la Secretaria de Educación Superior, Ciencia, Tecnología e Innovación - SENESCYT, podrá incorporar la participación de operadores acreditados según los requisitos establecidos en las bases específicas de cada convocatoria.
+
+Artículo 33.- Convocatoria.- La convocatoria es la invitación difundida públicamente, realizada por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, dirigida a personas naturales y jurídicas que formen parte del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales que realicen actividades de investigación, desarrollo tecnológico y/o transferencia de tecnología y que deseen obtener financiamiento para el desarrollo de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología. Las convocatorias para el financiamiento de proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología estarán a cargo de la instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales y se regirán por las bases específicas emitidas mediante resolución motivada de esta misma instancia. Las bases específicas de cada convocatoria deberán contener al menos la siguiente información:
+
+- a. Definición del programa y objetivos;
+- b. Actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales que pueden acceder al financiamiento;
+- c. Las áreas y líneas de investigación de los proyectos a financiarse;
+- d. Las condiciones y requisitos que deben cumplir los postulantes para participar en el programa;
+- e. Las condiciones para el otorgamiento del financiamiento;
+- f. Montos de financiamiento;
+- g. Demás normativa aplicable; y
+- h. Otras especificaciones requeridas para cada programa según el caso.
+
+Las bases, formularios y requisitos para poder participar en cada convocatoria estarán disponibles en los canales oficiales de difusión de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+Artículo 34.- Convocatorias internacionales. - Este tipo de convocatorias se regirá bajo las condiciones establecidas en las bases específicas de las convocatorias internacionales o los instrumentos internacionales suscritos por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, en concordancia con la normativa vigente.
+
+Artículo 35.- Financiamiento de proyectos para comunidades, pueblos y nacionalidades y bio conocimiento. - La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, establecerá bases específicas para acceder a este
+
+Página 17 de 34
+
+<!-- image -->
+
+<!-- image -->
+
+financiamiento y observará el procedimiento de seguimiento a la ejecución de estos proyectos según lo establecido en el presente reglamento.
+
+Artículo 36.- Atribuciones de la instancia encargada de la investigación, innovación y transferencia de tecnología. - Serán atribuciones de la instancia encargada de la investigación, innovación y transferencia de tecnología, a más de las contempladas en el Estatuto Orgánico de Gestión Organizacional por Procesos de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales en el marco del presente Reglamento, las siguientes:
+
+- a. Elaborar, aprobar y reformar las bases específicas, lineamientos y formatos establecidos para la presentación de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología con base a un informe de pertinencia;
+- b. Verificar el cumplimiento de todos los requisitos exigidos a los postulantes de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología;
+- c. Notificar a los postulantes que no cumplan con los requisitos establecidos en el presente Reglamento y en las bases específicas de cada convocatoria de investigación, desarrollo tecnológico y/o transferencia de tecnología;
+- d. Gestionar con las coordinaciones zonales de la entidad rectora de Ciencia, Tecnología, Innovación y Saberes Ancestrales; y, con otras entidades u organismos, para que las mismas puedan realizar el seguimiento, monitoreo y control de los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología;
+- e. Autorizar los cambios en la planificación que requieran efectuarse durante la ejecución del proyecto de investigación, desarrollo tecnológico y/o transferencia de tecnología; y,
+- f. Garantizar el cabal cumplimiento del proceso de selección de conformidad con las bases de cada convocatoria.
+
+## Sección II
+
+Del proceso de selección de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología
+
+Artículo 37.- Comité Científico. - Grupo científico de apoyo que se conforma como un comité asesor cuya función consiste en velar por la calidad científica de las propuestas de investigación y/o desarrollo tecnológico.
+
+Su objetivo es conocer, gestionar la evaluación, seleccionar y priorizar las propuestas presentadas en el marco de la convocatoria para el financiamiento de proyectos de fomento para la investigación y/o desarrollo tecnológico a través de fondos concursables, dirigida a los actores generadores y gestores del conocimiento del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales del Ecuador.
+
+Artículo 38.- Conformación del Comité Científico. - La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, a través de la instancia encargada de la investigación, innovación y transferencia de tecnología, conformará un Comité Científico por cada una de las áreas a ser financiadas en las convocatorias de fomento a la investigación y desarrollo tecnológico. El Comité Científico evaluará, seleccionará y priorizará los proyectos de fomento para la investigación y desarrollo tecnológico; y estará integrado por al menos:
+
+<!-- image -->
+
+<!-- image -->
+
+- a) Tres investigadores registrados o acreditados de acuerdo con el mecanismo previsto por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales que serán convocados oportunamente por la instancia encargada de la investigación, innovación y transferencia de tecnología según las áreas definidas en las bases específicas de cada convocatoria;
+- b) El/la responsable de la instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales o su delegado/a, quien ejercerá la secretaría del Comité, y actuará con voz, pero sin voto.
+
+Los comités científicos podrán tener una permanencia de al menos un (1) año previa aceptación de los miembros que los conforman.
+
+Artículo 39.- Atribuciones del Comité Científico. - El Comité Científico tendrá las siguientes atribuciones:
+
+- a) Conocer los proyectos de investigación y desarrollo tecnológico en el marco de las convocatorias específicas;
+- b) Evaluar, y de ser el caso, seleccionar a pares externos del registro nacional de investigadores acreditados para la evaluación de los proyectos de acuerdo con los criterios establecidos en las bases de cada convocatoria específica;
+- c) Resolver conflictos, en el caso de existir;
+- d) Seleccionar los proyectos de investigación y/o desarrollo tecnológico susceptibles de ser financiados, de conformidad con las bases específicas de cada convocatoria; y,
+- e) Priorizar, de ser el caso, los proyectos de investigación y/o desarrollo tecnológico susceptibles de ser financiados, de conformidad con las bases específicas de cada convocatoria.
+
+Artículo 40.- Responsabilidades de el/la secretario/a del Comité Científico. - El/la secretario/a del Comité Científico, tendrá las siguientes responsabilidades:
+
+- a) Redactar, elaborar y suscribir las actas de las sesiones del Comité, las cuales serán puestas en consideración de los miembros;
+- b) Establecer y velar por la elaboración, conservación y seguridad de los archivos del Comité;
+- c) Certificar y autenticar documentos emitidos por el Comité y proporcionar copias de estos;
+- d) Mantener un registro físico y digital de las sesiones para constancia y verificación de los miembros del Comité;
+- e) Notificar, a quien corresponda, las resoluciones tomadas en las sesiones del Comité, de lo cual se mantendrá el respectivo registro;
+- f) Realizar el seguimiento y registro de las resoluciones emanadas por el Comité; y,
+- g) Las demás funciones que le fueren asignadas por el Comité.
+
+Artículo 41.- Comité Técnico. - Grupo científico-técnico de apoyo que se conforma como un comité asesor, cuya función consiste en velar por la calidad técnica de las propuestas de transferencia de tecnología.
+
+<!-- image -->
+
+<!-- image -->
+
+Su objetivo es conocer, evaluar, seleccionar y priorizar las propuestas presentadas en el marco de las convocatorias para el financiamiento de proyectos de transferencia de tecnología a través de fondos concursables, dirigida a los actores generadores y gestores del conocimiento del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales del Ecuador.
+
+Artículo 42.- Conformación del Comité Técnico.- La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, a través de la instancia encargada de la investigación, innovación y transferencia de tecnología, conformará un Comité Técnico para cada una de las áreas a ser financiadas en cada convocatoria de transferencia de tecnología, los cuales evaluarán y seleccionarán los proyectos de transferencia de tecnología; cada comité técnico estará integrado por al menos:
+
+- a) Investigadores acreditados de acuerdo con el mecanismo previsto por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales; quienes serán convocados oportunamente por la instancia encargada de la investigación, innovación y transferencia de tecnología, según el número y las áreas definidas en las bases específicas de cada convocatoria;
+- b) Investigadores extranjeros o miembros de organismos internacionales con probada experiencia en las áreas a ser financiadas, invitados por la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, en caso de así requerirse y según la metodología establecida en las bases específicas de cada convocatoria;
+- c) Representantes del sector empresarial, incluyendo a la economía popular y solidaria y según la metodología establecida en las bases específicas de cada convocatoria; y,
+- d) El/la responsable de la instancia encargada de la investigación, innovación y transferencia de tecnología o su delegado/a, quien actuará con voz, pero sin voto y ejercerá la secretaría del Comité.
+
+Artículo 43.- Atribuciones del Comité Técnico. - El Comité Técnico tendrá las siguientes atribuciones:
+
+- a) Conocer los proyectos de transferencia de tecnología en el marco de las convocatorias específicas;
+- b) Evaluar, y de ser el caso, seleccionar a pares externos del registro nacional de investigadores acreditados para la evaluación de los proyectos de acuerdo con los criterios establecidos en las bases de cada convocatoria específica;
+- c) Resolver conflictos en el caso de existir;
+- d) Seleccionar los proyectos de transferencia de tecnología susceptibles de ser financiados, de conformidad con las bases específicas de cada convocatoria; y,
+- e) Priorizar de ser el caso, los proyectos de transferencia de tecnología susceptibles de ser financiados, de conformidad con las bases específicas de cada convocatoria.
+
+Artículo 44.- Responsabilidades de el/la secretario/a del Comité Técnico. - El/la secretario/a del Comité Técnico, tendrá las siguientes responsabilidades:
+
+- a) Redactar, elaborar y suscribir, las actas de las sesiones del Comité, las cuales serán puestas en consideración de los miembros;
+- b) Establecer y velar por la elaboración, conservación y seguridad de los archivos del Comité;
+- c) Certificar y autenticar documentos emitidos por el Comité, y proporcionar copias de estos;
+
+<!-- image -->
+
+<!-- image -->
+
+- d) Mantener un registro físico y digital de las sesiones, para constancia y verificación de los miembros del Comité;
+- e) Notificar a quien corresponda, con las resoluciones tomadas en las sesiones del Comité, de lo cual se mantendrá el respectivo registro;
+- f) Realizar el seguimiento y registro de las resoluciones emanadas por el Comité; y,
+- g) Las demás funciones que le fueren asignadas por el Comité.
+
+Artículo 45.- Fases del proceso de selección. - El proceso de selección de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, se realizará de acuerdo con las siguientes fases:
+
+1. Fase de postulación.
+2. Fase de verificación de requisitos.
+3. Fase de evaluación.
+4. Fase de selección.
+
+Artículo 46.- Fase de postulación.- Las personas naturales, jurídicas u otra forma asociativa de naturaleza pública, privada o mixta, que formen parte del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales que realicen actividades de investigación, desarrollo tecnológico y/o transferencia de tecnología y que deseen obtener financiamiento para el desarrollo de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, podrán postular con sus propuestas ante la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación según el cronograma y demás requisitos establecidos en las bases específicas de cada convocatoria.
+
+La instancia encargada de la investigación, innovación y transferencia de tecnología de SENESCYT podrá requerir información adicional de considerarlo pertinente.
+
+En el caso de co-ejecución de proyectos, se deberá adjuntar el formulario de compromiso en el que se establezca claramente todos los términos bajo los cuales se ejecutará el proyecto.
+
+Artículo 47.- Fase de verificación de requisitos. - Una vez receptada la respectiva postulación, la instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales verificará el cumplimiento de los requisitos establecidos en el presente Reglamento y en las bases específicas de cada convocatoria, según el cronograma establecido para el efecto.
+
+La instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales podrá solicitar a los postulantes que se complete o aclare los documentos de postulación, en los plazos que se consideren pertinentes, los cuales se establecerán en las bases de cada convocatoria.
+
+Pasarán a la fase de evaluación únicamente las postulaciones que cumplan con todos los requisitos establecidos en la fase de postulación.
+
+Artículo 48.- Fase de evaluación. - Los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología que hayan superado las fases previas, serán evaluados por un Comité Científico o un Comité Técnico, respectivamente, que será convocado por la instancia encargada de la investigación, innovación y transferencia de tecnología de
+
+<!-- image -->
+
+<!-- image -->
+
+SENESCYT, según los criterios, parámetros y/o ponderaciones que se especifiquen en las bases de cada convocatoria.
+
+La instancia encargada de la investigación, innovación y transferencia de tecnología garantizará el cumplimiento de los procesos correspondientes a la fase de evaluación, de conformidad a lo dispuesto en las bases específicas de cada convocatoria.
+
+Las postulaciones que obtengan el mayor puntaje dentro de la fase de evaluación pasarán a la fase de selección de conformidad a lo dispuesto en las bases de cada convocatoria.
+
+Artículo 49.- Fase de selección. - El Comité Científico o el Comité Técnico, según corresponda, seleccionará y priorizará los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología a ser financiados de conformidad a los criterios establecidos en las bases específicas de cada convocatoria y de acuerdo con la disponibilidad presupuestaria.
+
+La resolución de cada Comité Científico o de cada Comité Técnico, será vinculante y deberá contener el detalle de los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología a ser financiados y deberán ser ordenados según su prioridad.
+
+La instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales remitirá a la máxima autoridad de la referida institución, el o los informes técnicos para la adjudicación junto con las respectivas actas de los Comités, las cuales contienen las resoluciones correspondientes.
+
+Artículo 50.- Impugnación. - Los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales podrán impugnar las resoluciones del Comité dentro de cada convocatoria, de acuerdo con lo previsto en el Código Orgánico Administrativo.
+
+Artículo 51.- Adjudicación. - La máxima autoridad de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, o su delegado/a, adjudicará los proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología con base a las resoluciones del Comité Científico o Comité Técnico, respectivamente.
+
+Artículo 52.- Notificación. - La máxima autoridad de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales o su delegado/a, notificará con la resolución de adjudicación, a los beneficiarios de esta, en el término máximo de cinco (5) días, contados a partir de la adjudicación de los proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología.
+
+## Sección III
+
+Disposiciones comunes para el financiamiento de programas y/o proyectos de investigación, desarrollo tecnológico y transferencia de tecnología
+
+Artículo 53.- De los documentos habilitantes. - Para la suscripción de los convenios de financiamiento de los proyectos de fomento para la investigación, desarrollo tecnológico y/o transferencia de tecnología, el/los adjudicatarios deberán presentar en el plazo máximo de treinta (30) días, contados desde la fecha de notificación de la adjudicación, los siguientes documentos habilitantes:
+
+<!-- image -->
+
+<!-- image -->
+
+- a) Copia certificada del nombramiento del representante legal de la institución adjudicataria, de ser el caso;
+- b) Documento por el cual se designa a el/la director/a del proyecto y el/la responsable financiero/a del proyecto, firmado por el representante legal de la institución adjudicataria, de ser el caso;
+- c) Presentación de garantías, en los casos que se requiera;
+- d) Presentación de las contrapartes, en los casos que se requiera;
+- e) Convenio en el cual se establezca claramente todos los términos bajo los cuales se ejecutará el proyecto, en el caso de co-ejecución de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología;
+- f) Permisos específicos de investigación de acuerdo con lo previsto en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación y demás normativa vigente correspondiente; y,
+- g) Demás requisitos que se soliciten en las bases específicas de cada convocatoria.
+
+La instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales podrá prorrogar el plazo para la presentación de los documentos habilitantes para la suscripción del convenio de financiamiento, de oficio o a petición de parte debidamente justificada.
+
+Si transcurrido dicho plazo no se han entregado los documentos, el financiamiento de los proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología quedarán insubsistentes y los adjudicatarios no tendrán derecho a reclamo ni indemnización alguna en contra de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación.
+
+Artículo 54.- Contraparte. - En los casos en que se considere pertinente, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, en aplicación del principio de corresponsabilidad, podrá solicitar a el/los adjudicatarios, que se establezcan contrapartes, las cuales podrían ser participaciones económicas y/o en especie, para garantizar la efectiva ejecución de los proyectos de fomento para la investigación, desarrollo tecnológico y/o transferencia de tecnología.
+
+La participación de contrapartes será determinada en las bases específicas de cada convocatoria.
+
+Artículo 55.- Convenio de financiamiento. - Es el instrumento jurídico mediante el cual la entidad rectora del Sistema Nacional de Ciencia, Tecnología e Innovación y Saberes Ancestrales se compromete a financiar proyectos de investigación científica, desarrollo tecnológico y/o transferencia de tecnología, de quienes hayan sido adjudicados.
+
+Los términos de este convenio se estipularán de acuerdo con lo establecido en las bases de las convocatorias y la normativa vigente.
+
+Artículo 56.- Garantías. - En caso de celebrar convenios con actores de naturaleza privada para la ejecución de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, para asegurar el fiel cumplimiento de este y el buen uso de los fondos asignados, requerirá la presentación de garantías bajo cualquiera de las siguientes formas:
+
+- a) Garantía incondicional, irrevocable y de cobro inmediato, otorgada por un banco o institución financiera establecidos en el país o por intermedio de ellos.
+
+<!-- image -->
+
+<!-- image -->
+
+- b) Fianza instrumentada en una póliza de seguros, incondicional e irrevocable, de cobro inmediato, emitida por una compañía de seguros establecida en el país.
+- c) Depósitos de bonos del Estado, de las municipalidades y de otras instituciones del Estado, certificaciones de la Tesorería General de la Nación, cédulas hipotecarias, bonos de prenda, notas de crédito otorgadas por el Servicio de Rentas Internas, o valores fiduciarios que hayan sido calificados por el Directorio del Banco Central del Ecuador. Su valor se computará de acuerdo con su cotización en las bolsas de valores del país, al momento de constituir la garantía. Los intereses que produzcan pertenecerán al proveedor.
+- d) Certificados de depósito a plazo, emitidos por una institución financiera establecida en el país, endosados por valor en garantía a la orden de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales y cuyo plazo de vigencia sea mayor al estimado para la ejecución del convenio.
+
+Las garantías deberán mantenerse vigentes durante el plazo de duración del convenio hasta su terminación y liquidación, según corresponda, y cubrirán el valor total que se reciba al momento de la suscripción del convenio, que será entregado por parte de la entidad rectora de Ciencia, Tecnología, Innovación y Saberes Ancestrales para la ejecución del proyecto de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología.
+
+Artículo 57.- Contenido del convenio de financiamiento. - El convenio de financiamiento deberá contener de manera clara y precisa, como mínimo las disposiciones referentes a lo siguiente:
+
+- a) Comparecientes;
+- b) Antecedentes;
+- c) Objeto del convenio;
+- d) Monto total de financiamiento;
+- e) Plazo del convenio;
+- f) Obligaciones específicas de las partes;
+- g) Causales y procedimientos de terminación;
+- h) Garantías, de ser el caso;
+- i) Notificaciones;
+- j) Sanciones;
+- k) Mecanismos de solución de controversias; y,
+- l) Cláusulas modificatorias, ampliatorias y las demás cláusulas esenciales que aseguren el cumplimiento del convenio y la salvaguardia de los intereses de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación.
+
+Artículo 58.- Asesoría previo suscripción de convenio. - Previo a la suscripción del convenio la instancia encargada de la investigación, innovación y transferencia de tecnología a través de la unidad encargada del seguimiento y monitoreo de programas y proyectos de ciencia, tecnología e innovación de SENESCYT, realizará una asesoría técnica financiera a los proyectos adjudicados y presentará un informe de factibilidad técnico financiero. El informe contendrá las sugerencias técnicas y financieras que permitan optimizar la ejecución del proyecto sin incrementar el presupuesto del proyecto y alterar los objetivos de este.
+
+Artículo 59.- De la suscripción del convenio de financiamiento. - El/los representantes legales o sus delegados, quienes hagan las veces de adjudicatarios deberán suscribir un convenio de financiamiento con la entidad rectora del Sistema Nacional de Ciencia, Tecnología,
+
+<!-- image -->
+
+<!-- image -->
+
+Innovación y Saberes Ancestrales, en el cual se definirán los derechos y obligaciones de las partes.
+
+El convenio deberá ser suscrito dentro del plazo de treinta (30) días, a partir de la entrega de los documentos habilitantes por parte de el/los adjudicatarios.
+
+La instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales podrá prorrogar el plazo para la suscripción del convenio de financiamiento de oficio o a petición de parte debidamente justificada.
+
+Si transcurrido dicho plazo el referido instrumento no se suscribe por causas imputables a el/los adjudicatarios, el financiamiento del proyecto de fomento para la investigación, desarrollo tecnológico y/o transferencia de tecnología, quedará insubsistente y el o los adjudicatarios no tendrán derecho a reclamo ni indemnización alguna en contra de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+Para el caso de proyectos de fomento a la transferencia de tecnología en los que se contemple la participación de un Operador acreditado, el convenio deberá suscribirse entre el/los adjudicatarios, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales y el Operador.
+
+Artículo 60.- Obligaciones de los beneficiarios. - Durante la ejecución de los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, el/los beneficiarios tendrán las siguientes obligaciones:
+
+- a) Mantener la información técnica y financiera actualizada;
+- b) Remitir la información de forma periódica, conforme se establezca en el convenio suscrito, o en cualquier momento cuando sea solicitada por la instancia encargada de la investigación, innovación y transferencia de tecnología de la SENESCYT.
+- c) Ejecutar el proyecto de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, de conformidad con los términos contemplados en los documentos de postulación, el convenio suscrito, las bases específicas de cada convocatoria y el presente Reglamento;
+- d) Solicitar a la instancia encargada de la investigación, innovación y transferencia de tecnología de la SENESCYT, los cambios en la planificación que requieran efectuarse durante el desarrollo del proyecto;
+- e) Utilizar los recursos asignados exclusivamente para la ejecución del proyecto de fomento a la investigación científica, desarrollo tecnológico y/o transferencia de tecnología, según lo dispuesto en el convenio suscrito, las bases específicas de cada convocatoria y el presente Reglamento; y,
+- f) Cumplir con las demás obligaciones establecidas en el convenio específico de financiamiento y en las bases de postulación de la convocatoria correspondiente.
+
+Artículo 61.- Plazo de ejecución. - Los plazos de ejecución de los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología serán determinados en cada convenio según el objeto y alcance de cada proyecto, el mismo que se podrá prorrogar justificadamente de acuerdo con lo dispuesto en las bases específicas de cada convocatoria.
+
+<!-- image -->
+
+<!-- image -->
+
+## Sección IV Del uso de los recursos
+
+Artículo 62.- Destino de los recursos entregados para la ejecución de proyectos.- Los recursos asignados a el/los beneficiarios deberán ser destinados a la ejecución total de los objetivos del proyecto de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, de conformidad con las actividades planteadas, las líneas de financiamiento y cronograma de ejecución, establecidos en las bases específicas de cada convocatoria; y, serán sujetos de control por parte de la Contraloría General del Estado.
+
+Artículo 63.- Administración de recursos. - Los recursos asignados serán administrados por el/la beneficiario, que será responsable de la gestión y buen uso de estos.
+
+En el caso de co-ejecución de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, los recursos asignados podrán ser administrados por una de las instituciones co-ejecutoras según se defina en el convenio de co-ejecución, en cuyo caso la institución co-ejecutora tendrá la obligación de presentar a la institución ejecutora informes de gestión financiera. Si la administración de los recursos está a cargo de una institución coejecutora de derecho privado, ésta deberá entregar a favor de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales una garantía bancaria o póliza de seguros, incondicional, irrevocable y de cobro inmediato que asegure el monto total entregado.
+
+Por el tiempo de duración del convenio de financiamiento del proyecto, la garantía deberá mantenerse vigente
+
+Artículo 64.- Rubros no financiables. - El/los beneficiarios no podrán destinar los recursos asignados para cubrir los siguientes rubros:
+
+- a) Adquisición de equipos considerados de uso doméstico, exceptuando aquellos que sean necesarios y debidamente justificados para la ejecución del proyecto.
+- b) Adquisición de vehículos automotores.
+- c) Equipos de fotocopiado o fotografía no especializada.
+- d) Obra civil de cualquier naturaleza, excepto cuando esta obra esté vinculada al montaje de equipamiento o se trate de la ejecución de un proyecto bajo las condiciones establecidas en la convocatoria específica para este caso.
+- e) Viajes al interior, exterior y manutención de los miembros que no estén vinculados al proyecto. Se exceptúa los miembros que formen parte del equipo de investigación, los que deberán justificar las actividades a realizar en el interior (Trabajos de campo, congresos, capacitaciones) y al exterior (Difusión del proyecto en algún congreso científico, la participación en algún evento de relevancia científica internacional y en la cual un miembro del equipo participe como expositor, o reciba una capacitación) y que serán actividades directamente relacionadas con el proyecto. Para su ejecución deberá estar previamente aprobado por la instancia encargada de la investigación, innovación y transferencia de tecnología.
+- f) Combustibles y lubricantes.
+- g) Mantenimiento y reparación de los equipos no utilizados en la ejecución de los proyectos.
+
+<!-- image -->
+
+<!-- image -->
+
+En casos excepcionales, la instancia encargada de la investigación, innovación y transferencia de tecnología de SENESCYT, podrá autorizar la utilización de los recursos asignados al proyecto de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología a los rubros descritos en los incisos anteriores, siempre y cuando el/los beneficiarios soliciten la autorización del gasto, así como justifique plenamente la necesidad de su uso, en el marco del cumplimiento de los objetivos del proyecto.
+
+Para el efecto, la instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales elaborará un informe técnico - financiero sobre la pertinencia de la solicitud; si el informe resultare favorable, la instancia encargada de la investigación, innovación y transferencia de tecnología emitirá la aprobación respectiva.
+
+Artículo 65.- Propiedad de los bienes adquiridos a través del financiamiento a la investigación, desarrollo tecnológico y/o transferencia de tecnología. - Salvo disposición en contrario establecida en las bases específicas de cada convocatoria, los bienes materiales, muebles e inmuebles, que hayan sido adquiridos o producidos con fondos públicos serán de propiedad del actor o actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales que hayan ejecutado el proyecto financiado.
+
+Los administradores de estos bienes serán responsables por el buen uso de estos hasta que se agote su tiempo de vida útil.
+
+La propiedad y gestión de los bienes inmateriales, incluido el software, adquiridos con fondos públicos en el marco del presente Reglamento, se regulará conforme al libro de Gestión del Conocimiento del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación y las bases específicas de cada convocatoria.
+
+## Sección V Del seguimiento y terminación de los convenios
+
+Artículo 66.- Seguimiento técnico y financiero.- La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, a través de sus dependencias técnicas internas o de asistencia técnica externa, nacional o internacional, en el marco de sus atribuciones, realizará el seguimiento técnico y financiero de los proyectos beneficiarios en función de los compromisos adquiridos en el convenio de financiamiento, las bases específicas de cada convocatoria y el presente Reglamento.
+
+El o los beneficiarios deberán ofrecer las facilidades necesarias para realizar el seguimiento de los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología.
+
+Para el seguimiento técnico y financiero se deberá contemplar las disposiciones y lineamientos establecidos en los instructivos que la instancia encargada de la investigación, innovación y transferencia de tecnología de SENESCYT emitan para el efecto.
+
+Las coordinaciones zonales de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación brindarán el contingente requerido para el efectivo cumplimiento de las actividades de seguimiento y control.
+
+<!-- image -->
+
+<!-- image -->
+
+Artículo 67.- Visitas al proyecto. - Como parte del seguimiento a los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes, a través de sus dependencias técnicas o a través de asistencia técnica externa, nacional o internacional, podrá realizar visitas periódicas, a fin de verificar el cumplimiento del avance técnico y financiero según lo establecido en el cronograma de ejecución y en el presupuesto aprobado.
+
+Artículo 68.- Causales de terminación de los convenios. - Los convenios de financiamiento para la ejecución de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, terminarán por las siguientes causales:
+
+1. Por el cumplimiento de las obligaciones de las partes;
+2. Por mutuo acuerdo de las partes; y,
+3. Por terminación unilateral por incumpliendo de obligaciones.
+
+Artículo 69.- Terminación por cumplimiento de las obligaciones de las partes. - Los convenios de financiamiento de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, terminarán por el total cumplimiento de las obligaciones de las partes establecidas en el respectivo convenio, las bases específicas de cada convocatoria y el presente Reglamento. Para lo cual se deberá suscribir el acta de liquidación y finiquito correspondiente.
+
+Artículo 70.- Terminación por mutuo acuerdo de las partes.- Se deberá suscribir la respectiva acta de terminación por mutuo acuerdo, para dar por terminado el convenio de financiamiento de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología; cuando por circunstancias imprevistas técnicas o financieras, o causas de fuerza mayor o caso fortuito, no fuere posible o conveniente para los intereses de las partes, ejecutar total o parcialmente el convenio; igualmente, las partes podrán, por mutuo acuerdo, acordar la extinción de todas o algunas de las obligaciones convenidas, en el estado en que se encuentren.
+
+En todos los casos el/los representantes legales o sus delegados de la institución ejecutora deberán elevar su solicitud de terminación por mutuo acuerdo a la instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+La terminación del convenio de financiamiento por mutuo acuerdo de las partes no eximirá a el/los beneficiarios de su obligación de liquidación.
+
+La terminación por mutuo acuerdo no implicará renuncia a las obligaciones y derechos causados o adquiridos por las partes hasta el momento de terminación del convenio.
+
+Artículo 71.- Terminación unilateral por incumplimiento de obligaciones.- Cuando se produzca el incumplimiento de cualquiera de las obligaciones contenidas en el convenio de financiamiento, las bases específicas de cada convocatoria y el presente Reglamento, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, a través de sus dependencias técnicas, deberá informar por escrito el/los beneficiarios incumplidos, su intención motivada de dar por terminado el convenio, señalando el plazo de quince (15) días hábiles, a fin de que el/los beneficiarios incumplidos justifiquen o subsanen su incumplimiento.
+
+<!-- image -->
+
+<!-- image -->
+
+De no subsanarse o justificarse el incumplimiento, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, a través de la máxima autoridad o su delegado, notificará a la parte incumplida con la resolución motivada de terminación unilateral del convenio de financiamiento de proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología.
+
+En este caso la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales establecerá la liquidación económica, y el/los beneficiarios incumplidos deberá/n restituir el saldo y el monto no justificado a la fecha de la resolución de terminación unilateral más los intereses generados desde la fecha de entrega efectiva de los fondos, calculados conforme la tasa activa publicada por el Banco Central del Ecuador, y una multa correspondiente al 5% del monto total desembolsado.
+
+Adicionalmente, el/los beneficiarios que haya/n sido declarados incumplidos no podrán postular para acceder a los incentivos financieros contemplados en el presente Reglamento por el plazo de dos (2) años.
+
+Las dependencias técnicas de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales elaborarán según corresponda, el informe en el que se hará constar la liquidación financiera correspondiente.
+
+En el caso de financiamiento a privados, las garantías de fiel cumplimiento y de buen uso de los fondos asignados serán ejecutadas por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, cuando se haya determinado el incumplimiento de las obligaciones establecidas en el convenio de financiamiento del proyectos de fomento a investigación, desarrollo tecnológico y/o transferencia de tecnología, las bases específicas de cada convocatoria y el presente Reglamento.
+
+La ejecución de las garantías se efectuará sin perjuicio de las acciones civiles o penales a las que hubiera lugar contra el/los beneficiarios.
+
+## Sección VI Del cierre de proyectos
+
+Artículo 72.- Acta de finiquito de los convenios.- La instancia encargada de la investigación, innovación y transferencia de tecnología y las Coordinaciones Zonales de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, como áreas técnicas - financieras responsables del seguimiento de los proyectos de fomento a investigación, desarrollo tecnológico y/o transferencia de tecnología, solicitará a la Coordinación General de Asesoría Jurídica y a las unidades jurídicas zonales en virtud de la desconcentración de funciones, según corresponda, la elaboración del acta de finiquito de los convenios respectivos, para lo cual se remitirá:
+
+- a) Los informes finales de el/los beneficiarios.
+- b) La evaluación final técnica y financiera.
+- c) El informe de cierre técnico - financiero del proyecto; y,
+- d) El informe de validación del destino de los bienes, elaborado por las dependencias técnicas de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación.
+
+Artículo 73.- Informes finales.- Los informes técnicos, financieros, de propiedad intelectual, inventario de bienes adquiridos e informe de destino de los bienes en los cuales conste su estado
+
+<!-- image -->
+
+<!-- image -->
+
+y ubicación, deberán ser presentados a las dependencias técnicas de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, por parte de el/los beneficiarios, dentro de un plazo de treinta (30) días a partir de la fecha de fin de ejecución del proyecto, estipulada en el convenio.
+
+Para tal efecto, se remitirá la comunicación correspondiente por parte de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, treinta (30) días antes de finalizar el plazo establecido en el convenio.
+
+Artículo 74.- Evaluación final técnica y financiera.- Una vez entregados oficialmente los informes finales en formato digital y físico por parte de el/los beneficiarios, la instancia encargada de la investigación, innovación y transferencia de tecnología, las Coordinaciones Zonales de entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, o la entidad técnica responsable designada, según corresponda, deberán realizar la evaluación final técnica financiera en el plazo que lo determine el instructivo generado por el área encargada de la investigación, innovación y transferencia de tecnología de SENESCYT, las cuales servirán de base para la realización del informe de cierre.
+
+Artículo 75.- Informe de cierre. - El Informe de cierre de los proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología, deberá ser elaborado por la instancia encargada de la investigación, innovación y transferencia de tecnología de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales y contendrá información respecto del cumplimiento de la ejecución técnica y financiera del proyecto.
+
+Para el cierre de los proyectos de investigación y desarrollo tecnológico, se considerará que el proyecto ha sido ejecutado de manera satisfactoria, si el promedio de los porcentajes de eficacia, ejecución técnica y financiera del proyecto es mayor o igual al setenta por ciento (70%).
+
+Para el cierre de los proyectos de transferencia de tecnología, se considerará que un proyecto ha sido ejecutado de manera satisfactoria si cumple con los siguientes criterios:
+
+- a) Cumplimiento del proyecto en plazo establecido;
+- b) Cumplimiento del modelo financiero; y,
+- c) Consecución de los objetivos del proyecto
+
+Para los casos establecidos en los artículos 69 y 70 de este reglamento, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales solicitará al/los beneficiarios la devolución de los fondos no justificados y saldos no ejecutados.
+
+Para el informe de cierre de proyectos, se deberá contemplar las disposiciones y lineamientos establecidos en los instructivos que la instancia encargada de la investigación, innovación y transferencia de tecnología de SENESCYT emita para el efecto.
+
+Artículo 76.- Informe de validación del destino de los bienes. - Es el documento elaborado por las dependencias técnicas de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, el mismo que se realizará observando lo determinado en el artículo 64 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación.
+
+Artículo 77.- Inhabilitación administrativa. - Cuando un proyecto de investigación y/o desarrollo tecnológico sea considerado no satisfactorio, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales inhabilitará a la institución ejecutora
+
+<!-- image -->
+
+<!-- image -->
+
+para acceder a las nuevas convocatorias realizadas con posterioridad a la suscripción del informe de cierre del proyecto. La inhabilitación únicamente comprenderá, una convocatoria.
+
+Para el caso de que un proyecto de transferencia de tecnología sea considerado no satisfactorio, la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales inhabilitará al Investigador y/o Director del Proyecto, para postular y formar parte de un equipo de investigación, en una convocatoria de proyectos de transferencia de tecnología, lanzada posterior a la suscripción del informe de cierre del proyecto.
+
+La falta de cierre de un proyecto de investigación, desarrollo tecnológico y/o transferencia de tecnología, luego de concluido el plazo previsto para su ejecución, por un período de cinco (5) años posteriores al vencimiento del plazo estipulado en el convenio y que, corresponda a un Instituto Público de Investigación que mantenga más de 30 proyectos sin actas de finiquito; y, 50 proyectos para el caso de Instituciones de Educación Superior, inhabilitará a la Institución Ejecutora del Proyecto postular a nuevas convocatorias de financiamiento de proyectos hasta el cumplimiento de sus obligaciones de cierre con la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+## Sección VII Protección de la propiedad intelectual
+
+Artículo 78.- Requisito previo al financiamiento. - Previo a la ejecución del proyecto de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, así como en todo momento en el cual el proyecto pudiese generar resultados susceptibles de registro de propiedad intelectual, el/los beneficiarios deberán realizar una búsqueda acerca del estado de la técnica a fin de destinar recursos para proteger adecuada y oportunamente los posibles activos intangibles.
+
+Artículo 79.- Protección de los derechos intelectuales. - El régimen de protección de derechos intelectuales, se sujetará a lo dispuesto en el Libro III, "De la Gestión de los Conocimientos" del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación.
+
+Cuando del resultado de los proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología, se hubiere obtenido productos o servicios que no sean susceptibles de protección mediante el régimen de propiedad intelectual nacional, el Estado podrá financiar la protección de estos en el extranjero.
+
+Artículo 80.- Registro. - Todos los productos generados en el marco de los proyectos de fomento a la investigación, desarrollo tecnológico y/o transferencia de tecnología, serán susceptibles de registro ante el Servicio Nacional de Derechos Intelectuales, SENADI, respetando los porcentajes de participación establecidos en el Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación; los lineamientos emitidos en las bases específicas de cada convocatoria y demás normativa aplicable en materia de propiedad intelectual.
+
+El procedimiento de registro deberá ser iniciado por la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales en coordinación con el/los directores de cada proyecto o sus delegados, previo a proceder con la suscripción del acta de finiquito.
+
+Artículo 81.- Costos. - El/los beneficiarios deberán asumir los costos de búsqueda, registro, protección, mantenimiento, observancia, renovaciones y modificaciones al registro de los
+
+<!-- image -->
+
+<!-- image -->
+
+derechos de propiedad intelectual. Igualmente asumirán los costos que se puedan generar por eventuales oposiciones, cancelaciones, nulidades, litigios, recursos y demás acciones en vía administrativa o judicial respecto a la protección de dichos derechos, excepto cuando la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales incluya este rubro dentro de sus convocatorias de financiamiento.
+
+Artículo 82.- Distribución de beneficios. - Para aquellos productos o servicios resultados de proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología, financiados por el Estado, que sean susceptibles de protección bajo régimen de patentes de invención, modelo de utilidad o del registro del esquema de trazado, obtenciones vegetales y diseño industrial, corresponderá al Estado lo establecido en la normativa correspondiente, en los términos establecidos y según el tipo de recurso.
+
+## CAPÍTULO II DE LOS INCENTIVOS ADMINISTRATIVOS PARA LA INVESTIGACIÓN Y DESARROLLO TECNOLÓGICO
+
+Artículo 83.- Programa Nacional de Reconocimiento a la Investigación Científica Responsable.- La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, establecerá los mecanismos y procesos para la realización de programas y/o concursos que otorguen el reconocimiento investigativo a los actores del Sistema Nacional de Ciencia, Tecnología e Innovación y Saberes Ancestrales, que realicen actividades de investigación y/o desarrollo tecnológico, conforme a las políticas, lineamientos y estrategias sectoriales, sujetándose a la disponibilidad presupuestaria de la institución; con el objetivo de incentivar la investigación y desarrollo tecnológico vinculados al incremento de la productividad, la diversificación productiva y la satisfacción de necesidades.
+
+Los incentivos administrativos serán detallados en el instructivo que emita para el efecto, la instancia encargada de la ciencia, tecnología e innovación de SENESCYT.
+
+Artículo 84.- Premios. - Los programas y/o concursos de reconocimiento a la investigación realizados por la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, otorgarán dos tipos de premios:
+
+- a) Premios honoríficos. - Consiste en la entrega de certificados, diplomas, condecoraciones, placas, distinciones, medallas y la exoneración de procesos de evaluación en programas de becas, de conformidad a la normativa específica de los programas de becas.
+- b) Premios económicos. - Consiste en la entrega de ayudas económicas, asistencia o estancias de investigación o capacitación, becas completas para tercer nivel, becas completas para cuarto nivel y programas de reforzamiento académico, según lo dispuesto en la normativa correspondiente, en coordinación con la instancia encargada del fortalecimiento del conocimiento de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales.
+
+Artículo 85.- Incentivos para los programas de financiamiento. - Los/las investigadores/as que demuestren haber sido acreedores de un reconocimiento en el marco de los programas de reconocimiento a la investigación, recibirán un puntaje adicional en los procesos de selección, de conformidad a lo establecido en las bases específicas de cada convocatoria.
+
+<!-- image -->
+
+<!-- image -->
+
+## DISPOSICIONES GENERALES
+
+PRIMERA. - La entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales no adquirirá responsabilidad alguna en términos financieros, laborales o civiles, con los actores del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, cuyos proyectos de investigación, desarrollo tecnológico y/o transferencia de tecnología sean financiados en el marco del presente Reglamento y las convocatorias específicas.
+
+SEGUNDA.- En el caso de que existan recursos no utilizados en el marco de una convocatoria por falta de postulaciones, incumplimiento de requisitos de postulación, por falta del puntaje mínimo requerido de evaluación, no suscripción del convenio de financiamiento, u otros; la máxima autoridad de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales definirá la redistribución de dichos recursos, para la efectiva ejecución de la convocatoria a la que fueron asignados.
+
+TERCERA. - Las instituciones de educación superior que cuenten con la acreditación institucional del Consejo de Aseguramiento de la Calidad de la Educación Superior (CACES); y los Institutos Públicos de Investigación que se encuentren bajo la rectoría de SENESCYT, serán considerados como entidades de investigación científica acreditadas.
+
+## DISPOSICIONES TRANSITORIAS
+
+PRIMERA. - Para las instituciones públicas de investigación e Instituciones de Educación Superior que, a partir de la emisión del presente Reglamento, mantengan obligaciones de cierre pendientes con la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales, se aplicará lo determinado en el artículo 77 del presente reglamento respecto la Inhabilitación administrativa.
+
+SEGUNDA. - En el plazo de noventa (90) días, contados a partir de la emisión del presente Reglamento, la instancia encargada de la investigación de la entidad rectora del Sistema Nacional de Ciencia, Tecnología, Innovación y Saberes Ancestrales emitirá el instructivo correspondiente para detallar el procedimiento de la acreditación de entidades de investigación científica.
+
+## DISPOSICIONES DEROGATORIAS
+
+PRIMERA. - Deróguese el Acuerdo Nro. SENESCYT - 2018-029, del 23 de abril de 2018, mediante el cual se expidió el Reglamento de Incentivos Financieros y Administrativos a la Investigación, Desarrollo Tecnológico y Transferencia de Tecnología, así como sus posteriores reformas.
+
+SEGUNDA. - Deróguese el Acuerdo Nro. SENESCYT - 2018 - 040 de 18 de mayo de 2018 expedido por esta Cartera de Estado.
+
+TERCERA. - Deróguese cualquier otra norma o instrumento que se contraponga a lo dispuesto en el presente Reglamento.
+
+<!-- image -->
+
+<!-- image -->
+
+## DISPOSICIONES FINALES
+
+PRIMERA. - De la ejecución del presente Acuerdo, encárguese a la Subsecretaría de Investigación, Innovación y Transferencia de Tecnología de esta Cartera de Estado.
+
+SEGUNDA. - Notifíquese con el presente Acuerdo a la Subsecretaría de Investigación, Innovación y Transferencia de Tecnología y a la Subsecretaría General de Educación Superior, Ciencia, Tecnología e Innovación de esta Cartera de Estado.
+
+TERCERA. - Encárguese a la Coordinación General de Asesoría Jurídica, la notificación del presente Acuerdo.
+
+CUARTA. - El presente Acuerdo entrará en vigencia a partir de su expedición, sin perjuicio de su publicación en el Registro Oficial.
+
+Dado en la ciudad de Quito, Distrito Metropolitano, a los nueve (09) días del mes de mayo de 2023.
+
+Notifíquese y publíquese.-
+
+## ANDREA ALEJANDRA MONTALVO CHEDRAUI, SECRETARIA DE EDUCACIÓN SUPERIOR, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+| Acción | Funcionario | Firma o sumilla | Fecha |
+|----------------|------------------------|-------------------|------------|
+| Elaborado por: | Ma. Salomé Rivadeneira | | 09/05/2023 |
+| Revisado por: | Pamela Abud | | 09/05/2023 |
+| Aprobado por: | Alfredo Paredes | | 09/05/2023 |
+
+<!-- image -->

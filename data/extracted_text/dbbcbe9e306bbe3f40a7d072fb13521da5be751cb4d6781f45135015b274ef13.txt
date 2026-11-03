@@ -1,0 +1,409 @@
+| <!-- image --> | **MODELO EDUCATIVO INSTITUCIONAL** **2026** | **ÁREA: ACADÉMICO** |
+|------------------|------------------------------------------------|-----------------------------|
+| <!-- image --> | **MODELO EDUCATIVO INSTITUCIONAL** **2026** | **CÓDIGO:** ISTAE-ME-01 |
+| <!-- image --> | **MODELO EDUCATIVO INSTITUCIONAL** **2026** | **VERSIÓN:** 01 |
+| <!-- image --> | **MODELO EDUCATIVO INSTITUCIONAL** **2026** | **UBICACIÓN:** San Lorenzo |
+
+<!-- image -->
+
+**MODELO**
+
+**EDUCATIVO**
+
+**INSTITUCIONAL**
+
+**SAN LORENZO - ECUADOR**
+
+**2026**
+
+| **ELABORADO POR:** | **APROBADO POR:** |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| Rectorado Académico **Mgtr. Ever Alejandro Palacios Acosta** **Rector IST Alberto Enríquez** | Órgano Colegiado Superior **IST Alberto Enríquez** |
+
+**MODELO EDUCATIVO INSTITUTO SUPERIOR TECNOLÓGICO ALBERTO ENRÍQUEZ**
+
+## 1 INTRODUCCIÓN
+
+El Instituto Superior Tecnológico Alberto Enríquez (ISTAE), como institución de educación superior tecnológica, se caracteriza por ser una entidad proactiva y emergente en su labor académica, estableciendo vínculos sólidos con el sector productivo y los actores sociales. Defendemos la necesidad de impulsar el crecimiento e innovación continua de las habilidades, destrezas y capacidades del talento humano. Este impulso tiene como objetivo elevar la productividad en Ecuador y consolidar, desde nuestro ámbito, los fundamentos de la matriz productiva, en consonancia con la formación por competencias. Nuestra filosofía institucional guía la construcción colaborativa y coherente de los Principios, Misión y Visión, alineándolos con los principios educativos universales. Este enfoque responde de manera propositiva a los desafíos de revalorización, reconversión, repotenciación, actualización e identificación que requiere la gestión académica para la formación técnica y tecnológica de nivel superior. Dicha formación se desarrolla en entornos de aprendizaje tanto académicos como laborales, combinando aspectos teóricos con una orientación eminentemente práctica.
+
+El modelo propuesto representa una modalidad de aprendizaje que fusiona la asistencia de profesionales con la autonomía del estudiante, enfocándose en la practicidad, experimentación, cooperación y colaboración. Este enfoque se basa en situaciones reales, vivenciales o simuladas en laboratorios y talleres, permitiendo a los estudiantes prepararse y adquirir destrezas relacionadas con su entorno ocupacional y profesional, respaldados por las habilidades de educadores y tutores empresariales. El Modelo Educativo es una respuesta a los desafíos actuales del país, orientándose hacia formas de formación centradas en el estudiante y la pertinencia del aprendizaje, con el objetivo de desarrollar profesionales comprometidos con su responsabilidad social, la transformación de la matriz productiva, el emprendimiento y la generación de empleo en concordancia con su profesión. A pesar de ser pionero en la política de reconversión de la educación superior, el instituto aún enfrenta desafíos significativos al transitar de una formación tradicional a un enfoque más dual.
+
+Bajo esta perspectiva, el Modelo Educativo del ISTAE aporta los elementos constructivos necesarios para llevar a cabo de manera eficaz los procesos de enseñanza-aprendizaje en la formación de prácticas en el entorno laboral real. Este enfoque se alinea con los principios de docencia, investigación y vinculación con la sociedad, considerados como condiciones estratégicas en la labor formativa de esta Institución de Educación Superior Tecnológica. Este modelo se complementa con el Modelo Pedagógico, fortaleciendo así la calidad y pertinencia de la formación impartida.
+
+Es relevante destacar que nuestro modelo educativo se sustenta en dos pilares fundamentales: la obra "La Educación Encierra un Tesoro" de la UNESCO (Delors, 1996) y la teoría del pensamiento complejo de Morin (1999). Además, se integra de manera armoniosa con el Plan de Acompañamiento del RRA, orientándonos hacia la dirección deseada y asegurando la coherencia con los antecedentes institucionales, como la historia y la tradición académica del IST Alberto Enríquez.
+
+## 2 Antecedentes Institucionales
+
+El Modelo Educativo se fundamenta en la misión, visión, principios fundamentales, objetivos y fundamentos institucionales, abarcando aspectos políticos, epistemológicos y éticos. El IST Alberto Enríquez se distingue como una institución de educación superior laica y democrática, comprometida a garantizar la libertad de pensamiento y expresión para todos sus miembros. Destaca la promoción de cuatro ejes principales, así como el fomento del espíritu crítico y el cumplimiento riguroso de leyes y normativas.
+
+El Instituto Superior Tecnológico Alberto Enríquez es una institución de educación superior pública que desarrolla su actividad en el cantón San Lorenzo del Pailón, provincia de Esmeraldas. La aspiración de contar con una institución de educación superior en el cantón fue un anhelo histórico de la comunidad que se concretó mediante la gestión interinstitucional ante la SENESCYT, con el acompañamiento del Vicariato Apostólico de Esmeraldas. El Consejo de Educación Superior, mediante Resolución RPC-SO-28-No.439-2022 del 20 de julio de 2022, aprobó el cambio de domicilio del Instituto al cantón San Lorenzo, dando inicio a una nueva etapa institucional.
+
+Actualmente el ISTAE oferta tres carreras de tercer nivel tecnológico superior, aprobadas y actualizadas por el Consejo de Educación Superior: Tecnología Superior en Desarrollo de Software (RPC-SO-06-No.122-2023; actualización RPC-SO-21-No.353-2024), Tecnología Superior en Mecánica Automotriz (RPC-SO-07-No.139-2023; actualización RPC-SO-17-No.302-2024) y Tecnología Superior en Mecanización Agrícola (RPC-SO-07-No.139-2023; actualización RPC-SO-11-No.185-2024). En octubre de 2025 la institución graduó a su primera cohorte de 41 profesionales, hito histórico para el cantón San Lorenzo, que incorporó al territorio talento humano con alto valor ético, técnico y tecnológico.
+
+Cabe señalar que, mediante Decreto Ejecutivo No. 100 del 15 de agosto de 2025, se dispuso la fusión por absorción de la SENESCYT al Ministerio de Educación, conformándose el Ministerio de Educación, Deporte y Cultura (MINEDEC), cartera de Estado a la que actualmente se encuentra adscrito el Instituto, manteniéndose la continuidad de sus procesos académicos, administrativos y de gestión.
+
+## 3 Contexto Nacional
+
+### 3.1 Fundamento Legal
+
+En la actual Constitución de la República del Ecuador (2008) y la reciente Ley Orgánica de Educación Superior (LOES) (2010, con una actualización en el 2020), se establecieron, entre otros principios, el derecho inalienable de todas las personas, independientemente de su estatus económico o social, a acceder a una educación tecnológica respaldada por equipamiento y una infraestructura adecuada a diversos entornos de aprendizaje. Se destaca la importancia de una educación inclusiva, basada en el conocimiento, que se erige como un eje estratégico para el desarrollo nacional.
+
+En el artículo 12 de la LOES, se establece que el Sistema de Educación Superior se regirá por principios como autonomía responsable, cogobierno, igualdad de oportunidades, calidad, pertinencia, integralidad y autodeterminación para la producción de pensamiento y conocimiento, en el contexto del diálogo de saberes, pensamiento universal y la producción científica y tecnológica a nivel global.
+
+El Art. 25 de la Constitución de la República del Ecuador sostiene que “ **Las personas tienen derecho a gozar de los beneficios y aplicaciones del progreso científico** ” y de los saberes ancestrales.
+
+Ibidem “Art. 26.- La educación es un derecho de las personas a lo largo de su vida y un deber ineludible e inexcusable del Estado. Constituye un área prioritaria de la política pública y de la inversión estatal, garantía de la igualdad e inclusión social y condición indispensable para el buen vivir. **Las personas, las familias y la sociedad tienen el derecho y la responsabilidad de participar en el proceso educativo** ”
+
+Ibidem “Art. 27.- La educación se centrará en el ser humano y garantizará su desarrollo holístico, en el marco del respeto a los derechos humanos, al medio ambiente sustentable y a la democracia; será participativa, obligatoria, intercultural, democrática, incluyente y diversa, de calidad y calidez; impulsará la equidad de género, la justicia, la solidaridad y la paz; estimulará el sentido crítico, el arte y la cultura física, la iniciativa individual y comunitaria, y el desarrollo de competencias y capacidades para crear y trabajar. La educación es indispensable para el conocimiento, el ejercicio de los derechos y la construcción de un país soberano, y constituye un eje estratégico para el desarrollo nacional”
+
+Ibidem “Art. 28.- La educación responderá al interés público y no estará al servicio de intereses individuales y corporativos. Se garantizará el acceso universal, permanencia, movilidad y egreso sin discriminación alguna y la obligatoriedad en el nivel inicial, básico y bachillerato o su equivalente. Es derecho de toda persona y comunidad interactuar entre culturas y participar en una sociedad que aprende. El Estado promoverá el diálogo intercultural en sus múltiples dimensiones. El aprendizaje se desarrollará de forma escolarizada y no escolarizada. La educación pública será universal y laica en todos sus niveles, y gratuita hasta el tercer nivel de educación superior inclusive”
+
+Así mismo en la reformada LOES se indica que: “Art. 11.- Responsabilidad del Estado. - El Estado proveerá los medios y recursos para las instituciones públicas que conforman el Sistema de Educación Superior, y brindará las garantías para que las instituciones del Sistema cumplan con: a) Garantizar el derecho a la educación superior; b) Generar condiciones de independencia para la producción y transmisión del pensamiento, la cultura y el conocimiento; …”
+
+Ibidem “Art. 29.- El Estado garantizará la libertad de enseñanza, la libertad de cátedra en la educación superior, y el derecho de las personas de aprender en su propia lengua y ámbito cultural;”
+
+Ibidem “Art. 350.- El Sistema de Educación Superior tiene como finalidad la formación académica y profesional con visión científica y humanista; la investigación científica y tecnológica; la innovación, promoción, desarrollo y difusión de los saberes y las culturas; la construcción de soluciones para los problemas del país, en relación con los objetivos del régimen de desarrollo;”
+
+En la Loes “Art. 8.- Fines de la Educación Superior.- La educación superior tendrá los siguientes fines: … b) Fortalecer en las y los estudiantes un espíritu reflexivo orientado al logro de la autonomía personal, en un marco de libertad de pensamiento y de pluralismo ideológico; … d) Formar académicos y profesionales responsables, en todos los campos del conocimiento, con conciencia ética y solidaria, capaces de contribuir al desarrollo de las instituciones de la República, a la vigencia del orden democrático, y a estimular la participación social; … i) Impulsar la generación de programas, proyectos y mecanismos para fortalecer la innovación, producción y transferencia científica y tecnológica en todos los ámbitos del conocimiento;”
+
+Ibidem “Art. 352.- El Sistema de Educación Superior estará integrado por universidades y escuelas politécnicas; institutos superiores técnicos, tecnológicos y pedagógicos; y conservatorios superiores de música y artes, debidamente acreditados y evaluados. Estas instituciones, sean públicas o particulares, no tendrán fines de lucro;”
+
+El Art. 11, de la reforma a la LOES, reemplaza el Art. 14 de la Ley Orgánica de Educación Superior con la siguiente redacción: "Art. 14.- Instituciones de Educación Superior. - Las instituciones del Sistema de Educación Superior comprenden: ... b) Los institutos superiores técnicos, tecnológicos, pedagógicos y de artes, tanto públicos como privados, que hayan sido debidamente evaluados y acreditados de acuerdo con la presente Ley;"
+
+El Art. 84 de la Ley Orgánica de Educación Superior (LOES), establece: “Los requisitos de carácter académico y disciplinario necesarios para la aprobación de cursos y carreras, constarán en el Reglamento de Régimen Académico, en los respectivos estatutos, reglamentos y demás normas que rigen al Sistema de Educación Superior. Solamente en casos establecidos excepcionalmente en la normativa interna, un estudiante podrá matricularse hasta por tercera ocasión en una misma materia o en el mismo ciclo, curso o nivel académico.”
+
+El Art. 45 de la ley ibidem, establece: “Principio de autodeterminación para la producción del pensamiento y conocimiento. - El principio de autodeterminación consiste en la generación de condiciones de independencia para la enseñanza, generación y divulgación de conocimientos en el marco del diálogo de saberes, la universalidad del pensamiento, y los avances científico-tecnológicos locales y globales.”
+
+El Art. 146 de la Ley Orgánica manifiesta: “Garantía de la libertad de cátedra e investigativa. - En las universidades y escuelas politécnicas se garantiza la libertad de cátedra, en pleno ejercicio de su autonomía responsable, entendida como la facultad de la institución y sus profesores para exponer, con la orientación y herramientas pedagógicas que estimaren más adecuadas, los contenidos definidos en los programas de estudio.”
+
+El Art. 87, de la reforma a la LOES sustituye el Art. 114 de la Ley Orgánica de Educación Superior, por el siguiente: “Art. 114.- De la formación técnica y tecnológica.- La formación técnica y tecnológica tiene como objetivo la formación de profesionales de tercer y cuarto nivel técnico-tecnológico orientada al desarrollo de las habilidades y destrezas relacionadas con la aplicación, coordinación, adaptación e innovación técnico-tecnológica en procesos relacionados con la producción de bienes y servicios.”
+
+El Art. 92, sustituye el Art. 118 de la Ley Orgánica de Educación Superior, por el siguiente: “Art. 118.- Niveles de formación de la educación superior. - Los niveles de formación que imparten las instituciones del Sistema de Educación Superior son: 1. Tercer nivel técnico-tecnológico y de grado. a) Tercer nivel técnico-tecnológico superior. El tercer nivel técnico - tecnológico superior, orientado al desarrollo de las habilidades y destrezas relacionadas con la aplicación, adaptación e innovación tecnológica en procesos relacionados con la producción de bienes y servicios; …”
+
+El Reglamento de Régimen Académico en el Art. 3.- estable los Objetivos del régimen académico:
+
+- a) Garantizar una formación de alta calidad que propenda a la excelencia y pertinencia del Sistema de Educación Superior, mediante su articulación a las necesidades de la transformación y participación social, fundamentales para alcanzar el Buen Vivir.
+- b) Regular la gestión académica-formativa en todos los niveles de formación y modalidades de aprendizaje de la educación superior, con miras a fortalecer la investigación, la formación académica y profesional, y la vinculación con la sociedad.
+- c) Promover la diversidad, integralidad, flexibilidad y permeabilidad de los planes curriculares e itinerarios académicos, entendiendo a éstos como la secuencia de niveles y contenidos en el aprendizaje y la investigación.
+- d) Articular la formación académica y profesional, la investigación científica, tecnológica y social, y la vinculación con la colectividad, en un marco de calidad, innovación y pertinencia.
+- e) Favorecer la movilidad nacional e internacional de profesores, investigadores, profesionales y estudiantes con miras a la integración de la comunidad académica ecuatoriana en la dinámica del conocimiento a nivel regional y mundial.
+- f) Contribuir a la formación del talento humano y al desarrollo de profesionales y ciudadanos críticos, creativos, deliberativos y éticos, que desarrollen conocimientos científicos, tecnológicos y humanísticos, comprometiéndose con las transformaciones de los entornos sociales y naturales, y respetando la interculturalidad, igualdad de género y demás derechos constitucionales.
+- g) Desarrollar una educación centrada en los sujetos educativos, promoviendo el desarrollo de contextos pedagógico-curriculares interactivos, creativos y de co-construcción innovadora del conocimiento y los saberes; adaptados a las necesidades de las personas con discapacidades tanto sensoriales, motoras, como intelectuales que puedan realizar los correspondientes estudios superiores.
+- h) Impulsar el conocimiento de carácter multi, inter y transdisciplinario en la formación de grado y posgrado, la investigación y la vinculación con la colectividad.
+- i) Propiciar la integración de redes académicas y de investigación, tanto nacionales como internacionales, para el desarrollo de procesos de producción del conocimiento y los aprendizajes profesionales.
+- j) Desarrollar la educación superior bajo la perspectiva del bien público social, aportando a la democratización del conocimiento para la garantía de derechos y la reducción de inequidades.
+
+Ibidem “Art. 7.- Formación de Nivel Técnico Superior y sus equivalentes. - Este nivel de formación propicia la adquisición de habilidades y destrezas relacionadas con la aplicación de conocimientos teóricos y adaptaciones tecnológicas y técnicas instrumentales, en el desarrollo de operaciones básicas, en la aplicación de técnicas especializadas y ejecución de funciones vinculadas a contextos laborales referidos a oficios específicos de unidades de producción de bienes y servicios.”
+
+Ibidem “Art. 8.- Formación de Nivel Tecnológico Superior y sus equivalentes. - Este nivel de formación educa profesionales capaces de diseñar, ejecutar, evaluar, modificar o adaptar funciones y procesos relacionados con la producción de bienes y servicios, incluyendo proyectos de aplicación, adaptación e innovación tecnológica.”
+
+Ibidem “Art. 11.- Organización del aprendizaje. - La organización del aprendizaje consiste en la planificación del proceso formativo del estudiante, a través de actividades de aprendizaje: componente de docencia, componente de prácticas de aplicación y experimentación de los aprendizajes y componente de aprendizaje autónomo, que garantizan los resultados pedagógicos correspondientes a los distintos niveles de formación y sus modalidades. La organización del aprendizaje deberá considerar el tiempo que un estudiante necesita invertir en las actividades formativas y en la generación de los productos académicos establecidos en la planificación micro curricular. La organización del aprendizaje tendrá como unidad de planificación el período académico.”
+
+Ibidem “Art. 15.- Art. 15.- Actividades de aprendizaje.- La organización del aprendizaje se planificará incluyendo los siguientes componentes:
+
+**1. Componente de docencia. -** Corresponde a actividades de aprendizaje asistidas por el profesor. Podrán incorporar actividades pedagógicas orientadas a la contextualización, organización, explicación y sistematización del conocimiento científico, técnico, profesional y humanístico, desarrolladas en diferentes ambientes de aprendizaje. Estas actividades comprenderán:
+
+a. Actividades de aprendizaje asistido por el profesor. - Corresponden a aquellas actividades que se realizan con el acompañamiento del docente en los diferentes ambientes de aprendizaje. Pueden ser conferencias, seminarios, orientación para estudio de casos, foros, clases en línea en tiempo sincrónico, docencia en servicio realizada en los escenarios laborales, entre otras.
+
+b. Actividades de aprendizaje colaborativo. - Comprenden actividades grupales en interacción con el profesor, incluyendo las tutorías. Están orientadas a procesos colectivos de organización del aprendizaje, que abordan proyectos, con temáticas o problemas específicos de la profesión orientadas al desarrollo de habilidades de investigación para el aprendizaje. Son actividades de aprendizaje colaborativo, entre otras: proyectos de integración de saberes, construcción de modelos y prototipos, proyectos de problematización y resolución de problemas o casos; sistematización de prácticas de investigación e intervención, que incluyan metodologías de aprendizaje que promuevan el uso de diversas tecnologías de la información y la comunicación, así como metodologías en red, tutorías in situ o en entornos virtuales.
+
+**2. Componente de prácticas de aplicación y experimentación de los aprendizajes. -** Está orientado al desarrollo de experiencias de aplicación de los aprendizajes. Estas prácticas pueden ser, entre otras: actividades académicas desarrolladas en escenarios experimentales, clínicas o consultorios jurídicos gratuitos de las IES, laboratorios, prácticas de campo, trabajos de observación dirigida, resolución de problemas, talleres, entornos virtuales o de simulación, manejo de base de datos y acervos bibliográficos, entre otros. La planificación de estas actividades deberá garantizar el uso de conocimientos teóricos, metodológicos y técnico-instrumentales y podrá ejecutarse en diversos entornos de aprendizaje. Las actividades prácticas deben ser planificadas y evaluadas por el profesor. Pueden ser implementadas y supervisadas por el personal académico no titular ocasional 2 o los ayudantes de cátedra y de investigación.
+
+**3. Componente de aprendizaje autónomo. -** Comprende el trabajo realizado por el estudiante, orientado al desarrollo de capacidades para el aprendizaje independiente e individual. Este trabajo será diseñado, planificado y orientado por el profesor, para alcanzar los objetivos y el perfil de egreso de la carrera o programa. Su implementación y orientación podrán ser apoyadas por el personal académico no titular ocasional 2. Son actividades de aprendizaje autónomo, entre otras: la lectura; el análisis y comprensión de materiales bibliográficos y documentales, tanto analógicos como digitales; la generación de datos y búsqueda de información; la elaboración individual de ensayos, trabajos y exposiciones.”
+
+El Art. 165 del Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación, manifiesta textualmente “Se reconoce la facultad de los autores y demás titulares de derechos de disponer de sus derechos o autorizar las utilizaciones de sus obras o prestaciones, a título gratuito u oneroso, según las condiciones que determinan. Esta Facultad podrá ejercerse mediante licencias libres, abiertas y otros modelos alternativos de licenciamiento o la renuncia”
+
+## 4 Plan Nacional de Desarrollo y Estrategia Territorial
+
+El Modelo Educativo del ISTAE se articula con el Plan Nacional de Desarrollo “Ecuador No Se Detiene” 2025–2029, instrumento oficial de planificación del Estado ecuatoriano aprobado por el Consejo Nacional de Planificación mediante Resolución Nro. 012-2025-CNP del 21 de agosto de 2025. Este plan se estructura en cinco ejes estratégicos (Social; Económico, Productivo y Empleo; Ambiente, Agua, Energía y Conectividad; Institucional; y Riesgos), nueve objetivos nacionales, 94 metas y 45 políticas públicas, alineados con la Estrategia Territorial Nacional y los Objetivos de Desarrollo Sostenible.
+
+La formación técnica y tecnológica que imparte el ISTAE contribuye de manera directa al Objetivo 2 del Eje Social (potenciar las capacidades de la ciudadanía con acceso universal a una educación inclusiva de calidad) y a los Objetivos 4 y 5 del Eje Económico, Productivo y Empleo (impulsar el desarrollo económico generador de empleo de calidad y fortalecer la producción nacional con innovación tecnológica y prácticas sostenibles). Asimismo, aporta al Objetivo 6 mediante la incorporación de la sostenibilidad ambiental en sus procesos formativos.
+
+En el ámbito territorial, el cantón San Lorenzo del Pailón presenta una economía sustentada en el sector agropecuario y en cultivos permanentes y anuales, con presencia significativa de la palma africana, actividad forestal, pesca y potencial turístico asociado a la conservación de los manglares. El territorio enfrenta desafíos estructurales como la deforestación, los altos niveles de pobreza, las brechas de escolaridad y conectividad, y un tejido empresarial limitado. Frente a esta realidad, el Modelo Educativo asume la pertinencia como principio rector: las carreras de Mecanización Agrícola, Mecánica Automotriz y Desarrollo de Software responden a las vocaciones productivas del territorio y a la necesidad de formar talento humano que dinamice la economía local, reduzca la migración de jóvenes y contribuya al desarrollo sostenible de la zona norte de Esmeraldas.
+
+## 5 Identidad del Instituto Superior Tecnológico Alberto Enríquez
+
+### 5.1 Misión
+
+Formar profesionales técnicos y tecnólogos competentes, innovadores y comprometidos con sólidos principios éticos y humanísticos, mediante una educación superior de calidad que articule la docencia, la investigación, la innovación y la vinculación con la sociedad. El Instituto Superior Tecnológico Alberto Enríquez orienta su accionar al fortalecimiento de las capacidades humanas y técnicas, contribuyendo al desarrollo productivo, social y sostenible del cantón San Lorenzo, la provincia de Esmeraldas y el país, a través de la generación de conocimiento, el impulso al emprendimiento y la respuesta pertinente a las necesidades del entorno.
+
+### 5.2 Visión
+
+Al año 2030, el Instituto Superior Tecnológico Alberto Enríquez se consolidará como una institución referente en educación superior técnica y tecnológica, reconocida por su excelencia académica, innovación, pertinencia y compromiso con el desarrollo territorial. Aspiramos a formar profesionales analíticos, críticos, emprendedores y altamente competitivos, capaces de responder a los desafíos científicos, tecnológicos y sociales del entorno local, regional y nacional, contribuyendo de manera significativa a la transformación productiva, al bienestar social y al desarrollo sostenible del país.
+
+## 6 Construcción del Modelo Educativo
+
+### 6.1 Pilares del Modelo Educativo
+
+- a. Descorporativizar la Educación Superior Tecnológica para EL BIEN COMÚN:
+
+- Fomentar un enfoque educativo centrado en el bien común, donde la formación técnica y tecnológica se alinee con las necesidades y aspiraciones de la sociedad.
+- Eliminar barreras corporativas que limiten el acceso y participación en la educación superior, buscando el beneficio colectivo.
+
+- b. Democratizar la Educación Superior Tecnológica y el conocimiento:
+
+- Garantizar un acceso equitativo a la educación superior, promoviendo la inclusión de diversos sectores de la sociedad.
+- Democratizar el conocimiento, facilitando su difusión y compartiendo recursos educativos para enriquecer la experiencia académica.
+
+- c. Revalorizar la docencia Superior Tecnológica, Innovación y la Investigación:
+
+- Reconocer y destacar la importancia de la labor docente en la formación superior tecnológica.
+- Incentivar la innovación y la investigación como pilares esenciales para el desarrollo continuo de la institución y el avance de la sociedad.
+
+- d. Innovar productos tecnológicos y generar nuevo conocimiento:
+
+- Estimular la creatividad y la innovación entre estudiantes y docentes para el desarrollo de productos tecnológicos.
+- Fomentar la generación de nuevo conocimiento a través de la investigación aplicada, contribuyendo al avance tecnológico y científico.
+
+- e. Endogeneidad regional, integración e inserción inteligente en el Sistema de Educación Superior:
+
+- Promover la endogeneidad regional, conectando la oferta educativa con las necesidades y potencialidades locales.
+- Buscar una integración inteligente en el sistema de educación superior, estableciendo alianzas estratégicas y redes que beneficien a la institución y a la región.
+
+- f. Convergencia hacia ARRIBA:
+
+- Establecer una cultura de mejora continua, aspirando a estándares académicos y pedagógicos cada vez más elevados.
+- Buscar la excelencia en todos los aspectos de la educación superior tecnológica, desde la calidad de la enseñanza hasta la gestión institucional.
+
+- g. Construir episteme y tecnología emancipadora:
+
+- Desarrollar un enfoque educativo que promueva la construcción de conocimiento emancipador, capacitando a los estudiantes para participar críticamente en su entorno.
+- Integrar tecnologías de manera que empoderen a los estudiantes y contribuyan a la autonomía intelectual y social.
+
+### 6.2 Principios Orientadores del Modelo Educativo
+
+**Pertinencia:** Asegurar que la educación y formación proporcionadas estén alineadas con las demandas del entorno laboral y las necesidades de la sociedad.
+
+**Calidad:** Mantener altos estándares en los procesos educativos para garantizar una formación de calidad y relevante para los estudiantes.
+
+**Inclusividad:** Promover un ambiente educativo inclusivo que valore y respete la diversidad de los estudiantes, fomentando la participación de todos.
+
+**Equidad:** Buscar la equidad en el acceso a oportunidades educativas, eliminando barreras que puedan limitar el desarrollo académico.
+
+**Sostenibilidad:** Integrar prácticas sostenibles en la gestión institucional y en los programas académicos, considerando el impacto ambiental y social.
+
+**Participación Activa:** Fomentar la participación activa de estudiantes, docentes y personal administrativo en la toma de decisiones y el mejoramiento continuo.
+
+**Flexibilidad Curricular:** Diseñar currículos flexibles que se adapten a las cambiantes necesidades del mercado laboral y las tendencias tecnológicas.
+
+**Aprendizaje Experiencial:** Priorizar metodologías de aprendizaje prácticas y experienciales que preparen a los estudiantes para desafíos del mundo real.
+
+**Aprender a Aprender:** Este principio destaca la importancia de desarrollar en los estudiantes la capacidad de aprender de manera autónoma y continua. Se promueve el pensamiento crítico, la habilidad para buscar, seleccionar y aplicar información, y la adaptabilidad a nuevos entornos y desafíos.
+
+**Aprender a Hacer:** Se enfoca en la aplicación práctica del conocimiento. Este principio impulsa a los estudiantes a desarrollar habilidades prácticas y competencias que les permitan enfrentar situaciones del mundo real. La conexión entre teoría y práctica es esencial para este enfoque.
+
+**Aprender a Ser:** Destaca la formación integral de la persona, abarcando aspectos éticos, emocionales y sociales. Este principio busca cultivar valores, actitudes y habilidades socioemocionales que contribuyan al desarrollo de individuos éticos, autónomos y capaces de interactuar positivamente con su entorno.
+
+**Responsabilidad Social:** Inculcar la responsabilidad social en la formación, motivando a los estudiantes a contribuir positivamente a la sociedad.
+
+**Transparencia:** Mantener un ambiente de transparencia y comunicación abierta en todas las actividades institucionales.
+
+### 6.3 Fundamentos
+
+#### 6.3.1 Fundamentos Políticos
+
+La comunidad educativa del IST Alberto Enríquez se compone de autoridades, personal académico, estudiantes, empleados y trabajadores que colaboran en un entorno caracterizado por la responsabilidad, el respeto y la solidaridad, fomentando la sinergia entre los saberes universales y ancestrales.
+
+El ISTAE se concibe como una comunidad de aprendizaje, transformación e innovación, orientada hacia el desarrollo humano y tecnológico. Asimismo, asume un compromiso con la afirmación de la democracia, la paz y los derechos humanos. La institución se compromete con la salvaguarda del medio ambiente y se adhiere a una filosofía arraigada en las raíces pluriculturales del país. Además, busca mejorar la calidad de vida de la sociedad ecuatoriana, guiada por el principio de que la ciencia debe tener como fin el bienestar humano.
+
+El accionar del IST Alberto Enríquez es incompatible con cualquier forma de intolerancia, violencia y discriminación. La institución se compromete a la formación integral del ser humano, buscando el desarrollo pleno de todas sus potencialidades. Esta meta se logra a través del abordaje de un conjunto de saberes básicos: aprender a aprender, aprender a hacer, aprender a ser, aprender a vivir juntos y aprender a emprender. Estos principios fundamentales guían la filosofía educativa de la institución y refuerzan su compromiso con la construcción de una sociedad inclusiva, tolerante y basada en el respeto mutuo.
+
+#### 6.3.2 Fundamentos Epistemológicos
+
+El IST Alberto Enríquez se sustenta en fundamentos epistemológicos que orientan la construcción y aplicación del conocimiento. Estos fundamentos se basan en la comprensión de la educación como un proceso dinámico y contextualizado que implica la construcción y reconstrucción constante del conocimiento. La epistemología de la institución abraza la diversidad de saberes, promoviendo la integración de perspectivas locales, nacionales e internacionales.
+
+La institución reconoce la importancia de las tradiciones académicas andinas y universales, fomentando el diálogo de saberes. La interacción de conocimientos ancestrales y contemporáneos se considera crucial para el enriquecimiento mutuo y la formación de profesionales que puedan enfrentar los desafíos actuales con una perspectiva global y culturalmente informada.
+
+El enfoque epistemológico del IST Alberto Enríquez promueve la investigación como un pilar fundamental para la generación de nuevo conocimiento y la innovación. Se busca que los estudiantes y docentes participen activamente en la producción de saberes que contribuyan al desarrollo tecnológico, social y cultural, alineados con las necesidades del entorno y la sociedad ecuatoriana.
+
+El IST Alberto Enríquez se apoya en principios epistemológicos que guían la construcción del conocimiento y el enfoque pedagógico. Estos principios se centran en:
+
+- **Método Científico:** Promovemos la aplicación del método científico como herramienta fundamental para la investigación y la generación de conocimiento. Fomentamos la observación, la formulación de hipótesis, la experimentación y el análisis crítico como prácticas esenciales para el desarrollo académico y la resolución de problemas.
+- **Sociológico:** Reconocemos la importancia de comprender y analizar los fenómenos desde una perspectiva sociológica. Buscamos que nuestros estudiantes adquieran una comprensión profunda de las dinámicas sociales, culturales y económicas que influyen en su entorno y en sus disciplinas.
+- **Emprender:** Impulsamos el espíritu emprendedor como parte integral de la formación académica. Fomentamos la capacidad de nuestros estudiantes para identificar oportunidades, asumir riesgos calculados y desarrollar proyectos innovadores, contribuyendo así al desarrollo económico y social.
+- **Competencia:** Guiamos la formación de nuestros estudiantes hacia la adquisición de competencias sólidas en sus respectivas disciplinas. Priorizamos la integración de conocimientos teóricos y prácticos, habilidades técnicas y sociales, preparando a nuestros graduados para enfrentar los desafíos del mundo laboral de manera efectiva.
+
+Además, se incorporan los pilares de la educación del siglo XXI, que se centran en la formación integral de los estudiantes para que puedan "aprender a aprender", "aprender a hacer", "aprender a ser", "aprender a convivir" y "aprender a emprender".
+
+El IST Alberto Enríquez reconoce su responsabilidad social, considerando la educación como un medio y un producto de la sociedad y su transformación. Esta perspectiva queda claramente reflejada en sus fundamentos y se traduce en acciones concretas en la práctica educativa diaria. La institución asume el compromiso de contribuir activamente al desarrollo de la sociedad mediante la formación de profesionales competentes y ciudadanos conscientes, alineando sus principios con las demandas y desafíos actuales.
+
+### 6.4 Competencias por Desarrollar en el Modelo Educativo
+
+El Modelo Educativo del IST Alberto Enríquez busca desarrollar una serie de competencias genéricas clave que fortalecerán la formación integral de los estudiantes. Estas competencias se complementan con aquellas específicas de cada disciplina en las carreras tecnológicas, creando un perfil académico completo y orientado a las necesidades del entorno profesional actual.
+
+Las competencias genéricas abarcan áreas fundamentales como el pensamiento crítico, la comunicación efectiva, el trabajo colaborativo, la adaptabilidad al cambio y el compromiso ético. Este enfoque garantiza que los graduados del ISTAE no solo adquieran conocimientos especializados, sino que también desarrollen habilidades y actitudes que los preparen para enfrentar los desafíos del mundo laboral y contribuir de manera significativa a la sociedad.
+
+El Modelo Educativo del IST Alberto Enríquez se enfoca en el desarrollo de competencias clave para el éxito integral de los estudiantes. Estas competencias genéricas incluyen:
+
+- **Pensamiento crítico y resolución de problemas:** Fomentar la capacidad de análisis, evaluación de información y argumentación fundamentada para la toma de decisiones en contextos técnicos y sociales.
+- **Comunicación efectiva:** Desarrollar habilidades de expresión oral y escrita, en lengua materna y en inglés a nivel básico (A2), para interactuar en entornos académicos y laborales.
+- **Trabajo colaborativo:** Promover el trabajo en equipos multidisciplinarios, la cooperación y el liderazgo participativo en proyectos académicos y productivos.
+- **Adaptabilidad al cambio:** Formar profesionales capaces de ajustarse a entornos tecnológicos y productivos cambiantes, con disposición al aprendizaje continuo.
+- **Compromiso ético:** Consolidar una actuación profesional regida por la honestidad, la transparencia, la responsabilidad y el respeto a la diversidad.
+- **Aprendizaje autónomo (aprender a aprender):** Desarrollar la capacidad de gestionar el propio aprendizaje, buscar, seleccionar y aplicar información de manera crítica.
+- **Uso de tecnologías de la información y comunicación:** Emplear herramientas digitales, sistemas informáticos y tecnologías emergentes aplicadas al campo profesional.
+- **Emprendimiento e innovación:** Fomentar la identificación de oportunidades, la creatividad y la generación de emprendimientos que dinamicen la economía local.
+- **Responsabilidad social y ambiental:** Formar ciudadanos comprometidos con el desarrollo sostenible, la conservación del entorno natural y el bienestar de la comunidad.
+
+Estas competencias, combinadas con las específicas de cada disciplina, aseguran que los graduados del ISTAE estén equipados para sobresalir en sus campos profesionales y contribuir al desarrollo de la sociedad.
+
+- 6.5. Elementos del Modelo Educativo
+- 6.6. Objetivos
+
+El Modelo Educativo del ISTAE tiene como objetivo general orientar los procesos de formación técnica y tecnológica de la institución, articulando la docencia, la investigación y la vinculación con la sociedad bajo un enfoque de formación por competencias, centrado en el estudiante y pertinente a las necesidades del entorno productivo y social del cantón San Lorenzo, la provincia de Esmeraldas y el país.
+
+Son objetivos específicos del Modelo Educativo:
+
+- Establecer los fundamentos filosóficos, epistemológicos, pedagógicos, psicológicos y curriculares que orientan el quehacer académico institucional.
+- Garantizar una formación teórico-práctica con orientación eminentemente aplicada, desarrollada en entornos de aprendizaje académicos y laborales reales o simulados.
+- Articular el perfil de egreso de las carreras con las demandas del sector productivo local y los objetivos del Plan Nacional de Desarrollo y del PEDI institucional 2026–2030.
+- Promover el desarrollo integral del estudiante mediante los saberes fundamentales: aprender a aprender, aprender a hacer, aprender a ser, aprender a convivir y aprender a emprender.
+- Orientar la actualización curricular permanente, la evaluación de los aprendizajes y el mejoramiento continuo de la calidad educativa conforme a los estándares del CACES.
+- 6.7. Sujetos de la educación
+- 6.7.1. Estudiantes
+
+El estudiante es el centro del proceso formativo del ISTAE. Se concibe como un sujeto activo, constructor de su propio aprendizaje, con capacidad de reflexión, autonomía progresiva y compromiso con su entorno. La población estudiantil del Instituto proviene mayoritariamente de los colegios técnicos y técnico-productivos del cantón San Lorenzo y de las parroquias rurales aledañas, así como de trabajadores de empresas locales que buscan profesionalización; se caracteriza por su diversidad cultural, con importante presencia de población afroecuatoriana, y por condiciones socioeconómicas que exigen de la institución políticas activas de acompañamiento, bienestar, inclusión y permanencia.
+
+En coherencia con el Modelo, el estudiante del ISTAE asume responsabilidades: participar activamente en las actividades de aprendizaje en contacto con el docente, práctico-experimentales y autónomas; cumplir las prácticas preprofesionales y actividades de vinculación; actuar conforme a los valores institucionales; y contribuir con espíritu crítico y emprendedor al desarrollo de su comunidad.
+
+- 6.7.2. Docentes
+
+El docente del ISTAE es un mediador y facilitador del aprendizaje, con formación profesional afín a las asignaturas que imparte, experiencia práctica en su campo y competencias pedagógicas y digitales en desarrollo permanente. Su rol trasciende la transmisión de contenidos: diseña experiencias de aprendizaje contextualizadas, acompaña y tutora al estudiante, evalúa de manera formativa y sumativa con criterios transparentes, participa en investigación aplicada y en proyectos de vinculación, y actúa como referente ético ante la comunidad educativa.
+
+La institución, conforme a su PEDI 2026–2030, impulsa la formación de posgrado del personal académico, la capacitación continua en metodologías activas y tecnologías emergentes, la afinidad formación-docencia en el distributivo, y la evaluación integral y periódica del desempeño docente como mecanismos de aseguramiento de la calidad del proceso formativo.
+
+- 6.8. Contextos educativos
+
+El proceso formativo del ISTAE se desarrolla en múltiples contextos que se articulan entre sí: el aula, los laboratorios y talleres institucionales (laboratorio de informática, talleres de mecánica automotriz e industrial y granja experimental de mecanización agrícola), el entorno virtual de aprendizaje, y los escenarios laborales reales del territorio donde se ejecutan las prácticas preprofesionales y los proyectos de vinculación.
+
+- 6.8.1. Contexto nacional
+
+El Ecuador impulsa, a través de la formación técnica y tecnológica, el fortalecimiento del talento humano orientado a la transformación de la matriz productiva, la generación de empleo de calidad y la innovación. El Sistema de Educación Superior, regulado por la LOES y el Reglamento de Régimen Académico, reconoce al tercer nivel técnico-tecnológico superior como el nivel orientado al desarrollo de habilidades y destrezas relacionadas con la aplicación, adaptación e innovación tecnológica en procesos de producción de bienes y servicios. En este marco nacional, y bajo la rectoría actual del Ministerio de Educación, Deporte y Cultura, el ISTAE cumple su rol formador observando los estándares de calidad del CACES y las prioridades del Plan Nacional de Desarrollo “Ecuador No Se Detiene” 2025–2029.
+
+En el contexto regional y local, la provincia de Esmeraldas y en particular el cantón San Lorenzo del Pailón presentan indicadores sociales y educativos por debajo de la media nacional, un aparato productivo concentrado en el agro, la actividad forestal y la pesca, y desafíos de conectividad, seguridad y empleabilidad juvenil. El ISTAE, como única institución de educación superior con presencia física en el cantón, asume la responsabilidad de democratizar el acceso a la formación tecnológica, retener y potenciar el talento local, y constituirse en un actor del desarrollo territorial mediante la formación, la investigación aplicada y la vinculación con la sociedad.
+
+- 6.9. Resultados del Aprendizaje
+- 6.9.1. Resultados del aprendizaje genéricos
+
+Los resultados de aprendizaje genéricos son comunes a todas las carreras del ISTAE y expresan el perfil integral del tecnólogo que la institución forma. Al culminar su formación, el graduado del ISTAE:
+
+- Aplica conocimientos científicos, técnicos y tecnológicos en la solución de problemas reales de su campo profesional, con criterios de calidad, seguridad y sostenibilidad.
+- Comunica ideas, informes técnicos y propuestas de manera clara y efectiva, de forma oral y escrita, empleando herramientas digitales y un nivel básico de inglés técnico.
+- Trabaja de manera colaborativa en equipos multidisciplinarios, demostrando liderazgo, responsabilidad y respeto a la diversidad.
+- Ejecuta proyectos de investigación aplicada e innovación orientados al fortalecimiento del sector social y productivo de su entorno.
+- Actúa con ética profesional, conciencia ambiental y responsabilidad social, en el marco de los derechos, la interculturalidad y la convivencia democrática.
+- Emprende iniciativas productivas y de servicios que contribuyen a la generación de empleo y al desarrollo económico local.
+- 6.9.2. Resultados del aprendizaje específicos
+
+Los resultados de aprendizaje específicos se derivan de los perfiles de egreso de los diseños curriculares aprobados por el Consejo de Educación Superior para cada una de las carreras vigentes:
+
+**Tecnología Superior en Desarrollo de Software.** Los graduados serán capaces de realizar soporte, desarrollo y aplicación de programas informáticos y aplicativos móviles mediante la operación de protocolos técnicos de las ciencias informáticas. En particular: aplicar procedimientos y normas de las TIC en el ensamblaje, configuración y mantenimiento de equipos y sistemas informáticos; evaluar el funcionamiento de hardware y software para diagnosticar y resolver problemas de cómputo y redes; administrar redes según los requerimientos organizacionales; proporcionar soporte técnico en software de aplicación; ejecutar proyectos de investigación aplicada que impulsen emprendimientos locales y regionales; y aplicar con ética las disposiciones legales y normas internacionales en la configuración de sistemas informáticos.
+
+**Tecnología Superior en Mecánica Automotriz.** Los graduados serán capaces de realizar trabajos de diagnóstico, reparación, modificación y mantenimiento de motores a gasolina y diésel; elaborar y aplicar planes de mantenimiento preventivo y correctivo en flotas vehiculares; operar herramientas y equipos de diagnóstico y reparación conforme a los parámetros de los fabricantes; controlar procesos de adquisición de suministros y repuestos según los planes operativos del taller; elaborar informes técnicos y presupuestos de reparación con herramientas informáticas; y planificar, gestionar e innovar los procesos de mantenimiento de sistemas automotrices convencionales, electrónicos e híbridos, incluyendo la gerencia y creación de empresas de servicio automotriz.
+
+**Tecnología Superior en Mecanización Agrícola.** Los graduados serán capaces de desarrollar procesos productivos, científicos y tecnológicos en el sector agropecuario con criterios de sustentabilidad y sostenibilidad; operar equipos e infraestructuras de riego, maquinaria, insumos y herramientas de la producción agropecuaria aplicando normas de bioseguridad y conservación del suelo; evaluar la calidad y estado de las especies agrícolas con base en aspectos productivos y reproductivos; diseñar estudios con viabilidad técnica, económica y ambiental que respalden la inversión en el sector agrícola y garanticen la seguridad y soberanía alimentaria; recuperar los saberes ancestrales de la herencia agrícola para la producción sostenible de alimentos; y administrar y gerenciar procesos agropecuarios fomentando la asociatividad y la economía popular y solidaria.
+
+## 7 Funciones de las IES relacionadas con el Modelo Educativo
+
+- 7.1. Función Docencia
+
+La docencia constituye el eje central del quehacer institucional y comprende la planificación, ejecución y evaluación de los procesos de enseñanza-aprendizaje en las carreras vigentes. Se desarrolla bajo el enfoque de formación por competencias, con organización del aprendizaje en tres componentes conforme al Reglamento de Régimen Académico: aprendizaje en contacto con el docente, aprendizaje práctico-experimental y aprendizaje autónomo. La docencia del ISTAE prioriza la aplicación práctica en talleres, laboratorios, granja experimental y escenarios laborales reales; la actualización permanente del microcurrículo; la incorporación de tecnologías emergentes (inteligencia artificial, robótica, software especializado) y de temáticas de sostenibilidad; y el acompañamiento pedagógico al estudiante para garantizar su permanencia y titulación oportuna.
+
+- 7.2. Función Investigación e Innovación
+
+La investigación en el ISTAE es de carácter aplicado y formativo, orientada a la solución de problemas del entorno y al fortalecimiento del sector socioproductivo, en coherencia con los dominios institucionales definidos en el PEDI 2026–2030: calidad de la educación y procesos de formación; fortalecimiento de la investigación en ciencias de la vida; desarrollo tecnológico, innovación y competitividad para el sector socioproductivo; y salud. Cada carrera cuenta con líneas y sublíneas de investigación aprobadas que orientan los proyectos de docentes y estudiantes: en Mecánica Automotriz, la ingeniería de mantenimiento automotriz, el diseño mecánico automotriz y la gestión de eficiencia energética; en Desarrollo de Software, la tecnología informática para la mejora de la calidad de vida de la población y el desarrollo e innovación de software para la optimización de recursos; y en Mecanización Agrícola, la gestión de la calidad de productos y materia agrícola y la mecánica de maquinaria agrícola. La función se operativiza mediante proyectos de I+D, semilleros de investigación, proyectos integradores de saberes, producción de guías y publicaciones académicas, y eventos de divulgación científica.
+
+- 7.3. Función Vinculación
+
+La vinculación con la sociedad articula al Instituto con los actores sociales, productivos e institucionales de su zona de influencia, mediante programas y proyectos de servicio comunitario, educación continua, capacitación técnica gratuita, transferencia de conocimiento y prácticas preprofesionales. Esta función genera un flujo de doble vía: el ISTAE aporta soluciones y formación al territorio, y el territorio retroalimenta la pertinencia de la oferta académica y del currículo. Los proyectos de vinculación se planifican alineados al PEDI y al POA institucional, se ejecutan con participación de docentes y estudiantes de las tres carreras, y se someten a seguimiento, evaluación y sistematización de evidencias, incluyendo el seguimiento a graduados y su inserción laboral.
+
+- 7.4. Función Gestión y Administración
+
+La gestión y administración institucional brinda las condiciones de gobernanza, planificación, talento humano, infraestructura, tecnología y aseguramiento de la calidad que hacen posible el desarrollo de las funciones sustantivas. Conforme al Estatuto institucional, el ISTAE se organiza en tres niveles: de Gobierno (Órgano Colegiado Superior, Rectorado y Vicerrectorado), Académico (coordinaciones de carrera y de las funciones sustantivas) y de Asesoría y Apoyo (unidades de soporte técnico, administrativo y estratégico). La gestión se desarrolla bajo un enfoque por procesos, con planificación estratégica (PEDI 2026–2030), planificación operativa anual (POA), plan de mejoramiento institucional (PMI) alineado a los indicadores del CACES, y un sistema de aseguramiento interno de la calidad que garantiza el seguimiento, la evaluación y la mejora continua.
+
+## 8 Modelo Educativo
+
+El Modelo Educativo del ISTAE se define como un modelo de formación tecnológica por competencias, centrado en el estudiante y con orientación eminentemente práctica, que integra armónicamente las funciones sustantivas de docencia, investigación y vinculación con la sociedad. Se sustenta en los cuatro pilares de la educación propuestos por la UNESCO en el informe “La Educación Encierra un Tesoro” (aprender a conocer, aprender a hacer, aprender a ser y aprender a vivir juntos), a los que la institución añade el aprender a emprender, y en la teoría del pensamiento complejo de Edgar Morin, que invita a comprender los problemas del mundo real en su multidimensionalidad.
+
+El Modelo se concreta y operativiza a través de tres modelos complementarios que se describen a continuación: el Modelo Pedagógico, que define el cómo se enseña y se aprende; el Modelo Psicológico, que explica cómo aprende el sujeto y qué condiciones favorecen su desarrollo; y el Modelo Curricular, que establece cómo se organiza, planifica y evalúa la formación.
+
+## 9 Modelo Pedagógico
+
+El Modelo Pedagógico del ISTAE es de orientación constructivista y socioformativa, con enfoque de formación por competencias. Concibe el aprendizaje como un proceso activo de construcción de conocimientos, habilidades y actitudes, que parte de los saberes previos del estudiante y se consolida mediante la experiencia práctica, la reflexión y la aplicación en contextos reales, vivenciales o simulados en laboratorios, talleres y escenarios laborales.
+
+Son rasgos distintivos del Modelo Pedagógico institucional:
+
+- **Aprendizaje centrado en el estudiante:** El estudiante participa activamente en la construcción de su conocimiento; el docente actúa como mediador, tutor y facilitador de experiencias de aprendizaje.
+- **Metodologías activas:** Se privilegian el aprendizaje basado en proyectos y problemas (ABP), el estudio de casos, el aprendizaje en campo y taller, las prácticas de laboratorio, las visitas y giras técnicas, la gamificación y el aprendizaje colaborativo.
+- **Relación teoría-práctica:** La teoría se aprende en función de la práctica; los exámenes sumativos institucionales mantienen una composición del 40% teórico y 60% práctico, en coherencia con el enfoque tecnológico del Instituto.
+- **Vinculación con el entorno laboral:** La formación combina la asistencia del profesional docente con la autonomía del estudiante y se desarrolla también en entornos laborales reales mediante prácticas preprofesionales y proyectos con el sector productivo, aproximándose progresivamente a esquemas de formación dual.
+- **Mediación tecnológica:** El entorno virtual de aprendizaje institucional, disponible de manera permanente, y las herramientas digitales complementan y enriquecen la presencialidad.
+- **Formación integral:** La formación en valores, el bienestar psicológico y el desarrollo de habilidades blandas constituyen ejes transversales del proceso formativo.
+## 10 Modelo Psicológico
+
+El Modelo Psicológico institucional explica cómo aprende el estudiante y orienta las decisiones pedagógicas y de acompañamiento. Se fundamenta en el enfoque cognitivo y socioconstructivista: recoge de Piaget la comprensión del aprendizaje como proceso de asimilación y acomodación activa; de Vygotsky, el papel de la interacción social y de la zona de desarrollo próximo, que sustenta la mediación docente, las tutorías y el trabajo colaborativo; y de Ausubel, el principio del aprendizaje significativo, que exige partir de los conocimientos previos y de contextos con sentido para el estudiante —en el caso del ISTAE, los contextos productivos y culturales de San Lorenzo.
+
+El Modelo reconoce, además, la dimensión afectiva y motivacional del aprendizaje. Por ello, el bienestar psicológico se incorpora como eje transversal formativo: la institución implementa programas de acompañamiento estudiantil, tutorías académicas, sistemas de alerta temprana frente al riesgo de deserción, estímulos positivos y rutas de derivación para atención psicológica en articulación con la red pública de salud. Se asume igualmente el respeto a los diversos ritmos y estilos de aprendizaje, la atención a estudiantes con necesidades educativas específicas y la valoración de la diversidad cultural como riqueza del proceso formativo.
+
+## 11 Modelo Curricular
+
+El Modelo Curricular del ISTAE organiza la formación conforme al Reglamento de Régimen Académico y a los diseños curriculares aprobados por el Consejo de Educación Superior. El currículo de las carreras se estructura por niveles y períodos académicos ordinarios, con organización del aprendizaje en tres componentes: aprendizaje en contacto con el docente, aprendizaje práctico-experimental y aprendizaje autónomo. Integra las unidades de organización curricular básica, profesional y de integración curricular, e incorpora las prácticas preprofesionales (laborales y de servicio comunitario) como parte constitutiva de la formación. El Modelo Curricular se despliega en tres dimensiones —curricular, didáctica y evaluativa— y se gestiona mediante cuatro fases articuladas.
+
+- 11.1. Dimensión curricular
+- 11.1.1. Fase 1: Construcción del perfil
+
+Parte del estudio de pertinencia: análisis de las necesidades del entorno productivo y social, las tendencias tecnológicas y ocupacionales, y las políticas nacionales. Con estos insumos se construyen o actualizan el perfil profesional y el perfil de egreso de cada carrera, expresados en resultados de aprendizaje y competencias, articulados con los núcleos estructurantes del conocimiento y validados con actores del sector productivo y graduados.
+
+- 11.1.2. Fase 2: Planificación curricular
+
+Comprende el diseño macro y mesocurricular: la definición de la malla curricular, las unidades de organización curricular, los itinerarios, la carga horaria por componentes de aprendizaje, las prácticas preprofesionales y el trabajo de integración curricular o examen complexivo. Esta planificación consta en los diseños y rediseños curriculares aprobados por el CES y se revisa periódicamente para incorporar habilidades emergentes, contenidos de sostenibilidad y demandas del territorio.
+
+- 11.1.3. Fase 3: Planificación Microcurricular
+
+Corresponde a la elaboración de los Programas de Estudio de Asignatura (PEA) y sílabos por parte de los docentes, bajo la supervisión de las coordinaciones de carrera. Cada PEA define los resultados de aprendizaje de la asignatura, los contenidos organizados en bloques teórico y práctico, las metodologías, los recursos (incluida la bibliografía disponible en la biblioteca física y virtual institucional), las guías prácticas y el sistema de evaluación con sus rúbricas. El avance del programa debe cumplir al menos el 90% en cada período académico, con planes de recuperación académica cuando no se alcance.
+
+- 11.1.4. Fase 4: Seguimiento y evaluación
+
+Comprende el seguimiento al cumplimiento de los PEA, el acompañamiento áulico, la evaluación integral del desempeño docente, la evaluación de los aprendizajes, el análisis de resultados académicos (aprobación, deserción, titulación) y la retroalimentación al diseño curricular. Los hallazgos alimentan los planes de mejora institucional y la actualización curricular, en el marco del sistema de aseguramiento interno de la calidad y de los estándares del CACES.
+
+- 11.2. Dimensión didáctica
+
+La dimensión didáctica concreta el Modelo Pedagógico en el aula, el taller, el laboratorio, el campo y el entorno virtual. Las estrategias privilegiadas son: el aprendizaje basado en proyectos y problemas aplicados a procesos productivos reales; las prácticas de taller y laboratorio con guías estructuradas; el aprendizaje en campo (granja experimental, fincas, talleres de la localidad); las visitas y giras técnicas a empresas; los proyectos integradores de saberes que articulan varias asignaturas por nivel; la clase invertida y el uso del entorno virtual de aprendizaje para contenidos, actividades y evaluación; y las tutorías académicas individuales y grupales. Los docentes elaboran guías de estudio y guías prácticas por asignatura, que conforman un repositorio institucional en crecimiento, y planifican actividades que incorporan tecnologías de la información y comunicación en todos los niveles.
+
+- 11.3. Dimensión evaluativa
+
+La dimensión evaluativa se rige por el Reglamento de Evaluación Estudiantil Interno del ISTAE, en concordancia con la normativa nacional. La evaluación de los aprendizajes es diagnóstica, formativa, sistemática, continua y sumativa, y considera los componentes cognitivo, procedimental y actitudinal establecidos en el programa de estudio de cada asignatura.
+
+- La escala de valoración comprende el rango de cero (0) a diez (10) puntos; todas las actividades de evaluación se califican sobre diez puntos y las notas se registran en el sistema de gestión académica respetando las ponderaciones establecidas.
+- Cada período académico se organiza en parciales con progresos de evaluación; los mecanismos de evaluación (talleres, proyectos de aula, pruebas, resolución de problemas prácticos, exposiciones, experimentación, entre otros) se definen en el PEA con sus respectivas rúbricas, que se dan a conocer a los estudiantes antes de cada evaluación.
+- Los exámenes sumativos mantienen, como regla general, una composición del 40% teórico y 60% práctico, garantizando la evaluación equilibrada de conocimientos conceptuales y aplicación técnica.
+- Se contemplan actividades evaluativas de recuperación para los estudiantes que no alcancen el puntaje mínimo de aprobación, precedidas de tutorías de acompañamiento y refuerzo académico, conforme a las condiciones y ponderaciones definidas en el reglamento interno.
+- La evaluación se complementa con la evaluación integral del desempeño docente (autoevaluación, coevaluación y heteroevaluación) y con la evaluación curricular periódica, cuyos resultados retroalimentan la mejora continua del proceso formativo.
+
+**Referencias**
+
+Asamblea Nacional Constituyente del Ecuador. (2008). Constitución de la República del Ecuador. Registro Oficial 449.
+
+Asamblea Nacional del Ecuador. (2010, reformada 2018). Ley Orgánica de Educación Superior (LOES). Registro Oficial Suplemento 298.
+
+Asamblea Nacional del Ecuador. (2016). Código Orgánico de la Economía Social de los Conocimientos, Creatividad e Innovación. Registro Oficial Suplemento 899.
+
+Consejo de Educación Superior. (2019, con reformas vigentes). Reglamento de Régimen Académico. República del Ecuador.
+
+Consejo de Educación Superior. (2023). Reglamento de las instituciones de educación superior de formación técnica y tecnológica. Resolución RPC-SE-04-No.012-2023.
+
+Consejo Nacional de Planificación. (2025). Plan Nacional de Desarrollo “Ecuador No Se Detiene” 2025–2029. Resolución Nro. 012-2025-CNP.
+
+Delors, J. (1996). La educación encierra un tesoro. Informe a la UNESCO de la Comisión Internacional sobre la Educación para el Siglo XXI. Santillana / Ediciones UNESCO.
+
+Instituto Superior Tecnológico Alberto Enríquez. (2026). Plan Estratégico de Desarrollo Institucional 2026–2030. San Lorenzo, Ecuador.
+
+Instituto Superior Tecnológico Alberto Enríquez. (2026). Reglamento de Evaluación Estudiantil Interno. San Lorenzo, Ecuador.
+
+Instituto Superior Tecnológico Alberto Enríquez. Estatuto Institucional. San Lorenzo, Ecuador.
+
+Instituto Superior Tecnológico Alberto Enríquez. (2024). Líneas de investigación por carrera. San Lorenzo, Ecuador.
+
+Morin, E. (1999). Los siete saberes necesarios para la educación del futuro. UNESCO.
+
+Vygotsky, L. (1978). El desarrollo de los procesos psicológicos superiores. Crítica.

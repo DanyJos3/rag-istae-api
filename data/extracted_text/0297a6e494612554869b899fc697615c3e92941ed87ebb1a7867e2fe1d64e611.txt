@@ -1,0 +1,165 @@
+**NORMATIVA PARA LOS TRABAJOS DE INTEGRACIÓN CURRICULAR**
+
+**OBJETIVO**
+
+Regular y operativizar el proceso para la presentación, desarrollo, seguimiento y aprobación de los trabajos de integración curricular, garantizando:
+
+- Rigor académico.
+- Pertinencia con el perfil de egreso.
+- Evaluación preventiva y continua.
+- Eliminación de la defensa privada.
+- Unificación en una única defensa pública.
+
+**ALCANCE**
+
+Esta normativa aplica a todos los estudiantes de nivel técnico y tecnológico del Instituto Superior Tecnológico “Alberto Enríquez” que opten por la modalidad de trabajo de integración curricular como vía de titulación.
+
+**ANTEPROYECTO**
+
+- Durante el tercer periodo de sus estudios, el estudiante deberá haber realizado, presentado y aprobado su ANTEPROYECTO DEL TRABAJO DE INTEGRACIÓN CURRICULAR (Anexo 1), que guardará correspondencia con los aprendizajes adquiridos y las líneas de investigación del instituto.
+- El anteproyecto será evaluado por la Comisión Asesora de Carrera (CAC) utilizando la Rúbrica del Anteproyecto (Anexo 1.1).
+- Si cumple con los criterios, la CAC emitirá el CERTIFICADO DE EXAMINACIÓN DEL ANTEPROYECTO (Anexo 2).
+- El Coordinador de Carrera remitirá el anteproyecto, el Anexo 2 y el informe de seguimiento a la CTI, para su envío al OCS.
+
+**APROBACIÓN DEL ANTEPROYECTO Y ASIGNACIÓN DE ACTORES**
+
+El Órgano Colegiado Superior (OCS), en sesión convocada para el efecto, aprobará el anteproyecto en última instancia y procederá a la asignación de:
+
+- Tutor.
+- Revisor metodológico.
+- Revisor técnico.
+
+Esta asignación se realizará en coordinación con la CTI y los Coordinadores de Carrera.
+
+La asignación considerará:
+
+- Pertinencia del tutor con el tema.
+- Especialidad del revisor técnico.
+- Experiencia del revisor metodológico en normativas APA 7 y diseño de investigación.
+
+**DESARROLLO DEL TRABAJO**
+
+El estudiante desarrollará el trabajo con el acompañamiento continuo del tutor, quien deberá:
+
+- Establecer cronograma de avances.
+- Revisar semanalmente los avances.
+- Presentar el Informe Mensual de Avance (Anexo 8) a la CTI.
+
+El revisor metodológico asesorará en:
+
+- Normativas APA 7.
+- Diseño de investigación.
+- Citación y referencias.
+- Uso de gestores bibliográficos (Zotero, Mendeley).
+
+El revisor técnico asesorará en:
+
+- Pertinencia del contenido.
+- Viabilidad de la propuesta.
+- Aporte al perfil profesional.
+- Ambos revisores emitirán informes de seguimiento que se integrarán al expediente del estudiante.
+
+**FILTRO FINAL Y CERTIFICADO DE APTITUD PARA DEFENSA PÚBLICA**
+
+Una vez finalizado el trabajo, el Coordinador de Carrera recopilará toda la documentación y la remitirá a la CTI.
+
+La CTI realizará un filtro final que verificará:
+
+- Cumplimiento del formato (Anexo 18).
+- Porcentaje de similitud ≤15% (Anexo 9).
+- Informes mensuales del tutor (Anexo 8).
+- Informes de aptitud del tutor (Anexo 12), revisor metodológico y revisor técnico.
+- Aprobación del anteproyecto (Anexo 2).
+- Declaratoria de egresado (Anexo 14).
+
+Si todo está en orden, la CTI emitirá el CERTIFICADO DE APTITUD PARA DEFENSA PÚBLICA (Anexo 16).
+
+Sin este certificado, no se podrá avanzar al OCS.
+
+**DEFENSA PÚBLICA**
+
+La CTI remitirá el expediente completo al OCS.
+
+El OCS, en sesión ordinaria, aprobará la documentación final y autorizará la programación de la defensa pública, asignando fecha, hora y lugar.
+
+La defensa pública será la única instancia de evaluación final. Participarán:
+
+- El estudiante.
+- El tutor.
+- El revisor metodológico.
+- El revisor técnico.
+- El Coordinador de Carrera o su representante.
+- Un representante de la CTI (presidente del comité).
+
+La calificación será sobre 10 puntos, con base en la Rúbrica del Trabajo de Titulación (Anexo 24).
+
+Nota mínima de aprobación: 8/10.
+
+**ENTREGA FINAL DEL TRABAJO**
+
+Una vez aprobada la defensa pública, el estudiante presentará a la CTI:
+
+- Cargar al repositorio de cada carrera.
+
+La CTI verificará el cumplimiento de la normativa y remitirá el material a la Secretaría General para el acta de grado.
+
+**SIMILITUD, PLAGIO Y USO DE INTELIGENCIA ARTIFICIAL**
+
+***Similitud y plagio***
+
+- El trabajo de integración curricular no deberá superar el 15% de similitud de texto, verificado mediante software oficial (Turnitin o similar).
+- El tutor verificará el porcentaje de similitud y emitirá a la CTI el CERTIFICADO DE REVISIÓN DE ANTIPLAGIO (Anexo 9).
+- Si el porcentaje supera el 15%, el trabajo será devuelto al estudiante para corrección.
+- En caso de plagio, fraude o deshonestidad académica, se aplicarán las sanciones del Reglamento de Régimen Disciplinario.
+
+***Uso de Inteligencia Artificial (IA)***
+
+El estudiante puede utilizar herramientas de inteligencia artificial como apoyo en procesos de redacción, corrección gramatical, organización de ideas o mejora de estilo, siempre que:
+
+- El contenido final sea de autoría propia y refleje el pensamiento, análisis y redacción del estudiante.
+- No se utilice IA para generar el contenido central del trabajo (problema, objetivos, metodología, análisis de datos, conclusiones).
+- Se declare el uso de IA en una sección titulada "Declaración de Uso de Inteligencia Artificial" al final del trabajo.
+- El porcentaje de contenido generado por IA no supere el 35% del texto total.
+
+La declaración debe incluir:
+
+- Herramienta utilizada (ej. ChatGPT, Gemini).
+- Propósito (ej. corrección de estilo).
+- Porcentaje estimado de texto generado/modificado.
+
+El incumplimiento será considerado falta académica grave.
+
+**RETIRO DEL ESTUDIANTE**
+
+Si un estudiante desea retirarse de un trabajo grupal, deberá presentar una renuncia por escrito a la CTI.
+
+La CTI emitirá un informe al OCS, que incluirá:
+
+- Renuncia del estudiante.
+- Aceptación de responsabilidad completa por parte de los que continúan.
+
+El estudiante que se retire no podrá acreditar el trabajo como parte de su titulación.
+
+**DISPOSICIONES GENERALES**
+
+Esta normativa se aplica a partir del 1 de agosto de 2025.
+
+Deroga a la versión 01 de esta normativa.
+
+Cualquier caso no previsto será resuelto por el OCS, a propuesta de la CTI.
+
+**CERTIFICO** . Que la presente normativa fue aprobada en primera instancia en sesión ordinaria del OCS N° 07 mediante resolución **RES-ISTAE-OCS-2024-SO-07-R003** del 17 de mayo de 2024.
+
+En constancia firman:
+
+Mgtr. Ever Alejandro Palacios Acosta
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+RECTOR ISTAE
+
+Abga. Ana Karen Solís Bolaño
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+SECRETARIA GENERAL ACADÉMICA

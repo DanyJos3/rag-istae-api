@@ -1,0 +1,837 @@
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+## RPC-SE-04-No.012-2023 EL CONSEJO DE EDUCACIÓN SUPERIOR
+
+## Considerando:
+
+Que, el artículo 352 de la Constitución de la República del Ecuador, establece: "El sistema de educación superior estará integrado por universidades y escuelas politécnicas; institutos superiores técnicos, tecnológicos y pedagógicos; y conservatorios de música y artes, debidamente acreditados y evaluados. Estas instituciones, sean públicas o particulares, no
+
+tendrán fines de lucro"; Que, el artículo 353 de la Carta Fundamental, sostiene: "El sistema de educación superior se regirá por: 1. Un organismo público de planificación, regulación y coordinación interna del sistema y de la relación entre sus distintos actores con la Función Ejecutiva (...)"; Que, el artículo 14 de la Ley Orgánica de Educación Superior (LOES), menciona: "Son instituciones del Sistema de Educación Superior: a) Las universidades, escuelas politécnicas públicas y particulares, debidamente evaluadas y acreditadas, conforme la presente Ley; b) Los institutos superiores técnicos, tecnológicos, pedagógicos y de artes, tanto públicos como particulares debidamente evaluados y acreditados, conforme la presente Ley (…) Los institutos y conservatorios superiores podrán tener la condición de superior universitario, previo el cumplimiento de los requisitos establecidos en el reglamento a esta Ley y la normativa que para el efecto expida el Consejo de Educación Superior. El Consejo de Aseguramiento de la Calidad de la Educación Superior acreditará o cualificará a los institutos para que puedan ofertar posgrados técnicos tecnológicos"; Que, el artículo 114 de la LOES, preceptúa: "La formación técnica y tecnológica tiene como objetivo la formación de profesionales de tercer y cuarto nivel técnico-tecnológico orientada al desarrollo de las habilidades y destrezas relacionadas con la aplicación, coordinación, adaptación e innovación técnico-tecnológica en procesos relacionados con la producción de bienes y servicios"; Que, el artículo 115 de la referida Ley, indica: "Son instituciones de educación superior técnica tecnológica, los institutos superiores técnicos, tecnológicos, pedagógicos y de artes"; nivel o de posgrado, está orientado a la formación académica y profesional avanzada e
+
+Que, el artículo 118 de la mencionada Ley, establece: "Los niveles de formación que imparten las instituciones del Sistema de Educación Superior son: 1. Tercer nivel técnico-tecnológico y de grado. a) Tercer nivel técnico-tecnológico superior. El tercer nivel técnico - tecnológico superior, orientado al desarrollo de las habilidades y destrezas relacionadas con la aplicación, adaptación e innovación tecnológica en procesos relacionados con la producción de bienes y servicios; corresponden a este nivel los títulos profesionales de técnico superior, tecnólogo superior o su equivalente y tecnólogo superior universitario o su equivalente (…) 2. Cuarto investigación en los campos humanísticos, tecnológicos y científicos. a) Posgrado tecnológico, corresponden a este nivel de formación los títulos de: especialista tecnológico y el grado académico de maestría tecnológica (…) Las universidades y escuelas politécnicas podrán otorgar títulos de tercer nivel técnico-tecnológico superior, técnico-tecnológico superior universitario, de grado y posgrado tecnológico, conforme al reglamento de esta Ley. Los institutos superiores técnicos y tecnológicos podrán otorgar títulos de tercer nivel tecnológico superior; y, los institutos superiores que tengan la condición de instituto superior universitario podrán otorgar además los títulos de tercer nivel tecnológico superior universitario y posgrados tecnológicos; se priorizará la oferta técnico-tecnológica en estos institutos frente a la oferta de las universidades y escuelas politécnicas (…)";
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Que, el artículo 166 de la señalada Ley, indica: "El Consejo de Educación Superior es el organismo de derecho público con personería jurídica, patrimonio propio e independencia administrativa, financiera y operativa, que tiene a su cargo la planificación, regulación y coordinación del Sistema de Educación Superior, y la relación entre sus distintos actores con la Función Ejecutiva y la sociedad ecuatoriana (...)";
+
+Que, el artículo 169 literales g) y r) de la Ley ibídem, precisan: "Son atribuciones y deberes del Consejo de Educación Superior, en el ámbito de esta Ley: (...) g) Expedir la normativa reglamentaria necesaria para el ejercicio de sus competencias y lograr el cumplimiento de los objetivos establecidos en el Plan de Desarrollo de la Educación Superior (...) r) Las demás atribuciones establecidas en esta ley y las que requiera para el ejercicio de sus funciones en el marco de la Constitución y la Ley";
+
+Que, la Disposición Transitoria Primera del Reglamento General a la LOES, dispone: "El Consejo de Educación Superior en el término máximo de noventa (90) días a partir de la expedición del presente Reglamento, deberá ajustar su normativa secundaria a las disposiciones del presente cuerpo normativo";
+
+Que, a través Resolución 006-001-2011, de 28 de septiembre de 2011, el Pleno del Consejo de Educación Superior (CES) expidió el Reglamento Interno de este Organismo, reformado por última ocasión mediante Resolución RPC-SO-44-No.811-2019, de 18 de diciembre de 2019;
+
+Que, el artículo 52 del Reglamento Interno del CES, señala: "Corresponde a los miembros del CES la iniciativa para proponer proyectos de los reglamentos que, de acuerdo a la Ley deba aprobar el mismo, así como proyectos de reformas a los vigentes";
+
+Que, mediante Resolución RPC-SO-04-No.057-2019, de 30 de enero de 2019, el Pleno del CES expidió el Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica, reformado por última ocasión a través de Resolución RPC-SO-l3-No.246-2020, de 20 de mayo de 2020;
+
+Que, el Pleno del CES en su Trigésima Tercera Sesión Ordinaria desarrollada el 24 de agosto de 2022, mediante Acuerdo ACU-PC-SO-33-No.006-2022, convino: "Encargar a la Comisión Permanente de Institutos y Conservatorios Superiores que, elabore una propuesta de reforma al Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica, de conformidad a lo establecido en la Disposición Transitoria Primera del Reglamento a la Ley Orgánica de Educación Superior, y se presente al Pleno del CES para su debate y aprobación";
+
+Que, a través de Resolución RPC-SE-02-No.005-2023, de 02 de marzo de 2023, el Pleno de este Organismo, resolvió: "Artículo Único.- Aprobar en primer debate la propuesta de 'Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica'";
+
+Que, mediante memorando CES-CPIC-2023-0169-M, de 08 de marzo de 2023, el Presidente de la Comisión Permanente de Institutos y Conservatorios Superiores del CES notifico el Acuerdo ACU-CPICS-SE-11-No.068-2023, adoptado en la Décima Primera Sesión Extraordinaria desarrollada el 08 de marzo de 2023, a través del cual convino: "1. Dar por conocido y acoger el informe para la propuesta de Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica, elaborado por el equipo de la Comisión Permanente de Institutos y Conservatorios Superiores. 2. Dar por conocidas las observaciones realizadas por los miembros que integran el Pleno del CES en la segunda sesión extraordinaria, desarrollada el 02 de marzo de 2023, mismas que han sido analizadas y consideradas por la Comisión para la elaboración de la propuesta final de Reglamento. 3. Remitir al Pleno del CES para su conocimiento y recomendar apruebe en segundo debate la propuesta de Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica";
+
+<!-- image -->
+
+<!-- image -->
+
+Que, una vez que analizada la propuesta de Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica, presentado por la Comisión Permanente de Institutos y Conservatorios Superiores del CES, se considera pertinente acoger su contenido; y,
+
+En ejercicio de las atribuciones que le confiere la Ley Orgánica de Educación Superior,
+
+## RESUELVE:
+
+Expedir el siguiente:
+
+## REGLAMENTO DE LAS INSTITUCIONES DE EDUCACIÓN SUPERIOR DE FORMACIÓN TÉCNICA Y TECNOLÓGICA
+
+## CAPÍTULO I OBJETO Y ÁMBITO
+
+Artículo 1.- Objeto.- Este Reglamento tiene por objeto regular los requisitos y el procedimiento para la creación, transformación, adscripción, fusión, extinción y adquirir la condición de superior universitario, según corresponda, de los institutos superiores técnicos, tecnológicos, pedagógicos y de artes, tanto públicos como particulares; así como, para las unidades académicas especializadas en la formación técnica y tecnológica de las universidades y escuelas politécnicas, en lo que
+
+Artículo 2.- Ámbito.- El presente Reglamento es de aplicación obligatoria para los institutos superiores técnicos, tecnológicos, pedagógicos y pedagógicos interculturales bilingües y de artes que se encuentren en funcionamiento y aquellos que inicien el procedimiento de creación. Asimismo, para las unidades académicas especializadas en la formación técnica y tecnológica de las universidades y escuelas politécnicas; y, para los organismos que regulan el Sistema de Educación
+
+corresponda. Superior del Ecuador.
+
+(Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## CAPÍTULO II NATURALEZA Y CLASIFICACIÓN
+
+Artículo 3.- Naturaleza jurídica.- Los institutos superiores son instituciones de educación superior, sin fines de lucro, dedicadas a la formación técnica y tecnológica superior y sus equivalentes en artes u otros campos del conocimiento, a la investigación con miras a la innovación técnica o tecnológica, a la investigación aplicada en pedagogía o a la investigación en artes, según sea el caso.
+
+Estas instituciones de educación superior son:
+
+- a) Institutos superiores públicos.- Son instituciones con personería jurídica propia, desconcentradas, adscritas al órgano rector de la política pública de educación superior, a las universidades y escuelas politécnicas públicas u otros organismos de derecho público conforme a la Ley.
+- b) Institutos superiores particulares.- Son instituciones con personería jurídica propia, autonomía académica, administrativa, financiera y orgánica, creadas por iniciativa de personas naturales o jurídicas de derecho privado.
+
+(Artículo reformado a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 4.- Clasificación.- Los institutos superiores se clasifican en:
+
+- a) Institutos superiores técnicos.- Son instituciones de educación superior dedicadas a la formación académica orientada al desarrollo de habilidades y destrezas relacionadas con la aplicación de conocimientos teórico-prácticos y técnico-instrumentales, en el desarrollo de operaciones básicas,
+
+<!-- image -->
+
+<!-- image -->
+
+- y en la ejecución de funciones vinculadas a contextos laborales referidos a oficios específicos de unidades de producción de bienes y servicios.
+- b) Institutos superiores tecnológicos.- Son instituciones de educación superior dedicadas a la formación académica y orientadas a la aplicación, coordinación y adaptación de técnicas especializadas y del diseño, ejecución y evaluación de funciones y procesos relacionados con la producción de bienes y servicios.
+- c) Institutos superiores pedagógicos y pedagógicos interculturales bilingües.- Son instituciones de educación superior dedicadas principalmente a la formación docente y a la investigación aplicada en educación.
+- d) Institutos superiores de arte.- Son instituciones de educación superior dedicadas a la formación e investigación aplicada en el campo de las artes.
+
+## CAPÍTULO III CREACIÓN DE INSTITUTOS SUPERIORES Y CREACIÓN DE INSTITUTOS SUPERIORES CON CONDICIÓN DE SUPERIOR UNIVERSITARIO
+
+## SECCIÓN I PROMOTORES
+
+Artículo 5.- Promotores.- El órgano rector de la política pública de educación superior, las universidades o escuelas politécnicas públicas u otros organismos de derecho público conforme a la Ley, de acuerdo con sus competencias podrán ser promotores de los institutos superiores públicos.
+
+En el caso de los institutos superiores particulares, los promotores podrán ser personas naturales o jurídicas de derecho privado, incluyendo las universidades y escuelas politécnicas particulares.
+
+El Consejo de Educación Superior (CES), a través de la unidad técnica correspondiente, llevará un registro de los promotores de los institutos superiores.
+
+Artículo 6.- Requisitos para ser promotor.- Para la creación de un instituto superior, al menos uno de los promotores, en caso de ser personas naturales, deberán cumplir con los siguientes requisitos:
+
+- a) Poseer título de al menos de tercer nivel, registrado y reconocido por el órgano rector de la política pública de educación superior; y,
+- b) Documentación que demuestre experiencia en gestión pública o privada en el área de la educación, de al menos tres (3) años.
+
+En el caso de que el promotor sea el órgano rector de la política pública de educación superior, una universidad o escuela politécnica pública o particular u otros organismos de derecho público conforme a la Ley, el único requisito será contar con un equipo académico de trabajo de mínimo tres (3) personas, que cumplan con los requisitos establecidos en los literales a) y b) de este artículo.
+
+Cuando uno de los promotores sea una persona jurídica de derecho privado, diferente a una universidad o escuela politécnica, se deberá presentar un equipo académico de trabajo de mínimo tres (3) personas, que cumplan con los requisitos establecidos en los literales a) y b) de este artículo.
+
+Cuando los promotores, sean personas naturales o personas jurídicas de derecho privado, deberán presentar, adicionalmente, una declaración juramentada en la que se demuestre la licitud de los fondos.
+
+Artículo 7.- Cambio de promotores.- Los institutos superiores creados o en proceso de creación, por decisión de la mayoría de sus promotores, podrán cambiar o incluir nuevos promotores, cuando por algún motivo debidamente justificado así lo requieran, los cuales deberán cumplir los requisitos establecidos en el presente Reglamento.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+El instituto superior a través de su rector o del representante de los promotores, según corresponda, en el término máximo de tres (3) días, contados a partir de la decisión de cambiar o incluir nuevos promotores, deberá notificar al CES a fin de actualizar el registro. En ambos casos se deberá adjuntar el acta o resolución en la que, al menos, la mayoría de los promotores deciden cambiar o incluir nuevos promotores.
+
+La notificación con sus anexos será remitida a la unidad técnica correspondiente a efectos de que en el término máximo de diez (10) días, emita el informe de verificación del cumplimiento de los requisitos exigidos en el presente Reglamento para ser promotor. La unidad técnica correspondiente podrá solicitar por una sola vez al instituto superior o al representante de los promotores, según corresponda, que corrija, complete o precise la información presentada, quienes deberán cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica para emitir su informe.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores. Si el informe fuere desfavorable, la referida Comisión archivará el trámite y notificará al instituto superior o al representante de los promotores, según corresponda, quienes en el término máximo de cinco (5) días, contados a partir de la notificación del acuerdo de la Comisión, deberán volver a presentar la solicitud para el registro del cambio o la inclusión de nuevos promotores. En el caso de que el informe de la unidad técnica fuere favorable, la Comisión solicitará el respectivo registro del o los nuevos promotores, quienes entrarán en funciones una vez notificado el acuerdo de la Comisión con el respectivo registro y asumirán las obligaciones con el instituto superior, garantizando los estándares de calidad y la continuidad de sus actividades.
+
+Cambiar o incluir nuevos promotores no exime de responsabilidad de que el o los promotores que presentaron el proyecto de creación del instituto superior, cumplan con lo que se comprometieron respecto al uso y propiedad de bienes y valores dentro del término establecido en el presente Reglamento.
+
+Únicamente, para el caso de los institutos superiores en proceso de creación que tengan un único promotor, en caso de que este fallezca, se archivará el proyecto de creación del instituto superior, quedando a salvo el derecho de que cualquier otra persona natural o jurídica, en cualquier momento, pueda volver a presentar el proyecto de creación del instituto superior.
+
+(Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## SECCIÓN II REQUISITOS Y TRÁMITE
+
+Artículo 8.- Requisitos y contenido del proyecto de creación.- El proyecto de creación de un instituto superior o de un instituto superior con condición de superior universitario, deberá cumplir los siguientes requisitos:
+
+- a) Justificar documentalmente el cumplimiento de los requisitos para ser promotor de un instituto superior, definidos en el presente Reglamento;
+- b) Justificar la pertinencia de creación del instituto superior en el espacio geográfico de influencia;
+- c) Señalar la propuesta de nombre del instituto superior. Para lo cual, el CES verificará que la denominación propuesta no coincida con la de otro instituto superior;
+- d) Proyecto de estatuto del instituto superior;
+- e) Plan estratégico de desarrollo institucional;
+- f) Modelo educativo institucional;
+- g) Proyecto de al menos tres (3) carreras. En el caso de la creación de un instituto superior con condición de superior universitario, los proyectos deberán ser de nivel tecnológico superior universitario;
+
+<!-- image -->
+
+<!-- image -->
+
+- h) Para los institutos superiores particulares, estudio financiero proyectado a cinco (5) años que demuestre que la institución contará con los recursos económicos financieros suficientes para su normal funcionamiento;
+- i) Establecer los perfiles de un equipo mínimo administrativo, financiero y de servicios necesario para iniciar las actividades;
+- j) Acreditar, conforme a derecho, el uso, la propiedad de los bienes y valores que permitan al nuevo instituto superior funcionar en un espacio físico exclusivo para fines educativos.
+
+En el caso de que el inmueble donde va a funcionar el instituto superior sea objeto de arrendamiento, se debe adjuntar la intención de suscripción del contrato por un plazo máximo de cinco (5) años, luego del cual deberá adquirir bienes inmuebles propios para su funcionamiento.
+
+En el caso de que el inmueble donde va a funcionar el instituto superior sea objeto de comodato, se debe adjuntar la intención de suscripción de este, mismo que podrá tener un plazo indefinido;
+
+- k) En el caso de los institutos superiores públicos, la certificación correspondiente por parte del Ministerio de Economía y Finanzas de que se contará con los fondos suficientes que garanticen el funcionamiento del instituto superior, en su infraestructura física, tecnológica y académica. En caso de ser una universidad o escuela politécnica pública, la promotora del instituto superior público deberá presentar un certificado de reserva de fondos anuales donde se garantice el financiamiento y funcionamiento del instituto superior;
+- l) Cuando la promotora sea una universidad o escuela politécnica y el instituto superior a crearse comparta la infraestructura física de ésta, deberá presentar la autorización de uso emitida por el Órgano Colegiado Superior (OCS); y,
+- m) Propuesta de infraestructura tecnológica, laboratorios y talleres especializados, acorde a la oferta académica presentada.
+
+Artículo 9.- Procedimiento para la creación.- Para crear un instituto superior o un instituto superior con condición de superior universitario, el o los promotores deberán presentar al CES la solicitud adjuntando los requisitos señalados en el artículo que precede.
+
+La solicitud con sus anexos será remitida a la unidad técnica correspondiente a efecto de que verifique el cumplimiento de la presentación de los requisitos exigidos en el presente Reglamento, para lo cual, deberá emitir un informe de aceptación a trámite en el término máximo de quince (15) días.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores. Si éste fuere desfavorable, la referida Comisión archivará el trámite. Si fuere favorable, la Comisión solicitará al organismo nacional de planificación el informe supeditado a los requerimientos del desarrollo nacional en cuanto a la pertinencia de la creación del instituto superior en el lugar solicitado y al Consejo de Aseguramiento de la Calidad de la Educación Superior (CACES) el informe referente a la calidad con base en la infraestructura tecnológica, planeación estratégica y modelo educativo.
+
+Además, para el caso de los institutos superiores pedagógicos y pedagógicos interculturales bilingües, se requerirá un informe del órgano rector de la educación media y en el caso de los institutos superiores de artes, un informe del órgano rector de la cultura.
+
+Para la creación de un instituto superior con condición de superior universitario, adicional a los informes que preceden, se solicitará un informe al CACES respecto de las condiciones académicas, investigativas, de gestión y organización necesarias para asegurar ambientes de aprendizaje en escenarios reales y el adecuado desarrollo de las actividades de docencia, investigación y vinculación con la colectividad.
+
+<!-- image -->
+
+<!-- image -->
+
+Los organismos referidos en los incisos precedentes deberán emitir sus informes y remitirlos al CES en el término máximo de cuarenta y cinco (45) días, y notificar al promotor o al representante de los promotores los informes correspondientes garantizando el debido proceso.
+
+Tanto la unidad técnica del CES como los organismos podrán requerir por una sola vez al promotor o al representante de los promotores que corrijan, completen o precisen la información relacionada a los requisitos enunciados, quienes deberán cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido para emitir los respectivos informes.
+
+Recibidos los informes, la Comisión Permanente de Institutos y Conservatorios Superiores los remitirá a la unidad técnica para que, en el término máximo de diez (10) días, elabore el informe final en mérito de los informes emitidos por la Secretaría Nacional de Planificación, el CACES, el órgano rector de la educación media o del órgano rector de la cultura, según corresponda.
+
+Una vez recibido el informe final de la unidad técnica, en el término máximo de diez (10) días, la Comisión lo remitirá al Pleno del CES para su conocimiento y resolución. Si alguno de los informes emitidos por los mencionados organismos fuere desfavorable, la referida Comisión recomendará al Pleno que no apruebe la creación del instituto superior.
+
+Una vez creado el instituto superior, éste deberá presentar al CES, en el término máximo de treinta (30) días, su oferta académica que deberá contemplar al menos dos (2) de las carreras que fueron incluidas en el trámite para el procedimiento de aprobación correspondiente.
+
+Si el proyecto de creación fuere archivado por la Comisión o no aprobado por el Pleno del CES, los promotores podrán presentar un nuevo proyecto una vez transcurridos seis (6) meses.
+
+(Artículo sustituido a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 10.- Periodo de transición.- Notificada la resolución de creación del instituto superior por parte del CES, los promotores designarán un rector transitorio que podrá ser uno de ellos siempre y cuando cumpla con los requisitos establecidos en la LOES y en este Reglamento para acceder a dicho cargo.
+
+En el caso de los institutos superiores públicos, el órgano rector de la política pública de educación superior, el OCS de la universidad o escuela politécnica pública promotora o el organismo de derecho público conforme a la Ley, se encargará de designar al rector transitorio que deberá cumplir con los requisitos establecidos en la LOES para el ejercicio de la función de rector.
+
+Durante el periodo de transición y hasta que se constituya el OCS de la institución, en los institutos superiores particulares actuará en su lugar un Consejo Transitorio presidido por el rector transitorio y constituido además por dos (2) delegados de los promotores quienes deberán tener al menos el título de cuarto nivel registrado y reconocido por el órgano rector de la política pública de educación superior.
+
+Cuando se trate de institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, el Consejo Transitorio será presidido por el rector transitorio y dos (2) designados por el órgano rector de la política pública de educación superior o el organismo de derecho público conforme a la Ley.
+
+En caso de institutos públicos adscritos o creados por una universidad o escuela politécnica pública, el rector transitorio será nombrado por el OCS de la universidad o escuela politécnica pública promotora y tendrá dos (2) delegados designados por el mismo OCS, quienes deberán tener título de cuarto nivel registrado y reconocido por el órgano rector de la política pública de educación superior.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+El Consejo Transitorio funcionará hasta que se constituya el OCS por un plazo no mayor a veinticuatro (24) meses contados desde la notificación de la resolución de creación del instituto superior.
+
+## (Artículo reformado mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 11.- Verificación del uso y/o propiedad de bienes y valores.- En el término máximo de noventa (90) días, contados a partir de la notificación de la resolución del CES que aprueba la creación del instituto superior, los promotores deberán transferir, conforme a derecho, la propiedad de los bienes y valores que se comprometieron a entregar al nuevo instituto superior, lo cual deberá ser notificado al CES por el instituto superior a través de su rector o del representante de los promotores, según corresponda.
+
+En caso de incumplimiento de esta disposición, el CES derogará la resolución de creación del instituto superior, salvo que la transferencia, el arriendo o el comodato del o de los bienes comprometidos en el proyecto de creación del instituto superior, sean de igual o mejores características y condiciones, sin perjuicio de las responsabilidades legales de sus promotores a las que hubiere lugar.
+
+El CES a través de la unidad técnica encargada de realizar el monitoreo de las IES, verificará el cumplimiento de la presente disposición.
+
+(Artículo sustituido a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## CAPÍTULO IV FUNCIONAMIENTO ADMINISTRATIVO, FINANCIERO Y ACADÉMICO DE LOS INSTITUTOS SUPERIORES
+
+## SECCIÓN I FUNCIONAMIENTO ADMINISTRATIVO
+
+Artículo 12.- Estatuto institucional.- Para su funcionamiento orgánico, los institutos superiores contarán con un estatuto institucional que deberá ser aprobado por el OCS de la institución y entrará en vigencia a partir de su aprobación, sin perjuicio de remitirlo al CES para su verificación.
+
+Artículo 13.- Domicilio.- Se tendrá por domicilio del instituto superior al cantón donde funcione su sede matriz de acuerdo con el instrumento de creación emitido por la autoridad competente y a falta de éste, el que se encuentre registrado como sede matriz ante la autoridad tributaria.
+
+Artículo 14.- Cambio de dirección.- Un instituto superior podrá cambiar de dirección dentro del mismo cantón. En este caso, el instituto superior a través del rector, en el término máximo de tres (3) días, contados a partir de la aprobación del cambio de dirección, deberá notificar al CES, adjuntando lo siguiente:
+
+- a) El acta o resolución del OCS en la que se apruebe el cambio de dirección; y,
+- b) Un informe en el que se evidencie que, en la nueva dirección el instituto superior contará con infraestructura que le permita funcionar manteniendo la misma calidad.
+
+La Comisión Permanente de Institutos y Conservatorios Superiores remitirá a la unidad técnica correspondiente la notificación junto con sus anexos para el respectivo registro y monitoreo.
+
+El CES, a través de la unidad técnica, llevará un registro de las direcciones de los institutos superiores que será actualizado de manera permanente y comunicado a los organismos que regulan el Sistema de Educación Superior del Ecuador.
+
+(Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+Artículo 15.- Cambio de domicilio.- Un instituto superior podrá solicitar al CES el cambio de su domicilio de un cantón a otro dentro de la misma provincia en la que fue aprobada su creación o a otra provincia.
+
+En ambos casos, el instituto superior deberá cumplir los siguientes requisitos:
+
+- a) Acta o resolución del OCS en la que se apruebe el cambio de domicilio. En el caso de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, que no tengan conformado su OCS, este documento no será requerido y la solicitud de cambio de domicilio será remitida por el órgano rector de la política pública de educación superior o el organismo de derecho público conforme a la Ley;
+- b) Informe que justifique la necesidad de realizar el cambio de domicilio de acuerdo con el espacio geográfico de influencia y en el que se evidencie que en el nuevo domicilio el instituto contará con infraestructura que le permita funcionar manteniendo la misma calidad;
+- c) En el caso de los institutos superiores públicos, se requerirá un informe favorable del órgano rector de la política pública de educación superior;
+- d) Proyecto de al menos tres (3) carreras;
+- e) Plan de contingencia de cada carrera que se encuentre con cohortes en ejecución, de haberlas; y,
+- f) Acreditar conforme a derecho la propiedad o uso del nuevo inmueble.
+
+Artículo 16.- Procedimiento para cambio de domicilio.- Para el cambio de domicilio de un instituto superior, el rector, deberá presentar al CES la solicitud adjuntando los requisitos señalados en el artículo que precede.
+
+La solicitud con sus anexos será remitida a la unidad técnica correspondiente a efecto de que verifique el cumplimiento de la presentación de los requisitos exigidos en el presente Reglamento, además de verificar la infraestructura física y tecnológica del nuevo domicilio.
+
+La unidad técnica deberá emitir un informe en el término máximo de quince (15) días y de considerarlo necesario, podrá solicitar por una sola vez al instituto superior que corrija, complete o precise la información relacionada a los requisitos enunciados, quien deberá cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica para emitir su informe.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores. Si éste fuere desfavorable, la referida Comisión archivará el trámite. Si fuere favorable, la Comisión, en el término máximo de diez (10) días, recomendará al Pleno del CES autorizar o no el cambio de domicilio del instituto superior.
+
+El cambio de domicilio no interrumpirá el plazo conferido al instituto superior en su creación para la adquisición de bienes inmuebles de su propiedad.
+
+## (Artículo sustituido a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## SECCIÓN II FUNCIONAMIENTO FINANCIERO
+
+Artículo 17.- Patrimonio y presupuesto de los institutos superiores.- El patrimonio y presupuesto de los institutos superiores públicos y particulares estará constituido de conformidad con lo establecido en la LOES y su Reglamento General.
+
+## SECCIÓN III FUNCIONAMIENTO ACADÉMICO
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+Artículo 18.- Alianzas o redes entre instituciones de educación superior.- Se fomentará la creación de alianzas que promuevan la coordinación y cooperación interinstitucional entre instituciones de educación superior nacionales.
+
+Las alianzas serán instrumentalizadas mediante convenios suscritos por las referidas instituciones, mismos que serán remitidos para conocimiento del CES.
+
+Las redes académicas que tengan por objeto la ejecución conjunta de carreras de tercer nivel técnicotecnológico superior y programas de posgrado tecnológico se sujetarán a lo dispuesto en el Reglamento de Régimen Académico.
+
+Artículo 19.- Alianzas estratégicas.- Se fomentará la creación de alianzas estratégicas entre institutos superiores como de éstos con universidades, escuelas politécnicas u otras instituciones públicas o privadas del sector productivo, social, cultural y ambiental para el cumplimiento de su misión institucional, para el mejoramiento académico y/o para el fortalecimiento de la gestión administrativa y financiera de las instituciones de educación superior, en el marco del ordenamiento jurídico vigente.
+
+Una alianza estratégica tendrá por objeto el uso racional y compartido de la infraestructura física de las instituciones de educación superior o de las instituciones públicas o particulares con quien se suscriba la alianza estratégica, sus laboratorios, talleres, aulas, bibliotecas y/o equipamiento o mobiliario.
+
+En caso de que los resultados de ejecución de estos convenios generen beneficios económicos, dichos ingresos complementarios deberán ser destinados para el mejoramiento de la gestión del instituto superior.
+
+Los convenios que se suscriban deberán ser notificados al CES para su conocimiento.
+
+Artículo 20.- Convenios para ejecutar carreras o programas con instituciones de educación superior extranjeras.- Los institutos superiores podrán ejecutar carreras o programas de manera conjunta con instituciones de educación superior extranjeras, para el efecto deberán suscribir un convenio especial/específico que debe ser sometido a la aprobación y supervisión del CES, de conformidad con el instrumento de verificación de criterios para considerar en la revisión de convenios especiales/específicos suscritos entre instituciones de educación superior nacionales e instituciones de educación superior extranjeras.
+
+En el convenio especial/específico se deberá establecer que la carrera o programa se ejecutará únicamente en la sede matriz del instituto superior nacional. La titulación será otorgada y reconocida en conjunto.
+
+(Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## CAPÍTULO V INSTITUTOS SUPERIORES CON CONDICIÓN DE SUPERIOR UNIVERSITARIO
+
+Artículo 21.- Institutos superiores con condición de superior universitario.- Son institutos superiores tecnológicos dedicados a la formación de carreras y programas técnicos, tecnológicos, pedagógicos y en artes, orientados al desarrollo de habilidades y destrezas relacionadas con la aplicación, coordinación, adaptación e innovación en procesos vinculados con la producción de bienes y servicios, a la gestión pedagógica y al desarrollo de las artes e investigación en un área específica que potencia el saber hacer.
+
+Artículo 22.- Requisitos para adquirir la condición de superior universitario.- Un instituto superior que esté debidamente acreditado por el CACES, podrá adquirir la condición de superior universitario y deberá cumplir los siguientes requisitos:
+
+<!-- image -->
+
+<!-- image -->
+
+- a) Acta o resolución del OCS en la que se aprueba el proyecto para adquirir la condición de superior universitario.
+
+En el caso de un instituto superior público adscrito al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, se deberá presentar además una carta de respaldo por parte del órgano rector de la política pública de educación superior, junto con un informe técnico en el que se sustenten las condiciones para adquirir la condición de superior universitario;
+
+- b) Resolución del CACES donde se evidencie la acreditación del instituto;
+- c) Justificación de la existencia de una estructura organizacional acorde a la condición de instituto superior universitario y basada en el proyecto o proyectos de carrera presentados. Para su verificación, en el caso de que la documentación remitida resulte insuficiente se realizará una visita in situ;
+- d) Plan estratégico de desarrollo institucional actualizado;
+- e) Infraestructura propia o en comodato;
+- f) Centro de investigación aplicada que demuestre investigación e innovación y laboratorios equipados acorde a los proyectos de carreras tecnológicas superiores universitarias;
+- g) Haber graduado al menos tres (3) cohortes en carreras de tercer nivel técnico-tecnológico;
+- h) Proyecto de al menos dos (2) carreras de nivel tecnológico superior universitario, considerando los campos detallados en los que cuente con experiencia de al menos tres (3) cohortes graduadas;
+- i) Perfil de los docentes acorde a la oferta académica a impartir de superior universitario;
+- j) Convenios con el sector productivo relacionados con las carreras de nivel tecnológico superior universitario, a fin de asegurar ambientes de aprendizaje en escenarios reales y el adecuado desarrollo de las actividades de docencia y vinculación con la sociedad;
+- k) Autoevaluación en los últimos dos (2) años; y,
+- l) Justifique las condiciones de capacidad de innovación e investigación basado en los criterios de la LOES y los parámetros que expida el Consejo de Aseguramiento de la Calidad de la Educación Superior a través de sus informes de acreditación, que serán previamente coordinados con el CES.
+
+## (Artículo reformado a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 23.- Procedimiento para adquirir la condición de superior universitario.- Para adquirir la condición de superior universitario, el instituto superior a través de su rector, deberá presentar al CES la solicitud adjuntando los requisitos señalados en el artículo que precede.
+
+La solicitud con sus anexos será remitida a la unidad técnica correspondiente a efecto de que verifique el cumplimiento de la presentación de los requisitos exigidos en el presente Reglamento. La referida unidad deberá emitir un informe de aceptación a trámite en el término máximo de quince (15) días.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores. Si éste fuere desfavorable, la referida Comisión archivará el trámite. Si fuere favorable, la Comisión para el caso de los institutos superiores particulares o institutos públicos adscritos a organismos públicos conforme a la Ley, distintos al órgano rector de la política pública de educación superior, solicitará al CACES la información que considere pertinente, de acuerdo con la Guía Metodológica para la adquisición de la condición de superior universitario de Institutos Superiores.
+
+El CACES deberá remitir al CES la información en el término máximo de veinte (20) días.
+
+En el caso de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior. Si el informe de la unidad técnica fuere favorable, la Comisión Permanente de Institutos y Conservatorios Superiores, en el término máximo de diez (10) días, elaborará un informe final y lo remitirá al Pleno del CES recomendando o no otorgar la condición de superior universitario al instituto superior.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+La unidad técnica del CES podrá requerir al instituto superior que corrija, complete o precise la información relacionada a los requisitos enunciados, quien deberá cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica para emitir el informe.
+
+Una vez recibidos los informes de la unidad técnica del CES y la información remitida por el CACES, la Comisión Permanente de Institutos y Conservatorios Superiores, en el término máximo de diez (10) días, elaborará un informe final y lo remitirá al Pleno del CES recomendando otorgar o no la condición de superior universitario al instituto superior.
+
+Una vez aprobada la condición, el instituto superior deberá presentar al CES en el término máximo de treinta (30) días la oferta académica incluida en el trámite para el procedimiento de aprobación correspondiente.
+
+Si el proyecto fuere archivado por la Comisión o el Pleno del CES no otorgue la condición de superior universitario al instituto superior, este podrá presentar un nuevo proyecto una vez transcurridos seis (6) meses.
+
+Adquirir la condición de superior universitario no implica el cambio de código institucional, del nombre ni de la denominación del instituto superior.
+
+(Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## CAPÍTULO VI UNIDADES ACADÉMICAS ESPECIALIZADAS EN LA FORMACIÓN TÉCNICA Y TECNOLÓGICA
+
+Artículo 24.- Unidades académicas especializadas en la formación técnica y tecnológica.- Las unidades académicas especializadas en la formación técnica y tecnológica de las universidades y escuelas politécnicas son aquellas especializadas en la formación técnica y tecnológica con oferta académica acorde a este nivel de formación y otorgan títulos de tercer nivel técnico y tecnológico superior o sus equivalentes, según lo establecido en el Reglamento General a la LOES.
+
+En ningún caso la oferta académica de formación técnica - tecnológica de las universidades y escuelas politécnicas podrá ser superior al treinta por ciento (30%) de su oferta total.
+
+Artículo 25.- Requisitos y procedimiento para el registro de unidades académicas especializadas en la formación técnica y tecnológica.- Las universidades y escuelas politécnicas podrán crear mediante la aprobación de su OCS una unidad académica especializada en la formación técnica y tecnológica en su sede matriz, sede o extensión en la que se pretende desarrollar oferta académica técnica y tecnológica. En este caso, la universidad o escuela politécnica a través de su rector, deberá notificar al CES la creación de la unidad académica adjuntando los siguientes requisitos:
+
+- a) Acta o resolución del OCS en la que se apruebe la creación de una unidad académica especializada en la formación técnica y tecnológica;
+- b) Proyecto de al menos una (1) carrera;
+- c) Estudio de pertinencia que justifique la creación de la unidad académica especializada en la formación técnica y tecnológica;
+- d) Justificación de la existencia de la infraestructura pertinente para la formación técnicatecnológica; y,
+- e) Perfil de la planta docente acorde a la formación técnica-tecnológica.
+
+La Comisión Permanente de Institutos y Conservatorios Superiores, en el término máximo de diez (10) días, elaborará un informe de revisión del cumplimiento de los requisitos constantes en el presente artículo y lo remitirá al Pleno del CES para que disponga el registro correspondiente.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+El CES a través de la unidad técnica respectiva realizará el monitoreo para verificar el cumplimiento de lo establecido en la LOES, su Reglamento General y la normativa expedida por el CES respecto de las unidades académicas especializadas en la formación técnica y tecnológica.
+
+En caso de incumplimiento iniciará los trámites administrativos correspondientes.
+
+(Artículo sustituido través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## CAPÍTULO VII CAMBIO DE NOMBRE, TRANSFORMACIÓN, ADSCRIPCIÓN Y FUSIÓN DE LOS INSTITUTOS SUPERIORES
+
+Artículo 26.- Cambio de nombre.- Un instituto superior podrá solicitar al CES autorización para cambiar su nombre. En este caso, el instituto superior a través de su rector, deberá presentar al CES la solicitud adjuntando el acta o resolución del OCS en la que se aprueba el cambio de nombre.
+
+La Comisión Permanente de Institutos y Conservatorios Superiores del CES, en el término máximo de diez (10) días, elaborará un informe y lo remitirá al Pleno del CES recomendando autorizar o no el cambio de nombre del instituto superior.
+
+El CES verificará que la denominación no coincida con la de otro instituto superior existente.
+
+(Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 27.- Transformación.- Un instituto superior técnico, tecnológico, pedagógico, pedagógico intercultural bilingüe y de arte que se encuentre funcionando al menos dos (2) años contados a partir de la resolución de creación emitida por el órgano competente, podrá solicitar al CES su transformación a instituto superior tecnológico, pedagógico, pedagógico intercultural bilingüe o de arte, según corresponda, y además de los establecidos en la norma, deberá cumplir los siguientes requisitos:
+
+- a) Propuesta de estructura orgánico-funcional que incluya los instrumentos técnicos administrativos y el plan estratégico de desarrollo institucional adaptado al nivel solicitado;
+- b) Un estudio económico-financiero proyectado a cinco (5) años que demuestre que la institución contará con los recursos suficientes para su normal funcionamiento en el nivel solicitado.
+
+En caso de los institutos superiores que reciben rentas o asignaciones del Estado, se deberá presentar la certificación correspondiente de que se contará con los fondos suficientes que garanticen el funcionamiento del instituto superior.
+
+En caso de que el promotor del instituto superior público sea una universidad o escuela politécnica, se deberá presentar un certificado de reserva de fondos anuales donde se garantice el financiamiento y funcionamiento del instituto superior;
+
+- c) Al menos dos (2) proyectos de carreras del nivel solicitado;
+- d) En el caso de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o el organismo de derecho público conforme a la Ley, se deberá adjuntar un informe técnico sobre la pertinencia de la transformación solicitada, elaborado por el órgano rector de la política pública de educación superior o el organismo de derecho público conforme a la Ley, según corresponda; y,
+- e) En el caso de la transformación a instituto superior pedagógico, pedagógico intercultural bilingüe y de arte se requerirá el informe correspondiente que se exige para el procedimiento de creación a los organismos competentes.
+
+(Artículo reformado a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+Artículo 28.- Procedimiento de transformación.- El instituto superior a través de su rector, deberá presentar la solicitud adjuntando los requisitos establecidos en el artículo que precede.
+
+La solicitud junto con sus anexos será remitida a la unidad técnica correspondiente a efecto de que verifique el cumplimiento de la presentación de los requisitos exigidos en el presente Reglamento. Para el efecto, deberá emitir un informe en el término máximo de veinte (20) días.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores. Si éste fuere desfavorable, la referida Comisión archivará el trámite. Si fuere favorable, la Comisión lo remitirá al Pleno del CES.
+
+En el caso de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos públicos conforme a la Ley, si el informe de la unidad técnica fuere favorable, la Comisión Permanente de Institutos y Conservatorios Superiores, en el término máximo de diez (10) días, elaborará un informe final y lo remitirá al Pleno recomendando aprobar la transformación del instituto superior.
+
+Tanto la unidad técnica del CES como el CACES podrán requerir al instituto superior que corrija, complete o precise la información relacionada a los requisitos enunciados, quien deberá cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica y al organismo para emitir su informe.
+
+Recibidos los informes, la Comisión Permanente de Institutos y Conservatorios Superiores, en el término máximo de diez (10) días, elaborará un informe final y lo remitirá al Pleno del CES recomendando aprobar o no la transformación del instituto superior.
+
+La transformación del instituto superior no implica el cambio de código institucional.
+
+## (Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 29.- Adscripción.- Uno o más institutos superiores podrán adscribirse a una universidad o escuela politécnica con el objeto de complementar la oferta académica de las instituciones de educación superior solicitantes.
+
+Los institutos superiores particulares mantendrán su personería jurídica frente a la universidad o escuela politécnica.
+
+Para la adscripción se deberán cumplir los siguientes requisitos:
+
+- a) Convenio suscrito entre los rectores de las instituciones de educación superior cuyo objeto determine la plena voluntad del o los institutos superiores de adscribirse a la universidad o escuela politécnica previa aprobación del OCS de cada Institución;
+- b) Informe en el que se determine la viabilidad administrativa, financiera y académica de adscripción;
+- c) En caso de las universidades o escuelas politécnicas particulares se deberá presentar un estudio financiero proyectado a cinco (5) años;
+- d) En el caso de las universidades o escuelas politécnicas públicas se deberá presentar el certificado de reserva de fondos anuales que demuestren que la universidad o escuela politécnica contará con los recursos económico-financieros suficientes para el funcionamiento del o los institutos superiores adscritos;
+- e) Plan de aseguramiento y continuidad de la gestión académica de los institutos superiores adscritos; y,
+- f) En el caso de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, se deberá adjuntar un informe sobre la factibilidad de la adscripción solicitada elaborado por el organismo correspondiente.
+
+<!-- image -->
+
+## (Artículo sustituido a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 30.- Procedimiento de adscripción.- El instituto superior a través de su rector, deberá presentar la solicitud adjuntando los requisitos establecidos en el artículo que precede.
+
+La solicitud junto con sus anexos será remitida a la unidad técnica correspondiente a efecto de que verifique el cumplimiento de la presentación de los requisitos exigidos en el presente Reglamento.
+
+La unidad técnica deberá emitir un informe en el término máximo de quince (15) días y de considerarlo necesario, podrá solicitar por una sola vez al instituto superior que corrija, complete o precise la información relacionada a los requisitos enunciados, quien deberá cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica para emitir su informe.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores del CES. Si éste fuere desfavorable, la referida Comisión archivará el trámite. Si fuere favorable, la Comisión, en el término máximo de diez (10) días, elaborará un informe final y lo remitirá al Pleno del CES recomendando aprobar o no la adscripción.
+
+En caso de que el Pleno del CES resuelva aprobar la adscripción, deberá determinar el plazo para la implementación del plan de aseguramiento y continuidad de la gestión académica de los institutos superiores adscritos y para la designación de las autoridades académicas.
+
+## (Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 31.- Titulación por parte del instituto superior adscrito a una universidad o escuela politécnica.- Los títulos de las carreras o programas de nivel técnico-tecnológico superior o equivalentes emitidos por un instituto superior adscrito a una universidad o escuela politécnica, serán otorgados en conjunto.
+
+Para fines de registro de títulos, en el convenio de adscripción que suscriban estas instituciones de educación superior se definirá la institución que registrará el título ante el órgano rector de la política pública de educación superior.
+
+Artículo 32.- Fusión.- La fusión de las instituciones de educación superior en el marco de este Reglamento se produce cuando dos (2) o más institutos superiores se unen para formar uno nuevo que les sucede en sus derechos y obligaciones, o cuando uno (1) o más institutos superiores son absorbidos por otro que continuará existiendo.
+
+Artículo 33.- Fusión por creación.- Dos o más institutos superiores podrán solicitar al CES la fusión con otros institutos superiores de la misma naturaleza jurídica con el objeto de crear un nuevo instituto superior que funcionará en el domicilio de uno de los institutos superiores fusionados, para lo cual deberán cumplir los siguientes requisitos:
+
+- a) Solicitud de fusión suscrita por los rectores de cada instituto superior a la que deberán adjuntar el acta o resolución del OCS de cada instituto en la que se resuelva la fusión;
+- b) Estudio financiero proyectado a cinco (5) años que demuestre que la institución fusionada contará con los recursos económico-financieros suficientes para su normal funcionamiento, así como justificar conforme a derecho la propiedad de los bienes y valores que permitan a la nueva institución fusionada funcionar en un espacio físico adecuado a su naturaleza educativa y que serán transferidos a la institución de educación superior fusionada en un término de noventa (90) días contados a partir de la notificación de la resolución de fusión.
+
+En el caso de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, se debe presentar la certificación correspondiente de que se contará con los fondos suficientes que garanticen el
+
+<!-- image -->
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+funcionamiento del instituto superior fusionado en su infraestructura física, tecnológica y académica.
+
+- En caso de que el promotor del instituto superior público sea una universidad o escuela politécnica pública, se deberá presentar un certificado de reserva de fondos anuales donde se garantice el financiamiento y funcionamiento del instituto superior público fusionado;
+- c) Propuesta de la estructura orgánica de la institución fusionada;
+- d) Perfiles de la planta docente, personal administrativo y financiero de la institución fusionada;
+- e) Señalar el nuevo nombre de la institución fusionada. Para lo cual, el CES verificará que la denominación propuesta no coincida con la de otro instituto superior; y,
+- f) Plan de aseguramiento y continuidad de la gestión académica y administrativa de los institutos superiores fusionados.
+
+El procedimiento a observarse será el establecido en el artículo 35 del presente Reglamento.
+
+## (Artículo sustituido a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 34.- Fusión por absorción.- Los institutos superiores de carácter público o particular podrán solicitar al CES la fusión por absorción con otras instituciones de educación superior del mismo carácter, sean éstas otros institutos superiores o una universidad o escuela politécnica, con el objeto de consolidar y fortalecer su oferta académica y gestión institucional en la institución de educación superior fusionada que permanezca vigente, para lo cual deberán cumplir los siguientes requisitos:
+
+- a) Convenio suscrito entre los rectores de las instituciones de educación superior cuyo objeto determine la plena voluntad del o los institutos superiores de fusionarse con otro instituto superior, una universidad o escuela politécnica, previa aprobación del OCS de cada Institución;
+- b) Informe en el que se determine la viabilidad administrativa, financiera y académica de la fusión que contenga el estado de la situación financiera de las instituciones a fusionarse; y,
+- c) Plan de aseguramiento y continuidad de la gestión académica y administrativa de los institutos superiores absorbidos, presentado por la institución de educación superior absorbente.
+
+## (Artículo sustituido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 35.- Procedimiento de fusión.- Los rectores las instituciones de educación superior deberán presentar de manera conjunta la solicitud al CES adjuntando los requisitos establecidos en el presente Reglamento.
+
+La solicitud con sus anexos será remitida a la unidad técnica correspondiente del CES a efecto de que verifique el cumplimiento de la presentación de los requisitos exigidos en el presente Reglamento.
+
+La referida unidad deberá emitir un informe en el término máximo de quince (15) días y podrá solicitar por una sola vez a las IES que corrijan, completen o precisen la información relacionada a los requisitos enunciados, quienes deberán cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica para emitir su informe.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores. Si éste fuere desfavorable, la referida Comisión ordenará el archivo del trámite. Si fuere favorable, la referida Comisión requerirá el informe técnico-académico y el informe jurídico a las unidades correspondientes, quienes deberán remitirlo en el término máximo de quince (15) días.
+
+Recibidos los informes, la Comisión Permanente de Institutos y Conservatorios Superiores, en el término máximo de diez (10) días, elaborará un informe y lo remitirá al Pleno del CES recomendando
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+la aprobación o no de la fusión. Si alguno de los informes técnico-académico o jurídico fuere desfavorable, la Comisión recomendará al Pleno que no apruebe la fusión por creación o fusión por absorción, según corresponda.
+
+En la resolución que emita el Pleno del CES, en caso de ser favorable se declarará además la extinción del o los institutos superiores fusionados o absorbidos, y autorizará que el instituto superior fusionante o absorbente oferte las carreras y programas que estuvieren vigentes del o los institutos superiores fusionados o absorbidos.
+
+Cuando el instituto superior fusionante o absorbente requiera ofertar nuevas carreras y programas, deberá seguir el trámite establecido por el CES para su aprobación.
+
+(Artículo sustituido a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 36.- Prohibición de fusión y adscripción.- No se podrán fusionar o adscribir instituciones de educación superior que se encuentren en proceso de intervención dispuesto por el CES y aquellos institutos que tienen la condición de no acreditados al momento de la entrada en vigencia del presente Reglamento.
+
+## CAPÍTULO VIII AUTONOMÍA RESPONSABLE
+
+Artículo 37.- Autonomía responsable.- A fin de alcanzar la autonomía administrativa, financiera u orgánica, los institutos superiores técnicos, tecnológicos, pedagógicos, pedagógicos interculturales bilingües y de artes públicos deberán cumplir los siguientes requisitos:
+
+- a) Acta o resolución del OCS de la universidad o escuela politécnica promotora, del órgano rector de la política pública de educación superior o del organismo de derecho público conforme a la Ley, según corresponda, en la que se aprueba la solicitud de autonomía;
+- b) Estar acreditado por parte del Consejo de Aseguramiento de la Calidad de la Educación Superior;
+- c) Criterio favorable y partida presupuestaria del ente rector de las finanzas públicas;
+- d) Informe favorable del órgano rector de la política pública de educación superior; y,
+- e) Estudio económico y financiero que demuestre la proyección para obtener recursos de autogestión en el marco del principio de gratuidad.
+
+(Artículo reformado mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+Artículo 38.- Procedimiento.- Para declarar la autonomía de un instituto superior público, el rector deberá presentar al CES la solicitud adjuntando los requisitos establecidos en el artículo que precede. En el caso de los institutos públicos adscritos al órgano rector de la política pública de educación superior, la solicitud deberá ser presentada por la máxima autoridad de dicho órgano.
+
+La solicitud junto con sus anexos será remitida a la unidad técnica correspondiente a efecto de que verifique el cumplimiento de la presentación de los requisitos exigidos en el presente Reglamento.
+
+La unidad técnica deberá emitir un informe en el término máximo de quince (15) días y de considerarlo necesario, podrá solicitar por una sola vez al instituto superior que corrija, complete o precise la información relacionada a los requisitos enunciados, quien deberá cumplir lo solicitado en el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica para emitir su informe.
+
+El informe de la unidad técnica será remitido a la Comisión Permanente de Institutos y Conservatorios Superiores del CES. Si éste fuere desfavorable, la referida Comisión archivará el trámite. Si fuere favorable, la Comisión, en el término máximo de diez (10) días, recomendará al Pleno del CES declarar la autonomía administrativa, financiera u orgánica del instituto superior solicitante.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+(Artículo sustituido a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## CAPÍTULO IX GOBIERNO DE LOS INSTITUTOS SUPERIORES
+
+Artículo 39.- Gobierno de los institutos superiores.- Las autoridades del gobierno de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, serán designadas por el organismo correspondiente previo concurso de merecimientos y oposición, con criterios de equidad y paridad de género, alternancia e igualdad de oportunidades.
+
+En el caso de los institutos superiores creados por una universidad o escuela politécnica, sus autoridades de gobierno serán designadas por el OCS de la universidad o escuela politécnica a la que pertenecieren, conforme lo establezca el respectivo estatuto.
+
+En el caso de los institutos superiores particulares, la designación de autoridades se realizará conforme a su estatuto institucional.
+
+Artículo 40.- Órganos de gobierno y autoridades.- El gobierno de los institutos superiores se ejercerá por los siguientes órganos y autoridades:
+
+- a) El órgano colegiado superior (OCS);
+- b) El rector o rectora; y,
+- c) El vicerrector o vicerrectora, vicerrectores o vicerrectoras.
+
+Su organización, deberes y atribuciones constarán en el estatuto de la institución en concordancia con la LOES, su Reglamento General, y demás normativa que rige al Sistema de Educación Superior.
+
+Los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, se sujetarán a las normas que emita el organismo correspondiente en el ámbito administrativo, financiero y académico.
+
+Artículo 41.- Órgano Colegiado Superior.- El OCS es la máxima autoridad de los institutos superiores, tengan o no la condición de superior universitario. Las resoluciones que adopte son de obligatorio cumplimiento para la institución.
+
+El OCS estará conformado por:
+
+- a) Rector o rectora;
+- b) Vicerrector o vicerrectora, vicerrectores o vicerrectoras.
+- c) Al menos dos (2) representantes de los docentes; y,
+- d) Al menos un (1) representante de los estudiantes.
+
+Todos los miembros del OCS tendrán voz y voto. El rector presidirá el referido Consejo y tendrá voto dirimente.
+
+Las demás autoridades académicas de los institutos podrán participar únicamente con voz.
+
+El OCS contará con un secretario externo al mismo quien participará con voz pero sin voto y será el encargado de la custodia documental del órgano.
+
+Artículo 42.- Atribuciones y responsabilidades del OCS.- El OCS de los institutos superiores deberá cumplir con las atribuciones y responsabilidades establecidas en el Reglamento General a la LOES, así como aquellas determinadas en su estatuto institucional.
+
+<!-- image -->
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+Artículo 43.- Rector o rectora del instituto superior.- El rector o la rectora es la primera autoridad ejecutiva del instituto superior y su representante legal.
+
+El rector o la rectora deberá cumplir con los requisitos establecidos en la LOES para ejercer dicho cargo, presidirá el OCS de manera obligatoria, ejercerá las funciones que establezca el estatuto institucional y sus funciones las desempeñará a tiempo completo.
+
+Artículo 44.- Atribuciones y responsabilidades del rector o la rectora.- Son atribuciones y responsabilidades del rector o la rectora:
+
+- a) Cumplir y hacer cumplir la Constitución de la República del Ecuador, la LOES, su Reglamento General, las resoluciones del CES, las resoluciones del OCS, el estatuto institucional, los reglamentos de la institución y demás normativa que rige al Sistema de Educación Superior;
+- b) Representar legal, judicial y extrajudicialmente a la institución;
+- c) Adoptar las decisiones oportunas y ejecutar los actos necesarios para el buen gobierno de la institución;
+- d) Conocer y elevar al OCS los proyectos de carácter académico del nivel técnico y tecnológico;
+- e) Convocar y presidir el OCS y demás órganos que le corresponda presidir de conformidad con el estatuto institucional;
+- f) Presentar de manera oportuna al OCS el informe anual de gestión;
+- g) Presentar anualmente el proyecto de informe de rendición de cuentas al OCS para su aprobación y ulterior presentación ante el CES y al órgano rector de la política pública de educación superior;
+- h) Suscribir o refrendar los títulos de nivel técnico o tecnológico y sus equivalentes expedidos por el instituto superior, en conjunto con el secretario general; y,
+- i) Las demás atribuciones que le confieran la LOES, su Reglamento General, la normativa que rige al Sistema de Educación Superior y el estatuto institucional.
+
+Artículo 45.- Vicerrector o vicerrectora del instituto superior.- El vicerrector o la vicerrectora es el encargado de planificar la gestión académica de las carreras y programas ofertados en el instituto superior; así como, apoyar en el cumplimiento de los objetivos contenidos en el plan estratégico de desarrollo institucional. Desempeñará sus funciones a tiempo completo.
+
+El vicerrector o la vicerrectora deberá cumplir con los requisitos establecidos en la LOES para ejercer dicho cargo.
+
+Artículo 46.- Atribuciones y responsabilidades del vicerrector o la vicerrectora.- Serán atribuciones y responsabilidades del vicerrector o de la vicerrectora académico/a o su equivalente las siguientes:
+
+- a) Coordinar y hacer seguimiento de la gestión académica de la institución;
+- b) Proponer al OCS para su aprobación la planificación académica de la institución;
+- c) Subrogar al rector en ausencia temporal y reemplazarlo cuando fuera definitiva hasta completar el período para el cual el rector fue designado, de conformidad con la normativa vigente y su estatuto institucional. En el caso de los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, el organismo correspondiente designará la persona que subrogará o reemplazará según corresponda, quien ejercerá el cargo hasta que se realice el concurso público de merecimientos y oposición;
+- d) Presentar al rector informes sobre proyectos de carreras de nivel técnico o tecnológico superior y equivalentes y programas de posgrados tecnológicos;
+- e) Presentar los programas de educación continua para aprobación del OCS;
+- f) Elaborar y presentar al OCS el calendario académico anual para su aprobación;
+- g) Proponer al OCS los candidatos a coordinadores académicos y al coordinador de vinculación con la sociedad;
+- h) Aprobar el plan de vinculación con la sociedad presentado por el coordinador de vinculación con la comunidad;
+
+<!-- image -->
+
+<!-- image -->
+
+- i) Resolver en la mediación de conflictos académicos y dar soluciones a los inconvenientes que se generen dentro y fuera de clase; y,
+- j) Ejercer las atribuciones que le delegare el rector y las demás que se deriven del estatuto institucional.
+
+En el caso de que el instituto superior tenga más de un vicerrector o una vicerrectora sus atribuciones y funciones se establecerán en el estatuto institucional.
+
+Artículo 47.- Representantes de los docentes al OCS.- Los institutos superiores en su estatuto institucional deberán determinar los requisitos que deben cumplir los docentes para formar parte del OCS, así como el período de sus funciones.
+
+Artículo 48.- Representante de los estudiantes al OCS.- Los requisitos para las dignidades de representación estudiantil al cogobierno serán los establecidos conforme a la regulación institucional; sin perjuicio de lo cual se establece los requisitos mínimos siguientes:
+
+- a) Acreditar un promedio de calificaciones equivalente a muy bueno, que tomará en cuenta toda la trayectoria académica del candidato;
+- b) Haber aprobado al menos el cincuenta por ciento (50%) de la malla curricular; y,
+- c) Presentar un plan de trabajo para la dignidad materia de la candidatura.
+
+Artículo 49.- Autoridades académicas y administrativas de los institutos superiores.- Son autoridades académicas los coordinadores de carrera o de similar jerarquía. Serán autoridades administrativas aquellas que determine el estatuto institucional.
+
+Para ser autoridad académica de un instituto superior se requiere cumplir con los requisitos establecidos en la LOES y su Reglamento General.
+
+El estatuto institucional determinará la instancia que designe a las autoridades académicas, así como sus atribuciones y responsabilidades.
+
+Artículo 50.- Órgano de consulta de los institutos superiores públicos.- Los institutos superiores públicos contarán con un órgano de consulta de formación técnica y tecnológica que estará conformado por:
+
+- a) La máxima autoridad del instituto superior o su delegado, quien lo presidirá;
+- b) Representantes del personal docente o coordinadores de carreras;
+- c) Representantes de los estudiantes; y,
+- d) Representantes de las instituciones públicas, sectores sociales y productivos públicos y privados del área de influencia del instituto superior.
+
+Artículo 51.- Atribuciones y responsabilidades del órgano de consulta.- Serán atribuciones y responsabilidades del órgano de consulta las siguientes:
+
+- a) Promover la participación para la mejora y fortalecimiento de la formación técnica y tecnológica;
+- b) Proponer recomendaciones en el nivel micro curricular de la oferta académica vigente; y,
+- c) Definir propuestas que articulen a la formación técnica y tecnológica con los actores sociales y económico-productivos.
+
+## CAPÍTULO X EXTINCIÓN DE LOS INSTITUTOS SUPERIORES
+
+Artículo 52.- Extinción.- La extinción de un instituto superior implica su desaparición jurídica y procede de manera directa por resolución del Pleno del CES.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR
+
+<!-- image -->
+
+Artículo 53.- Formas y causales para iniciar el trámite de extinción.- El trámite de extinción de un instituto superior podrá iniciar de las siguientes formas:
+
+- a) A petición del instituto; o,
+- b) De oficio cuando se configure cualquiera de las siguientes causales:
+1. Por haberse declarado la suspensión por parte del CES; y,
+2. Por suspensión dispuesta por el CACES. En este caso el referido Consejo solicitará al CES que dé inicio al trámite de extinción.
+
+Artículo 54.- Trámite de extinción.- Para iniciar el trámite de extinción, la Comisión Permanente de Institutos y Conservatorios Superiores solicitará al instituto superior que remita los siguientes documentos:
+
+- a) Estatuto vigente al momento del inicio del trámite de extinción;
+- b) Plan de contingencia en el que se garantice la permanencia, egreso y titulación conforme a los méritos académicos de los estudiantes del instituto superior, según corresponda;
+- c) Lista del personal docente y administrativo del instituto superior;
+- d) Certificado de no tener obligaciones pendientes con el Ministerio de Trabajo, Instituto Ecuatoriano de Seguridad Social y el Servicio de Rentas Internas;
+- e) Acta de entrega- recepción de los archivos del instituto superior suscrita por el representante legal del referido instituto.
+
+Los institutos superiores adscritos al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley deberán transferir al órgano rector de la política pública de educación superior para su custodia y ulterior administración, la documentación académica, administrativa y financiera institucional generada durante su funcionamiento.
+
+El órgano rector de la política pública de educación superior definirá el procedimiento de entrega y recepción de esta información además de su administración.
+
+En el caso de los institutos superiores particulares o públicos creados por una universidad o escuela politécnica, o adscritos a éstas transferirán a su respectiva entidad promotora para su custodia y ulterior administración, la documentación académica, administrativa y financiera institucional generada durante su funcionamiento;
+
+- f) Inventario del patrimonio institucional que incluya los bienes muebles e inmuebles, excepto en el caso de los institutos públicos adscritos al órgano rector de la política pública de educación superior;
+- g) El informe final de auditoría financiera, excepto en el caso de los institutos públicos adscritos al órgano rector de la política pública de educación superior; y,
+- h) En el caso de que la extinción sea solicitada por el instituto, se requerirá el acta o resolución del OCS en la cual se resuelve la extinción del instituto. En caso de que el instituto superior esté adscrito al órgano rector de la política pública de educación superior o a otros organismos de derecho público conforme a la Ley, se requerirá un informe emitido por el organismo correspondiente.
+
+Para efectos de la aplicación del presente artículo, son personas vinculadas o relacionadas con los institutos superiores en proceso de extinción, sean naturales o jurídicas, las siguientes:
+
+- a) Los promotores;
+- b) La primera autoridad ejecutiva;
+- c) Los vicerrectores o las vicerrectoras, de acuerdo con lo establecido en los estatutos de las instituciones de educación superior en proceso de extinción; y,
+- d) Las demás autoridades académicas de conformidad con lo establecido en la LOES y su Reglamento General.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+Artículo 55.- Procedimiento.- La Comisión Permanente de Institutos y Conservatorios Superiores remitirá a la unidad técnica correspondiente la documentación enviada por el instituto superior a efecto de que verifique el cumplimiento del artículo que precede.
+
+La unidad técnica deberá emitir el informe en el término máximo de veinte (20) días y lo remitirá a la referida Comisión. De considerarlo necesario podrá solicitar por una sola vez al instituto superior que complete los requisitos faltantes, para lo cual se le concederá el término máximo de diez (10) días. En este caso, se suspenderá el cómputo del término conferido a la unidad técnica para emitir su informe.
+
+Recibido el informe, la Comisión Permanente de Institutos y Conservatorios Superiores solicitará al órgano rector de la política pública de educación superior el cambio de estado de las carreras del instituto superior.
+
+Una vez que la Comisión verifique el cumplimiento a cabalidad del plan de contingencia y demás requerimientos para el trámite de extinción, emitirá un informe final y lo remitirá al Pleno del CES recomendando resolver la extinción del instituto superior.
+
+Previo y durante el proceso de extinción, el instituto superior deberá cumplir con todas sus obligaciones laborales, legales y los compromisos académicos con sus estudiantes.
+
+Artículo 56.- Retiro.- En todos los trámites regulados en el presente Reglamento y hasta antes de que la Comisión archive el trámite o el Pleno del CES adopte una decisión, la persona que haya iniciado y promovido el procedimiento administrativo podrá presentar el retiro de la solicitud que corresponda, el cual será conocido y resuelto por la Comisión.
+
+Esta podrá ser nuevamente presentada inmediatamente después de que la Comisión conozca el retiro y notifique el acuerdo a la persona interesada.
+
+## (Artículo añadido mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## DISPOSICIONES GENERALES
+
+PRIMERA.- Los institutos superiores creados a través de un instrumento jurídico internacional suscrito con otro Estado podrán mantener un régimen especial debidamente aprobado por el Consejo de Educación Superior (CES). Estos institutos superiores deberán cumplir con los requisitos generales establecidos en la Ley Orgánica de Educación Superior y el presente Reglamento.
+
+SEGUNDA.- El Pleno del CES, a fin de garantizar los derechos de los estudiantes, conocerá y resolverá los casos en los cuales un instituto superior haya sido extinguido por la autoridad competente y existan estudiantes cuyos títulos no hayan sido emitidos, para lo cual podrá requerir al órgano rector de la política pública de educación superior la información respectiva.
+
+TERCERA.- En todos los trámites regulados en el presente Reglamento, se deberá aplicar como normativa supletoria el Código Orgánico Administrativo, en lo que fuere aplicable.
+
+## (Disposición añadida a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+CUARTA.- Todas las solicitudes establecidas en este Reglamento correspondientes a los institutos superiores públicos adscritos al órgano rector de la política pública de educación superior, deberán acompañarse con la respectiva autorización del órgano rector de la política pública de educación superior.
+
+## (Disposición añadida mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+QUINTA.- Los institutos superiores que notifiquen al CES el cierre de un campus, de conformidad con el artículo 14 del "Reglamento de Creación, Suspensión, Cierre y Clausura de Sedes y Extensiones;
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+Creación y Registro de Centros de Apoyo y Registro de Campus de las Instituciones de Educación Superior", deberán adicionalmente presentar el instrumento que garantice la culminación de estudios de los estudiantes que reciben clases en el campus objeto del cierre, para aprobación del CES y posterior registro del cierre.
+
+(Disposición añadida a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+SEXTA.- Los institutos superiores deberán notificar al CES para el registro correspondiente, la normativa interna que regula los procesos de homologación y validación de conocimientos y trayectorias profesionales, en el término de veinte (20) días contados a partir de su aprobación por el Órgano Colegiado Superior de la IES. La Coordinación de Monitoreo e Información del Sistema de Educación Superior del CES podrá realizar el monitoreo de los procesos de homologación y validación de conocimientos y trayectorias profesionales ejecutados por los institutos superiores, a fin de verificar su conformidad con lo dispuesto en la normativa interna del instituto y del CES.
+
+La normativa expedida por los institutos superiores deberá guardar conformidad con lo previsto en el Reglamento de Régimen Académico, y considerar lo relativo a los parámetros de las carreras y programas en el campo de la salud.
+
+(Disposición añadida mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## DISPOSICIONES TRANSITORIAS
+
+PRIMERA.- Disposición Suprimida.
+
+(Disposición suprimida a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## SEGUNDA.- Disposición Suprimida.
+
+(Disposición suprimida mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## TERCERA.- Disposición Suprimida.
+
+(Disposición suprimida a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+CUARTA.- Encargar a la Comisión Permanente de Institutos y Conservatorios Superiores del CES que ejecute el procedimiento para la extinción definitiva de oficio de los institutos superiores que no superaron la acreditación dispuesta por el Consejo de Evaluación, Acreditación y Aseguramiento de la Calidad de la Educación Superior (CEAACES) actual Consejo de Aseguramiento de la Calidad de la Educación Superior (CACES) y que se encuentran suspendidos desde los años 2014, 2015 y 2016, para primer y/o segundo debate, según corresponda.
+
+Para lo cual, la Comisión Permanente de Institutos y Conservatorios Superiores del CES observará el siguiente procedimiento:
+
+La Comisión solicitará a la Coordinación de Monitoreo e Información del Sistema de Educación Superior, que en el término máximo de veinte (20) días, presente un informe a la Comisión acerca de la situación actual de los institutos superiores que no superaron la acreditación y que se encuentran pendientes de extinguir por parte del CES, en el cual se concluya su estado actual y se recomiende la extinción en primer o segundo debate, según corresponda.
+
+Recibido el informe, la Comisión en el término máximo de treinta (30) días, elaborará el informe final y lo remitirá al Pleno del CES recomendando la extinción definitiva de oficio de los institutos superiores que no superaron la acreditación dispuesta por CEAACES actual CACES y que se encuentran suspendidos desde los años 2014, 2015 y 2016, para primer y/o segundo debate, según corresponda. Para lo cual, deberá remitir los proyectos de resoluciones para la extinción definitiva de oficio de los institutos superiores.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->
+
+Adicionalmente, establecerá la entidad responsable de la transferencia de archivos de los institutos superiores. Para el caso de los institutos superiores particulares, la Comisión recomendará que el Ministerio de Educación transfiera los archivos al órgano rector de la política pública de educación superior, en el término máximo de veinte (20) días. Mientras que, en el caso de los institutos superiores públicos, se transferirá los archivos al archivo central del órgano rector de la política pública de educación superior, en el término máximo de veinte (20) días.
+
+En la resolución de extinción definitiva de oficio que expida el Pleno del CES, además, deberá disponerse la transferencia de archivos de los institutos superiores públicos y particulares y encargará al órgano rector de la política pública de educación superior, que informe a la Comisión Permanente de Institutos y Conservatorios Superiores del CES el cumplimiento de la transferencia de los archivos para conocimiento y registro del CES.
+
+(Disposición sustituida mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+QUINTA.- La Comisión Permanente de Institutos y Conservatorios Superiores del CES elaborará y remitirá al Pleno del CES en el término de noventa (90) días el instrumento que contenga el procedimiento específico para la intervención y suspensión de institutos superiores.
+
+(Disposición reformada a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+SEXTA.- El CES a través de la unidad técnica correspondiente modificará la lista de las instituciones del sistema de educación superior legalmente reconocidas actualizando la naturaleza jurídica y el nombre de los institutos superiores y notificará al órgano rector de la política pública de educación superior y al CACES para que actualicen sus bases de datos.
+
+Para el efecto, de ser el caso, los institutos superiores deberán remitir al CES en el término de sesenta (60) días a partir de la entrada en vigencia del presente Reglamento la información necesaria para actualizar la referida lista.
+
+SÉPTIMA.- Los institutos superiores en el término de sesenta (60) días a partir de la entrada en vigencia del presente Reglamento registrarán o actualizarán en el CES, de ser el caso, el listado de sus promotores.
+
+OCTAVA.- Los institutos superiores en el término de sesenta (60) días a partir de la entrada en vigencia del presente Reglamento registrarán o actualizarán en el CES, de ser el caso, su dirección actual.
+
+NOVENA.- Los institutos que se encuentran en proceso de acreditación por parte del CACES se entenderá que forman parte del Sistema de Educación Superior, hasta que dicho organismo culmine el proceso de acreditación correspondiente.
+
+DÉCIMA.- Las solicitudes de creación, transformación, adscripción, fusión, extinción, adquisición de la condición de superior universitario y demás procedimientos regulados en este Reglamento, presentados antes de la entrada en vigencia de este se sustanciarán con la normativa que estuvo vigente en la fecha en la que fueron presentados.
+
+DÉCIMA PRIMERA.- Los institutos superiores que fueron creados en los últimos treinta (30) meses, y que no han podido conformar su Órgano Colegiado Superior, tendrán el plazo improrrogable de doce (12) meses para conformarlo, de acuerdo con lo establecido en el presente Reglamento, contados a partir de la entrada en vigencia de la presente reforma.
+
+(Disposición añadida mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+DÉCIMA SEGUNDA.- El CES tramitará las solicitudes para adquirir la condición de superior universitario ingresadas antes de la entrada en vigencia de la presente reforma, observando el procedimiento establecido en el artículo 23 del presente Reglamento.
+
+<!-- image -->
+
+## REPÚBLICA DEL ECUADOR CONSEJO DE EDUCACIÓN SUPERIOR
+
+(Disposición añadida a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+DÉCIMA TERCERA.- Hasta que se realice la reforma del "Reglamento de Creación, Suspensión, Cierre y Clausura de Sedes y Extensiones; Creación y Registro de Centros de Apoyo y Registro de Campus de las Instituciones de Educación Superior", los institutos superiores solo podrán crear campus dentro del cantón o de la provincia donde se encuentre la sede matriz, sede o extensión al que será subordinado, de lo cual notificará al CES para su respectivo registro.
+
+(Disposición añadida mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+DÉCIMA CUARTA.- Hasta que se realice la reforma del "Reglamento de Creación, Suspensión, Cierre y Clausura de Sedes y Extensiones; Creación y Registro de Centros de Apoyo y Registro de Campus de las Instituciones de Educación Superior", los institutos superiores que hayan registrado campus que no se encuentren dentro del cantón o de la provincia a la que pertenece la sede matriz, sede o extensión al que está subordinado, en el plazo máximo de un (1) año, contados a partir de la entrada en vigencia de la presente reforma, deberán presentar al CES la solicitud para crear una sede o extensión, según corresponda. En caso de incumplimiento, deberán notificar al CES el cierre del campus y presentar el instrumento que garantice la culminación de estudios de los estudiantes que reciben clases en el campus objeto del cierre, para aprobación del CES y posterior registro del cierre.
+
+(Disposición añadida a través de Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024)
+
+## DISPOSICIÓN DEROGATORIA
+
+ÚNICA.- Se deroga el Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica expedido mediante Resolución RPC-SO-04-No.057-2019, de 30 de enero de 2019 y sus posteriores reformas; así como todas las normas de igual o inferior jerarquía contrarias a las disposiciones del presente Reglamento.
+
+## DISPOSICIÓN FINAL
+
+El presente Reglamento entrará en vigencia a partir de su publicación en la Gaceta Oficial del Consejo de Educación Superior (CES).
+
+La presente codificación contiene el Reglamento de las Instituciones de Educación Superior de Formación Técnica y Tecnológica, aprobado en el cantón Rumiñahui, a los diez (10) días del mes de marzo de 2023, en la Cuarta Sesión Extraordinaria del Pleno del CES, reformado mediante Resolución RPC-SE-03-No.005-2024, de 19 de enero de 2024.
+
+Codificación dada en la ciudad de San Francisco de Quito, D.M., a los diecinueve (19) días del mes de enero de 2024, en la Tercera Sesión Extraordinaria del Pleno del CES.
+
+Dr. Pablo Beltrán Ayala PRESIDENTE CONSEJO DE EDUCACIÓN SUPERIOR
+
+Abg. Andrés Jaramillo Paredes SECRETARIO GENERAL CONSEJO DE EDUCACIÓN SUPERIOR
+
+<!-- image -->

@@ -1,0 +1,923 @@
+<!-- image -->
+
+## ACUERDO Nro. SENESCYT-SENESCYT-2024-0055-AC
+
+## SR. MGS. CÉSAR AUGUSTO VÁSQUEZ MONCAYO SECRETARIO DE EDUCACIÓN SUPERIOR, CIENCIA, TECNOLOGÍA E INNOVACIÓN.
+
+## CONSIDERANDO:
+
+Que, en el artículo 3 de la Constitución de la República se establece: "Son deberes primordiales del Estado: // 1. Garantizar sin discriminación alguna el efectivo goce de los derechos establecidos en la Constitución y en los instrumentos internacionales, en particular la educación, la salud, la alimentación, la seguridad social y el agua para sus habitantes (…)";
+
+Que, el artículo 11 de la Constitución de la República del Ecuador determina: "El ejercicio de los derechos se regirá por los siguientes principios: // 1. Los derechos se podrán ejercer, promover y exigir de forma individual o colectiva ante las autoridades competentes; estas autoridades garantizarán su cumplimiento. // 2. Todas las personas son iguales y gozarán de los mismos derechos, deberes y oportunidades. // Nadie podrá ser discriminado por razones de etnia, lugar de nacimiento, edad, sexo, identidad de género, identidad cultural, estado civil, idioma, religión, ideología, filiación política, pasado judicial, condición socio-económica, condición migratoria, orientación sexual, estado de salud, portar VIH, discapacidad, diferencia física; ni por cualquier otra distinción, personal o colectiva, temporal o permanente, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de los derechos. La ley sancionará toda forma de discriminación. // El Estado adoptará medidas de acción afirmativa que promuevan la igualdad real en favor de los titulares de derechos que se encuentren en situación de desigualdad (…)";
+
+Que, el artículo 26 de la Constitución de la República del Ecuador determina: "La educación es un derecho de las personas a lo largo de su vida y un deber ineludible e inexcusable del Estado. Constituye un área prioritaria de la política pública y de la inversión estatal, garantía de la igualdad e inclusión social y condición indispensable para el buen vivir. Las personas, las familias y la sociedad tienen el derecho y la responsabilidad de participar en el proceso educativo";
+
+Que, de conformidad con lo establecido en el artículo 28 de la Constitución de la República, la educación pública es universal y laica en todos sus niveles, y gratuita hasta el tercer nivel de educación superior;
+
+Que, la Constitución de la República en su artículo 154 dispone: "A las ministras y ministros de Estado, además de las atribuciones establecidas en la ley, les corresponde: // 1. Ejercer la rectoría de las políticas públicas del área a su cargo y expedir los acuerdos y resoluciones administrativas que requiera su gestión (...)";
+
+Que, el artículo 226 de la Constitución de la República prescribe: "Las instituciones del Estado, sus organismos, dependencias, las servidoras o servidores públicos y las personas que actúen en virtud de una potestad estatal ejercerán solamente las competencias y facultades que les sean atribuidas en la Constitución y la ley. Tendrán el deber de coordinar acciones para el cumplimiento de sus fines y hacer efectivo el goce y ejercicio de los derechos reconocidos en la Constitución";
+
+Que, el artículo 227 ibídem dispone que: "La administración pública constituye un servicio a la colectividad que se rige por los principios de eficacia, eficiencia, calidad, jerarquía, desconcentración, descentralización, coordinación, participación, planificación, transparencia y evaluación";
+
+Que, el artículo 350 de la Constitución de la República del Ecuador señala: "El sistema de educación superior tiene como finalidad la formación académica y profesional con visión científica y humanista; la investigación científica y tecnológica; la innovación, promoción, desarrollo y difusión de los saberes y las culturas; la construcción de soluciones para los problemas del país, en relación con los objetivos del régimen de desarrollo";
+
+Que, el artículo 351 de la Norma Fundamental establece: "El sistema de educación superior estará articulado al sistema nacional de educación y al Plan Nacional de Desarrollo; la ley establecerá los
+
+<!-- image -->
+
+<!-- image -->
+
+mecanismos de coordinación del sistema de educación superior con la Función Ejecutiva. Este sistema se regirá por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad, pertinencia, integralidad, autodeterminación para la producción del pensamiento y conocimiento, en el marco del diálogo de saberes, pensamiento universal y producción científica tecnológica global";
+
+Que, el artículo 352 de la Constitución de la República del Ecuador, determina: "El sistema de educación superior estará integrado por universidades y escuelas politécnicas; institutos superiores técnicos, tecnológicos y pedagógicos; y conservatorios de música y artes, debidamente acreditados y evaluados. // Estas instituciones, sean públicas o particulares, no tendrán fines de lucro";
+
+Que, el segundo inciso del artículo 356 de la Constitución de la República del Ecuador establece: " El ingreso a las instituciones públicas de educación superior se regulará a través de un sistema de nivelación y admisión, definido en la ley. La gratuidad se vinculará a la responsabilidad académica de las estudiantes y los estudiantes";
+
+Que, de conformidad con lo determinado en la Ley Orgánica de Educación Superior (LOES), la educación superior de carácter humanista, intercultural y científica constituye un derecho de las personas y un bien público social que, en concordancia con lo señalado en la Constitución de la República, responderá al interés público y no estará al servicio de intereses individuales y corporativos;
+
+Que, el artículo 4 de la LOES determina: "El derecho a la educación superior consiste en el ejercicio efectivo de la igualdad de oportunidades, en función de los méritos respectivos, a fin de acceder a una formación académica y profesional con producción de conocimiento pertinente y de excelencia. // Las ciudadanas y los ciudadanos en forma individual y colectiva, las comunidades, pueblos y nacionalidades tienen el derecho y la responsabilidad de participar en el proceso educativo superior, a través de los mecanismos establecidos en la Constitución y esta Ley";
+
+Que, el artículo 5 de la LOES prescribe: "Son derechos de las y los estudiantes los siguientes: (...) b) Acceder a una educación superior de calidad y pertinente, que permita iniciar una carrera académica y/o profesional en igualdad de oportunidades (…)";
+
+Que, el artículo 11 de la LOES establece: "El Estado proveerá los medios y recursos para las instituciones públicas que conforman el Sistema de Educación Superior, y brindará las garantías para que las instituciones del Sistema cumplan con: (…) d) Promover y propiciar políticas que permitan la integración y promoción de la diversidad cultural del país. (…) g) Garantizar la gratuidad de la educación superior pública hasta el tercer nivel (…)";
+
+Que, el artículo 12 de la LOES, con respecto a los principios del Sistema de Educación Superior, determina: "El Sistema de Educación Superior se rige por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad, pertinencia, integralidad, autodeterminación para la producción del pensamiento y conocimiento, en el marco del diálogo de saberes, pensamiento universal y producción científica y tecnológica global.
+
+El Sistema de Educación Superior, al ser parte del Sistema Nacional de Inclusión y Equidad Social, se rige por los principios de universalidad, igualdad, equidad, progresividad, interculturalidad, solidaridad y no discriminación; y funcionará bajo los criterios de calidad, eficiencia, eficacia, transparencia, responsabilidad y participación. Estos principios rigen de manera integral a las instituciones, actores, procesos, normas, recursos, y demás componentes del sistema, en los términos que establece esta Ley";
+
+Que, el artículo 17 de la LOES determina: "El Estado reconoce a las universidades y escuelas politécnicas autonomía académica, administrativa, financiera y orgánica, acorde con los principios establecidos en la Constitución de la República. // En el ejercicio de autonomía responsable, las universidades y escuelas politécnicas mantendrán relaciones de reciprocidad y cooperación entre ellas y de estas con el Estado y la sociedad; además observarán los principios de justicia, equidad, solidaridad, participación ciudadana, responsabilidad social y rendición de cuentas. // Se reconoce y garantiza la naturaleza jurídica propia y la especificidad de todas las universidades y escuelas politécnicas";
+
+Que, el artículo 71 de la LOES establece: "El principio de igualdad de oportunidades consiste en garantizar a todos los actores del Sistema de Educación Superior las mismas posibilidades en el acceso, permanencia, movilidad y egreso del sistema, sin discriminación de género, credo, orientación sexual, etnia, cultura, preferencia política, condición socioeconómica, de movilidad o discapacidad. // Las instituciones que conforman el Sistema de Educación Superior cumplirán con el principio de igualdad de oportunidades a favor de los ecuatorianos en el exterior, retornados y deportados, de manera progresiva, a través de su inclusión o del desarrollo de programas como los destinados a la implementación de educación superior a distancia o en línea. // Las instituciones que conforman el Sistema de Educación Superior propenderán por los medios a su alcance que, se cumpla en favor de los migrantes el principio de igualdad de oportunidades. // Se promoverá dentro de las instituciones del Sistema de Educación Superior el acceso para personas con discapacidad bajo las condiciones de calidad, pertinencia y regulaciones contempladas en la presente Ley y su Reglamento. El Consejo de Educación Superior, velará por el cumplimiento de esta disposición";
+
+<!-- image -->
+
+<!-- image -->
+
+Que, el artículo 72 de la LOES, con respecto a la garantía de acceso universitario para los ecuatorianos en el exterior, establece: "Las instituciones de educación superior garantizarán el acceso a la educación superior de las y los ecuatorianos residentes en el exterior mediante el fomento de programas académicos (…)";
+
+Que, el artículo 74 de la LOES prescribe: "Las instituciones de educación superior instrumentarán de manera obligatoria políticas de cuotas a favor del ingreso al sistema de educación superior de grupos históricamente excluidos o discriminados. // Las políticas de cuotas serán establecidas por el órgano rector de la política pública de educación superior.";
+
+Que, el artículo 76 de LOES determina: "Las instituciones del Sistema de Educación Superior adoptarán mecanismos y procedimientos para hacer efectivas las políticas de cuotas y de participación";
+
+Que, el artículo 80 del LOES, con respecto a uno de los parámetros que abarca la gratuidad de la educación superior pública hasta el tercer nivel, es el reconocimiento de la misma para los y las estudiantes que se inscriban en el nivel preuniversitario, prepoliteÌcnico o su equivalente, bajo los parámetros del Sistema de Nivelación y Admisión y que el Estado;, por concepto de gratuidad, financiaraÌ una sola carrera de tercer nivel;
+
+Que, el artículo 81 de la Ley Orgánica de Educación Superior prescribe: "El ingreso a las instituciones de educación superior públicas se regula a través del Sistema de Nivelación y Admisión, para todos los y las aspirantes. El sistema se rige por los principios de méritos, igualdad de oportunidades y libertad de elección de carrera o carreras e institución. // El Sistema de Nivelación y Admisión adoptaraÌ medidas de acción afirmativa que promuevan la igualdad real en favor de las y los titulares de derechos que se encuentren en situaciones de desigualdad o vulnerabilidad. // El mecanismo de ingreso al Sistema de Educación Superior tomaraÌ en cuenta la evaluación de las capacidades y competencias de los postulantes, los antecedentes académicos de los postulantes, la condición socioeconómica y otros aspectos de política de acción afirmativa. Las y los aspirantes que obtengan los mejores puntajes accederán a la carrera de su elección en función de la oferta disponible en las instituciones de educación superior. (…) // El reglamento a esta Ley regularaÌ su implementación y evaluación, y coordinaraÌ con el ente rector del Sistema Nacional de Educación. // El órgano rector de la política pública de la educación superior articularaÌ su implementación con el órgano rector del Sistema Nacional de Educación, y garantizaraÌ la integralidad en la educación en coordinación con los organismos rectores y actores del Sistema de Educación Superior. // Las instituciones de educación superior tanto públicas como particulares podrán realizar procesos de nivelación de carrera para las y los estudiantes que han ingresado a través del Sistema de Nivelación y Admisión, mediante cursos propedéuticos o similares, cuyo financiamiento corresponderáÌ a las instituciones de educación superior. // En el desarrollo e implementación de software, bases de datos y plataformas informáticas relacionados con el Sistema de Nivelación y Admisión, se garantizaraÌ los principios de igualdad de oportunidades, libertad de elección de la o las carreras e institución, y méritos";
+
+Que, el artículo 82 de la LOES establece: "Para el ingreso a las instituciones de educación superior se requiere: // a) Poseer título de bachiller o su equivalente, de conformidad con la Ley; y, // b) En el caso de las instituciones de educación superior públicas, haber cumplido los requisitos normados por el
+
+<!-- image -->
+
+<!-- image -->
+
+Sistema de Nivelación y Admisión, el mismo que observaraÌ los principios de igualdad de oportunidades, libertad de elección de carrera e institución y de méritos. // Las instituciones del Sistema de Educación Superior aceptaran los títulos de bachilleres obtenidos en el extranjero, reconocidos o equiparados por el Ministerio de Educación (…)".
+
+Que, el artículo 182 de la Ley Orgánica de Educación Superior determina: "La Secretaría Nacional de Educación Superior, Ciencia, Tecnología e Innovación, es el órgano que tiene por objeto ejercer la rectoría de la política pública de educación superior y coordinar acciones entre la Función Ejecutiva y las instituciones del Sistema de Educación Superior (…)";
+
+Que, el artículo 183 de la Ley Orgánica de Educación Superior, entre las funciones del órgano rector de la política pública de educación superior, establece: "(…) e) Diseñar, implementar, administrar y coordinar el Sistema Nacional de Información de la Educación Superior del Ecuador y el Sistema de Nivelación y Admisión (…)"";
+
+Que, el artículo 3 del Código Orgánico Administrativo establece respecto al principio de eficacia lo siguiente: "Las actuaciones administrativas se realizan en función del cumplimiento de los fines previstos para cada órgano o entidad pública, en el ámbito de sus competencias";
+
+Que, el artículo 4 del Código ibídem indica sobre el principio de eficiencia: "Las actuaciones administrativas aplicarán las medidas que faciliten el ejercicio de los derechos de las personas. Se prohíben las dilaciones o retardos injustificados y la exigencia de requisitos puramente formales";
+
+Que, el artículo 130 del Código Orgánico Administrativo, manifiesta: "Las máximas autoridades administrativas tienen competencia normativa de carácter administrativo únicamente para regular los asuntos internos del órgano a su cargo, salvo los casos en los que la ley prevea esta competencia para la máxima autoridad legislativa de una administración pública. // La competencia regulatoria de las actuaciones de las personas debe estar expresamente atribuida en la ley";
+
+Que, los numerales 11 y 14 del artículo 3 de la Ley Orgánica para la Optimización y Eficiencia de Trámites Administrativos, señalan: "Además de los principios establecidos en los artículos 227 y 314 de la Constitución de la República, los trámites administrativos estarán sujetos a los siguientes: (…) // 11. Simplicidad.- Los trámites serán claros, sencillos, ágiles, racionales, pertinentes, útiles y de fácil entendimiento para los ciudadanos. Debe eliminarse toda complejidad innecesaria; (…) // 14. Mejora continua.- Las entidades reguladas por esta Ley deberán implementar procesos de mejoramiento continuo de la gestión de trámites administrativos a su cargo, que impliquen, al menos, un análisis del desempeño real de la gestión del trámite y oportunidades de mejora continua";
+
+Que, en su artículo 19, el Reglamento a la Ley Orgánica de Educación Superior, establece: "El diseño, la coordinación y el seguimiento de la implementación del sistema de nivelación y admisión, con los distintos actores del Sistema de Educación Superior Público, será responsabilidad del ente rector de la política pública de educación superior. // Las instituciones de educación superior, en ejercicio de su autonomía administrativa y financiera serán las encargadas de realizar el proceso de admisión para los cupos que se encuentren disponibles en atención a la oferta académica de cada institución. // En los casos que una institución de educación superior pública que sí ejerza su autonomía administrativa y financiera que de manera fundamentada justifique no encontrarse en capacidad de realizar sus propios procesos de admisión, podrá solicitar al órgano rector de la política pública de educación superior que realice excepcionalmente el proceso de admisión de dicha institución. // Para los sistemas de admisión se considerará procesos unificados de inscripción, evaluación y asignación de cupos de acuerdo con la oferta académica disponible en cada institución. Serán obligatorios para los procesos de cada institución al menos los criterios de libre elección de los postulantes, meritocracia e igualdad de oportunidades a través de políticas de acción afirmativa para personas en condición de vulnerabilidad y grupos históricamente excluidos, equilibrio territorial y condición socioeconómica, conforme a lo determinado en el artículo 3 del presente Reglamento. // Las demás normas mínimas que deberán cumplir los procesos de admisión llevados a cabo por cada institución de educación superior serán fijados en la correspondiente normativa por parte del órgano rector de la política pública de educación superior. // La verificación del cumplimiento de las normas determinadas será atribución del órgano rector de la política pública de educación superior quien podrá realizar las auditorías pertinentes a los procesos de
+
+<!-- image -->
+
+<!-- image -->
+
+admisión de las instituciones de educación superior y de encontrar irregularidades las notificará a los organismos correspondientes de conformidad con la naturaleza de la infracción determinada";
+
+Que, en el citado Reglamento se señala: "Art. 19.1.- Ingreso a los institutos técnico tecnológicos públicos.- Para los estudiantes graduados en Bachillerato Técnico, que quieran optar por estudiar una carrera técnica o tecnológica en los institutos superiores públicos, se establecerá dentro del procedimiento de admisión un proceso diferenciado que permita su ingreso directo a la educación superior o una valoración adicional por su campo de conocimiento, siempre que opten por el mismo campo de conocimiento cursado durante el Bachillerato Técnico";
+
+Que, el Reglamento de la Ley Orgánica de Educación Superior, determina: "Art. 21.-Ingreso a los conservatorios superiores de música y artes.- Para el ingreso a los conservatorios superiores de música y artes los aspirantes deberán aprobar la audición y contar con el título de bachiller en artes y bachillerato general. En caso de no contar con el título de bachiller en artes, deberán rendir una prueba de suficiencia. // Los bachilleres en artes que hayan obtenido el título en el exterior o sus equivalentes, podrán solicitar acogerse a procesos de homologación de sus estudios especializados en música y artes, para lo cual deberán aprobar la audición y rendir una prueba de conocimientos para su ubicación.//Las universidades cuya oferta académica incluya carreras en música que se articulen con el currículo de bachiller en artes deberán aplicar los mismos requisitos determinados para los conservatorios superiores";
+
+Que, la Disposición General Octava del Reglamento a la Ley Orgánica de Educación Superior determina: "En relación con la transitoriedad del proceso de admisión a las universidades públicas, las instituciones de educación superior públicas que soliciten asistencia del ente rector de la política pública para los procesos de admisión podrán hacerlo por un máximo de dos periodos académicos posteriores a la publicación de este Reglamento, posterior a lo cual todas las instituciones de educación superior pública deberán llevar a cabo sus propios procesos de admisión";
+
+Que, el artículo 13 del Reglamento de Régimen Académico emitido por el Consejo de Educación Superior (CES) determina: "Para el ingreso al tercer nivel, se requiere poseer título de bachiller o su equivalente, de conformidad con la Ley. // En el caso de las IES particulares, cumplir con los requisitos adicionales establecidos en sus estatutos y/o normativa interna. // En el caso de las IES públicas, haber cumplido los requisitos normados por el Sistema de Nivelación y Admisión que observaraÌ los principios de igualdad de oportunidades, libertad de elección de carrera y de méritos (…)";
+
+Que, el artículo 5 del Reglamento para Garantizar el Cumplimiento de la Gratuidad de la Educación Superior Pública, expedido por el CES, establece: "De conformidad con el artículo 80 de la Ley Orgánica de Educación Superior, la gratuidad se vincula a la responsabilidad académica de los estudiantes, de acuerdo con los siguientes criterios: (…) 3. Por concepto de gratuidad se cubrirá una sola carrera por estudiante. También serán beneficiarios de este derecho, por una sola vez, los estudiantes que cambien de carrera, siempre que hayan aprobado una o varias asignaturas, cursos o sus equivalentes, dentro de los periodos académicos ordinario o extraordinario cursados de carácter obligatorio, que puedan ser homologados de acuerdo a las normas del Reglamento de Régimen Académico (…)";
+
+Que, el artículo 10 del Reglamento para Garantizar el Cumplimiento de la Gratuidad de la Educación Superior Pública prescribe: "En aplicación del principio de gratuidad de la educación superior pública hasta el tercer nivel, durante toda la carrera, incluyendo la obtención del título terminal. se prohíbe a las instituciones de educación superior pública el cobro directo o a través de terceros, independientemente de su denominación, los siguientes rubros u otros similares: (…) // 3. Derecho de inscripción y matricula, o sus equivalentes, para propedéuticos, preuniversitarios o prepoliteÌcnicos, de conformidad con los parámetros del Sistema Nacional de Nivelación y Admisión (…)";
+
+Que, la Disposición General Cuarta del citado Reglamento, determina: "No existirá pérdida de gratuidad para las y los aspirantes a estudiantes que reprueben los propedéuticos, preuniversitarios o prepoliteÌcnicos del Sistema Nacional de Nivelación y Admisión";
+
+Que, la Disposición General Quinta ibídem establece: "En el caso de los estudiantes que cursen una
+
+<!-- image -->
+
+<!-- image -->
+
+segunda carrera en una lES pública, el valor correspondiente al cobro de matrículas. aranceles y derechos se establecerá conforme a las disposiciones establecidas en el presente Reglamento";
+
+Que, el primer inciso del artículo 17 del Estatuto del Régimen Jurídico y Administrativo de la Función Ejecutiva, dispone: "Los Ministros de Estado son competentes para el despacho de todos los asuntos inherentes a sus ministerios sin necesidad de autorización alguna del Presidente de la República, salvo los casos expresamente señalados en leyes especiales";
+
+Que, el artículo innumerado segundo del artículo 17-2 del Estatuto ibídem, determina: "…- De las Secretarías.- Organismos públicos con facultades de rectoría, planificación, regulación, gestión y control sobre temas específicos de un sector de la Administración Pública. Estarán representadas por un secretario que tendrá rango de ministro de Estado";
+
+Que, a través de Acuerdo Nro. SENESCYT-SENESCYT-2023-0003-AC, de 07 de julio de 2023, la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, expidió el Reglamento del Sistema Nacional de Nivelación y Admisión;
+
+Que, mediante Acuerdo Nro. SENESCYT-SENESCYT-2023-0010-AC de 14 de julio de 2023, la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, expidió el Reglamento para el Acceso a la Educación Superior de los Institutos Superiores Técnicos, Tecnológicos y Pedagógicos, Institutos de Artes, y Conservatorios de Música y Artes Públicos en el Marco del Sistema Nacional de Nivelación y Admisión;
+
+Que, por medio de Acuerdo Nro. SENESCYT-SENESCYT-2023-0025-AC, de 20 de septiembre de 2023, la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, resolvió reformar el Reglamento del Sistema Nacional de Nivelación y Admisión y, el Reglamento para el Acceso a la Educación Superior de los Institutos Superiores Técnicos, Tecnológicos y Pedagógicos, Institutos de Artes, y Conservatorios de Música y Artes Públicos en el Marco del Sistema Nacional de Nivelación y Admisión;
+
+Que, mediante Decreto Ejecutivo Nro. 304 de fecha 18 de junio de 2024, el señor Presidente Constitucional de la República, señor Daniel Noboa Azín, designó al Mgs. Cesar Augusto Vásquez Moncayo como Secretario de Educación Superior, Ciencia, Tecnología e Innovación;
+
+Que, mediante memorando Nro. SENESCYT-SGES-SAES-2024-0435-M de 26 de noviembre de 2024, la Subsecretaria de Acceso a la Educación Superior refirió a la máxima autoridad de esta Cartera de Estado, lo siguiente: "en virtud de lo expuesto, se remite el informe técnico de pertinencia para la expedición del Reglamento del Sistema Nacional de Nivelación y Admisión Nro. SENESCYT-SAES2024-062-IT, mediante el cual se recomienda la suscripción de dicho acuerdo, y como anexo de este el proyecto del Reglamento del Sistema Nacional de Nivelación y Admisión (SNNA)", adjuntando el informe signado con el Nro. SENESCYT- SAES- 2024-062-IT, de 26 de noviembre de 2024;
+
+Que, en el Informe de pertinencia para la reforma del Reglamento del Sistema Nacional de Nivelación y Admisión signado con el Nro. SENESCYT- SAES- 2024-062-IT, de 26 de noviembre de 2024, suscrito por la Subsecretaria de Acceso a la Educación Superior, se concluye y recomienda lo siguiente: "4. Conclusión y recomendación: Con estos antecedentes, esta Unidad técnica considera procedente y pertinente solicitar a su autoridad, analizar y aprobar la expedición del REGLAMENTO DEL SISTEMA NACIONAL DE NIVELACIÓN Y ADMISIÓN para Universidades y Escuelas Politécnicas públicas, para los Institutos Superiores Técnicos, Tecnológicos y Pedagógicos, Institutos de Artes, y Conservatorios de Música y Artes públicos y para las instituciones de educación superior particulares en el marco de política de cuotas, de conformidad con los términos detallados. Se recomienda disponer a la Coordinación General de Asesoría Jurídica con base en el presente informe técnico, elabore el instrumento legal que ajuste las reformas planteadas por esta Subsecretaría. ";
+
+Que, una vez revisada la propuesta de Reglamento del Sistema Nacional de Nivelación y Admisión remitida por la Subsecretaria de Acceso a la Educación Superior, mediante Memorando Nro. SENESCYT-CGAJ-2024-0575-MI, del 26 de noviembre de 2024, la Coordinación General de Asesoría Jurídica emitió aval favorable para la suscripción del presente Acuerdo, por encontrarse dentro del marco
+
+<!-- image -->
+
+<!-- image -->
+
+normativo vigente; y,
+
+EN EJERCICIO de las atribuciones conferidas por el numeral 1 del artículo 154 de la Constitución de la República del Ecuador, artículo 183 de la Ley Orgánica de Educación Superior el artículo 130 del Código Orgánico Administrativo, artículo 159 de la Ley Orgánica de Educación Superior, y los artículos 17 e innumerado segundo agregado a continuación del 17-2 del Estatuto del Régimen Jurídico y Administrativo de la Función Ejecutiva.
+
+## ACUERDA:
+
+## Expedir el REGLAMENTO DEL SISTEMA NACIONAL DE NIVELACIÓN Y ADMISIÓN
+
+## TÍTULO I ELEMENTOS GENERALES
+
+## CAPITULO I
+
+## OBJETO, ÁMBITO, FINALIDAD Y PRINCIPIOS
+
+Artículo 1. Objeto.- El presente reglamento tiene por objeto regular, coordinar y monitorear el proceso de acceso a la educación superior pública de los aspirantes, incluyendo política de cuotas, en el marco del Sistema Nacional de Nivelación y Admisión.
+
+Así como, determinar el procedimiento para el registro de los cupos que se otorguen en el marco de la política de cuotas de las instituciones de educación superior particulares a nivel nacional de conformidad con lo establecido en la Ley Orgánica de Educación Superior.
+
+Artículo 2. Ámbito de aplicación.- El presente reglamento será de aplicación obligatoria para las instituciones de educación superior públicas, para las instituciones de educación superior particulares en el marco de la política de cuotas, para los aspirantes y para la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación, en relación a la ejecución de los procesos de acceso a la educación superior.
+
+Artículo 3. Finalidad.- El presente reglamento tiene como finalidad articular los procesos de acceso con las instituciones de educación superior públicas; y, de los cupos que se otorguen en el marco de la política de cuotas por las instituciones de educación superior particulares, de conformidad con la oferta de cupos disponible.
+
+Artículo 4. Principios.- El Sistema Nacional de Nivelación y Admisión se regirá por los principios de mérito, equidad, igualdad de oportunidades y libertad de elección de carrera por parte de los aspirantes en las instituciones de educación superior públicas de su preferencia.
+
+## CAPITULO II DEFINICIONES
+
+Artículo 5. Definiciones.- A efectos del presente reglamento se tendrán en cuenta las siguientes definiciones:
+
+1. Aceptación.- Es la voluntad expresada por los ciudadanos de aceptar el cupo asignado que le permite acceder a la educación superior pública.
+2. Aspirantes.- Son los ciudadanos que participan en el proceso de acceso a la educación superior, al completar el registro nacional, en el marco del Sistema Nacional de Nivelación y Admisión.
+3. Cupo inactivo.- Estado del cupo en el que el estudiante no puede hacer uso del mismo, dentro de los
+
+<!-- image -->
+
+<!-- image -->
+
+procesos determinados en este instrumento.
+
+4. Corte de información.- Corresponde a la fecha en la que una institución pública remite o pone a disponibilidad la información de los aspirantes del proceso de acceso.
+5. Deshonestidad académica.- Son los actos individuales o colectivos, que buscan un beneficio académico a través de un comportamiento intencional contraviniendo las normas internas de las IES y/o SENESCYT.
+6. Estado académico.- Es la condición o estatus que adquiere cada aspirante que cuente con un cupo en la plataforma informática del Sistema Nacional de Nivelación y Admisión implementada en la SENESCYT.
+7. Evaluación general.- Es la valoración de capacidades y competencias de los aspirantes en el marco del proceso de acceso a la educación superior.
+8. Grupo de Política de Acción Afirmativa.- Está compuesto por los postulantes que cumplan los criterios establecidos en las políticas de acción afirmativa determinadas en el presente instrumento.
+9. Grupos vulnerables e históricamente excluidos.- Personas que han sufrido discriminación generalizada y sostenida a lo largo del tiempo, por una condición específica.
+10. IES.- Siglas que hacen referencia a las Instituciones de Educación Superior.
+11. Igualdad de oportunidades.- Principio que establece que toda persona tiene las mismas posibilidades y garantías para ejercer sus derechos de acceso a la educación superior, sin discriminación de género, credo, orientación sexual, etnia cultura, preferencia política, condición socioeconómica, de movilidad o discapacidad.
+12. Libertad de elección de carrera.- Derecho que tiene cada aspirante de elegir la carrera en la que desea efectuar su formación académica; y, a la que postulará en función y ejercicio de su autodeterminación.
+13. Mérito académico.- Es el reconocimiento a los postulantes, por el desempeño a lo largo de su trayectoria académica, y estará dirigido a aquellos alumnos y alumnas que se han destacado en sus labores, esfuerzo, dedicación y disciplina al haber sido abanderados, portaestandartes o escoltas en el bachillerato.
+14. MINEDUC.- Siglas que corresponden al Ministerio de Educación o quien haga sus veces.
+15. Plataforma informática.- Software para ejecutar los procesos de acceso a la educación superior desarrollados y dispuestos por la SENESCYT y por las IES.
+16. Personas con discapacidad.- Personas que padecen una discapacidad debidamente calificada por el órgano competente y, que acredite un porcentaje mínimo del 30%.
+17. Personas evaluadas en el exterior.- Son ecuatorianos que residen en el exterior, que rindieron la evaluación para acceder a la educación superior pública en su país de residencia.
+18. Personas Privadas de la Libertad (PPL) y Adolescentes Infractores.- Son las personas reportadas por la entidad competente como personas privadas de la libertad y/o adolescentes infractores, que participan en el proceso de acceso a la educación superior.
+19. Población en general.- Son todos los grupos que participan en el proceso de acceso para la educación superior.
+20. Políticas de Acción Afirmativa (PAA).- Medidas temporales establecidas con el propósito de favorecer a un determinado grupo de individuos para que puedan superar las barreras que le impiden alcanzar una igualdad de oportunidades y equidad, para el ejercicio de sus derechos.
+21. Postulante.- Son los ciudadanos que rindieron la evaluación y están habilitados para postular por un cupo en el proceso de acceso.
+22. Postulación.- Es el procedimiento a través del cual los ciudadanos eligen la o las carreras de su elección en las IES, de conformidad con la oferta de cupos disponible.
+23. Puntaje de cohorte.- Corresponde al puntaje mínimo con el que se cierra la aceptación de cupos en cada, periodo de acceso y carrera.
+24. Retiro Definitivo.- Declaración expresa de la voluntad del estudiante de nivelación de carrera de no continuar con sus estudios regulares en dicho curso.
+25. Sede de la evaluación.- Espacio físico asignado para la aplicación de la evaluación para el acceso a la educación superior.
+26. SENESCYT.- Siglas que corresponden a la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación o quien haga sus veces.
+27. SNNA.- Siglas que corresponden al Sistema Nacional de Nivelación y Admisión.
+28. SNIESE.- Siglas que corresponden al Sistema Nacional de Información de la Educación Superior del Ecuador.
+29. Usuario y clave.- Códigos alfanuméricos que permiten acceder a la plataforma informática del
+
+<!-- image -->
+
+<!-- image -->
+
+SNNA de la SENESCYT.
+
+## CAPITULO III DE LA INFORMACIÓN
+
+Artículo 6. Presunción de veracidad de la información.- Para efectos del proceso de acceso a la educación superior pública, la información declarada por los aspirantes y por las instituciones de educación superior en las plataformas informáticas dispuestas para el efecto, se presumirá veraz, legítima y auténtica, de conformidad a lo dispuesto en la Ley Orgánica para la Optimización y Eficiencia de Trámites Administrativos.
+
+El órgano rector de la política pública de educación superior se reserva el derecho de iniciar las acciones administrativas a las que hubiere lugar para comprobar la veracidad, legitimidad y autenticidad de la información y documentación presentada, de conformidad a la disponibilidad de bases de datos y otros mecanismos que se determinen para el efecto.
+
+En el caso de comprobarse la falta de veracidad de la información por parte del aspirante, el mismo no podrá participar en la convocatoria en curso, sin perjuicio del inicio de los procesos administrativos, civiles y penales que puedan generarse, en coordinación con las IES públicas correspondientes.
+
+El incumplimiento de estas disposiciones por parte de las instituciones de educación superior públicas será sancionado conforme a lo establecido en la Ley Orgánica de Educación Superior, los reglamentos expedidos por el Consejo de Educación Superior y demás normativa que sea aplicable.
+
+Artículo 7. Autorización de uso de datos personales.- El aspirante al momento de generar su registro nacional e inscripción, otorgará el consentimiento a la SENESCYT y a las IES públicas respectivamente, a utilizar los datos personales proporcionados a través de las plataformas informáticas utilizadas para el efecto, para la aplicación de las diferentes etapas del proceso de acceso a la educación superior, determinadas en el presente instrumento, de conformidad a lo previsto en la Ley Orgánica de Protección de Datos Personales.
+
+Artículo 8. Confidencialidad y responsabilidad de los datos personales.- El SNNA mantendrá la reserva y la confidencialidad de los datos personales de los aspirantes, conforme a lo determinado en la Ley Orgánica de Protección de Datos Personales y su Reglamento.
+
+Las máximas autoridades como responsables o sus delegados; y, los servidores encargados de la instrumentación del sistema, suscribirán acuerdos de responsabilidad, uso y protección de la confidencialidad de la información y datos, la vigencia de estos se acordará entre las partes suscribientes, según corresponda.
+
+Este acuerdo permitirá la entrega de la información necesaria para la implementación de las etapas del proceso de acceso.
+
+## CAPITULO IV DE LA POBLACIÓN
+
+Artículo 9. Personas habilitadas para participar.- Personas habilitadas para participar.- Podrán participar del proceso de acceso las siguientes personas:
+
+- Ecuatorianos, independiente de su país de residencia, con cédula de identidad para la respectiva validación de su condición de ciudadanía con la Dirección General del Registro Civil, Identificación y Cedulación.
+- Extranjeros residentes en el Ecuador, en caso de contar con cédula de identidad se realizará la validación de su condición de ciudadanía con la Dirección General del Registro Civil, Identificación y Cedulación. Si dispone de pasaporte o visa vigente, el estado migratorio se verificará con la información
+
+<!-- image -->
+
+<!-- image -->
+
+entregada por el Ministerio de Relaciones Exteriores y Movilidad Humana.
+
+En cualquier caso, las personas deben contar con un título de bachiller otorgado u homologado por el Ministerio de Educación o deberán estar cursando el tercer año de bachillerato en las unidades educativas que pertenecen al Sistema Nacional de Educación en el régimen escolar en curso.
+
+Las personas que aceptaron un cupo a través del SNNA en el periodo inmediato anterior no podrán participar en el proceso de acceso del periodo en curso, a excepción de aquellos determinados en este instrumento.
+
+Es responsabilidad de los aspirantes contar con el documento de identidad vigente, al menos, durante todo el periodo del proceso de acceso en curso.
+
+Las IES podrán en el marco de su autonomía responsable normar condiciones para verificar los rasgos faciales para las diferentes etapas.
+
+Los ciudadanos son responsables de solicitar la actualización o modificación de la información ante las entidades competentes previo a realizar el Registro Nacional.
+
+Artículo 10. Condiciones de ciudadanía que no aplican para el proceso de acceso.- Las personas que desean acceder a la educación superior no podrán encontrarse inmersos dentro de las siguientes circunstancias descritas por la Dirección General de Registro Civil, Identificación y Cedulación:
+
+1. Fallecido: condición de ciudadanía adjudicada por muerte del titular ecuatoriano.
+2. Cédula caducada por anulación: condición de ciudadanía otorgada a la cédula de identidad que se invalidó por las siguientes causas:
+1. Por sentencia ejecutoriada emitida por autoridad competente.
+2. Por error material evidente en su expedición debidamente señalado por autoridad administrativa o judicial competente.
+3. Por haber sido expedida en contra de la Constitución de la República o la ley, debidamente señalado por autoridad administrativa o judicial competente.
+4. Por orden de cancelación de visa.
+3. Extranjero fallecido: condición de ciudadanía adjudicada por muerte del titular extranjero.
+4. Extranjero no cedulado: condición de ciudadanía para identificar a extranjeros que han obtenido la cédula de identidad de manera fraudulenta como ecuatorianos.
+5. Cédula invalidada por contravención: condición de ciudadanía para ecuatorianos residentes cuyos registros y enrolamientos dentro del sistema informático de la DIGERCIC son considerados con distinto número único de identificación que responden a posibles indicios de suplantación, doble identidad o casos que se encuentren en investigación por la Dirección de Investigación Civil o Monitoreo. También se utilizará esta condición en acciones preventivas para evitar actos fraudulentos o que consten en informes técnicos jurídicos realizados por la Dirección de Investigación Civil y Monitoreo, cuando el caso investigado así lo amerite.
+6. Extranjero invalidado por expiración: condición de ciudadanía para las cédulas de identidad de extranjeros que cumplieron el tiempo de vigencia contado a partir de su fecha de expedición. Para los casos de la activación de cédulas de 9 dígitos, la actualización de la fecha de cedulación se la ejecuta conforme a la Tarjeta Dactilar.
+7. Extranjero invalidado por contravención: condición de ciudadanía para extranjeros residentes cuyos registros y enrolamientos dentro del sistema informáticos de la DIGERCIC son considerados con distinto número único de identificación que responden a posibles indicios de suplantación, doble identidad, o casos que se encuentren en investigación por la Dirección de Investigación Civil o Monitoreo. También se utilizará esta condición en acciones preventivas para evitar actos fraudulentos o que consten en informes técnicos jurídicos realizados por la Dirección de Investigación Civil y Monitorio, cuando el caso investigado así lo amerite.
+8. Inscripción en proceso: condición de ciudadanía para ecuatorianos, generada de manera automática por el sistema SURI al solicitar un bloqueo del registro de nacimiento.
+
+<!-- image -->
+
+<!-- image -->
+
+Para el efecto, la SENESCYT, realizará el consumo de información de la Dirección General de Registro Civil, Identificación y Cedulación.
+
+Artículo 11. Solicitud de información del Sistema Nacional de Educación.- Esta Cartera de Estado solicitará al MINEDUC, la información respectiva de la población que esté cursando el tercer año de bachillerato del régimen escolar respectivo, así como de los bachilleres titulados en el mismo régimen y bachilleres titulados de años anteriores, con el objetivo de realizar las diferentes etapas del proceso de acceso.
+
+Artículo 12. Consumo de información desde el MINEDUC.- La SENESCYT y el MINEDUC acordaran las fechas de corte para el consumo de información y las fechas de disponibilidad de la misma a las IES públicas.
+
+Se definirá hasta un máximo de tres cortes para el consumo de la información, el primero para la etapa de Registro Nacional, y dos posteriores a la etapa de evaluación para la respectiva asignación de cupos por parte de las instituciones de educación superior.
+
+Artículo 13. Tipo de población.- Con la información proporcionada por el MINEDUC, las personas serán clasificados de la siguiente manera:
+
+1. Población escolar: está compuesta por las personas que se encuentren cursando el tercer año de bachillerato en el régimen escolar en curso.
+
+Este segmento poblacional si no cuenta con el título de bachiller (nota de grado), no podrá continuar en las etapas de postulación o asignación de cupo, según corresponda y finalizará su proceso de acceso.
+
+2. Población no escolar: está compuesta por las personas que cuenten con un título de bachiller otorgado u homologado por el Ministerio de Educación hasta la fase de Registro Nacional.
+
+En caso de que las personas consten en ambas categorías a la fecha del Registro Nacional, serán consideradas como "No Escolar".
+
+## TÍTULO II PROCESO DE ACCESO
+
+## CAPITULO I ETAPAS DEL PROCESO
+
+Artículo 14. Proceso de acceso.- Es un conjunto de etapas planificadas y ejecutadas por la SENESCYT y las IES, según corresponda, con la participación de las personas que buscan acceder a la educación superior pública.
+
+Artículo 15. Etapas del proceso.- En cada convocatoria, el proceso de acceso comprenderá las siguientes etapas de obligatorio cumplimiento:
+
+1. Registro Nacional;
+2. Levantamiento de Estado Académico;
+3. Determinación de la oferta de cupos;
+4. Inscripción;
+5. Evaluación de Capacidades y Competencias;
+6. Postulación;
+7. Asignación de Cupos;
+8. Aceptación de Cupos; y,
+9. Matriculación.
+
+<!-- image -->
+
+<!-- image -->
+
+Artículo 16. Responsables de las etapas.- Las etapas de registro nacional, levantamiento del estado académico y aceptación de cupo serán realizadas por la SENESCYT.
+
+Las etapas restantes son diseñadas, planificadas e implementadas por Universidades y Escuelas Politécnicas Públicas en el marco de la autonomía responsable y constituyen un proceso propio de cada IES, para lo cual deberán emitir la normativa secundaria correspondiente, en cumplimiento al presente instrumento.
+
+La ejecución total de los procesos de los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos, serán de responsabilidad de la SENESCYT.
+
+Para los institutos públicos no adscritos a la SENESCYT, la máxima autoridad de los mismos podrá de manera justificada a través de un informe técnico, jurídico y económico, solicitar a la SENESCYT la autorización para realizar por cuenta propia todas las etapas restantes a su cargo, o en su defecto se mantendrá el proceso de acceso a través de la SENESCYT.
+
+Artículo 17. Ejecución de las etapas.- En el caso que, por necesidad institucional, las Universidades y Escuelas Politécnicas Públicas, requieran unificar o repetir alguna de las etapas, podrán hacerlo en función de su autonomía responsable y en el orden que establezcan en su normativa interna.
+
+Artículo 18. Características de los procesos de acceso.- En el marco del presente reglamento, los procesos de acceso ejecutados por la SENESCYT y las IES públicas deberán cumplir con las siguientes condiciones:
+
+- a) Mantener la transparencia del proceso durante todas las etapas.
+- b) Garantizar la gratuidad del proceso de acceso para las personas interesadas.
+- c) En cada etapa, considerar únicamente a las personas que hayan culminado la fase previa definida en el cronograma respectivo.
+- d) Realizar la debida difusión de etapas, fechas y procedimientos a la ciudadanía.
+- e) Notificar al ciudadano a través de la plataforma informática, el resultado de su proceso en cada etapa.
+
+## CAPÍTULO II REGISTRO NACIONAL
+
+Artículo 19. Registro Nacional.- Las personas interesadas en acceder a los cupos de las IES públicas, que cumplan con las condiciones determinadas en este instrumento, deberán realizar de manera obligatoria el Registro Nacional, en las fechas y en la plataforma informática que la SENESCYT determine para el efecto.
+
+La información que la persona proporciona en dicha etapa permite la implementación de las políticas de acción afirmativa, a través del consumo de información con las otras instituciones rectoras, así como la entrega del registro de aspirantes a la educación superior pública en el marco del presente Reglamento para cada convocatoria en curso.
+
+Una vez que el aspirante complete y finalice el Registro Nacional, podrá generar el comprobante de respaldo y no podrá modificar su información, ni anular su registro en el proceso en curso.
+
+Artículo 20. Disponibilidad del registro de aspirantes.- Finalizado el Registro Nacional, la SENESCYT pondrá a disposición de las IES públicas, la información de los aspirantes que pueden continuar con el proceso de acceso en curso, de conformidad a los mecanismos establecidos para el efecto.
+
+## CAPITULO III LEVANTAMIENTO DE ESTADO ACADÉMICO
+
+<!-- image -->
+
+<!-- image -->
+
+Artículo 21. Levantamiento de estado académico del aspirante.- Es el mecanismo a través del cual la SENESCYT, solicita a las IES reporten el estado académico actualizado de los aspirantes que constan con un cupo activo dentro del Sistema Nacional de Nivelación y Admisión en convocatorias anteriores.
+
+Artículo 22. Determinación del estado del cupo.- Con la información académica remitida por IES respecto de cada aspirante, la SENESCYT procederá a mantener el cupo activo o realizar la inactivación del mismo.
+
+Los cupos que registren matrícula en carrera se mantendrán activos en el Sistema Nacional de Nivelación y Admisión.
+
+Artículo 23. Inactivaciones de cupo.- La SENESCYT procederá a la inactivación de los cupos cuando se presenten los siguientes casos:
+
+1. Postulantes que no registren matrícula en el cupo aceptado.
+2. Postulantes que registren impedimento académico para utilizar el cupo aceptado.
+3. Postulante que no fuere reubicado por la no apertura de la nivelación de carrera o del primer periodo académico de la carrera en la que aceptó el cupo.
+4. Estudiantes que agotaron el número de matrículas permitidas por las IES públicas en nivelación de carrera.
+5. Estudiantes que agotaron la primera matrícula de la nivelación de carrera y no optaron por la segunda matrícula, en un plazo máximo de hasta dos (2) períodos académicos posteriores a la primera reprobación de la nivelación de carrera.
+6. Los estudiantes que se retiren de forma definitiva o voluntaria de la nivelación de carrera.
+7. Estudiantes que aprobaron la nivelación de carrera y no se matricularon en el primer nivel de carrera, en un plazo máximo de dos (2) períodos académicos posteriores a la aprobación.
+
+La inactivación de cupo se registrará dentro de la plataforma informática del SNNA, en ningún caso significará la eliminación del historial académico del aspirante en la IES.
+
+Una vez determinado el cupo inactivo, el aspirante no podrá hacer uso del mismo.
+
+El aspirante no podrá acceder nuevamente, retomar o continuar sus estudios en la misma carrera de la IES en la que se inactivo el cupo, a excepción de lo determinado en el numeral 3 del presente artículo.
+
+Artículo 24. Información de estados académicos.- La SENESCYT, en su calidad de órgano rector, podrá solicitar a las IES públicas en cualquier momento, la información del estado académico de los ciudadanos con cupo activo en el SNNA, a fin de determinar el estado del cupo conforme lo determinado en el presente capítulo.
+
+## CAPÍTULO IV DETERMINACIÓN DE LA OFERTA DE CUPOS
+
+Artículo 25. Determinación de Oferta de Cupos.- Las IES podrán ofertar los cupos para las carreras aprobadas por el Consejo de Educación Superior que se encuentren en estado vigente en el Sistema Nacional de Información de la Educación Superior del Ecuador (SNIESE), a la fecha de corte que la SENESCYT defina para el efecto.
+
+Las IES deberán garantizar que su oferta académica esté vigente hasta la matrícula del período en curso.
+
+Artículo 26. Oferta de cupos.- Es el número total de cupos que ponen a disposición las IES públicas, para el acceso de los aspirantes en las diferentes carreras, en cada periodo académico y conforme a lo establecido en la normativa legal vigente.
+
+Para carreras en modalidad dual, la oferta total de cupos se definirá en función de las plazas disponibles determinadas en los convenios suscritos entre las entidades formadoras y las IES públicas. En caso de carreras focalizadas para el sector privado, se considerará que, por cada cupo ofertado para los trabajadores en relación de dependencia, se deberá poner a disposición de la población general, al menos el 10% de los cupos para postular a dicha carrera.
+
+<!-- image -->
+
+<!-- image -->
+
+Los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos adscritos a la SENESCYT o las IES, podrán ofertar cupos destinados exclusivamente para las personas privadas de la libertad y adolescentes infractores.
+
+Artículo 27. Oferta para Personas Privadas de la Libertad y adolescentes infractores.- Las carreras a las que podrán postular las personas privadas de la libertad y los adolescentes infractores se determinarán considerando su situación jurídica a la fecha del proceso de acceso a la educación superior correspondiente.
+
+En los casos que existan carreras diseñadas y/u ofertadas exclusivamente para este segmento de población, la unidad técnica encargada de los Institutos y Conservatorios Superiores Públicos remitirá a la unidad técnica encargada del proceso de acceso a la educación superior de la SENESCYT, el listado de personas que podrán postular a la oferta destinada para Personas Privadas de la Libertad y Adolescentes Infractores, previa coordinación con el Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y a Adolescentes Infractores (SNAI).
+
+En caso que las IES oferten cupos para PPL, éstas deberán coordinar con las instancias correspondientes para su implementación.
+
+La política de cuotas no será aplicada para este tipo de carreras.
+
+Artículo 28. Consumo de información de oferta -de cupos.- Las IES públicas deberán cargar la oferta total de cupos disponibles en la plataforma informática del SNNA, que se determine para el efecto.
+
+Las IES deberán garantizar el ingreso de los postulantes con cupo aceptados a nivelación de carrera o primer periodo académico de carrera, de conformidad al detalle de información y número de cupos que se reporten en la plataforma informática establecida para el efecto, siempre y cuando cuente con el número mínimo requerido para la apertura de cada carrera.
+
+El incumplimiento de la garantía de acceso será sancionado conforme a lo establecido en la Ley Orgánica de Educación Superior, los reglamentos expedidos por el Consejo de Educación Superior y demás normativa que sea aplicable.
+
+Artículo 29. Tipo de cupos.- Las IES pondrán a disposición de los aspirantes los siguientes tipos de cupos:
+
+1. Para nivelación de carrera.- Son aquellos cupos que permiten a los postulantes ingresar al curso propedéutico, nivelación de carrera o similar desarrollado por las instituciones de educación superior. En caso de aprobarlo, podrán obtener un cupo para el primer periodo académico de la carrera aceptada.
+2. Para primer periodo académico de una carrera de tercer nivel.- Son aquellos cupos que permiten a los postulantes ser admitidos de manera directa al primer periodo académico en la carrera aceptada.
+
+En caso de existir cupos disponibles para el primer periodo académico de carrera, las instituciones de educación superior podrán determinar los mecanismos para matricular en este nivel, a los mejores puntuados que obtuvieron un cupo en nivelación de carrera y que consten en el consolidado de acepta cupo.
+
+Artículo 30. Difusión de la oferta de cupos.- La oferta de cupos disponibles será difundida y/o promocionada por las instituciones de educación superior públicas e instituciones particulares en el marco de política de cuotas y por el ente rector de la política pública de educación superior.
+
+<!-- image -->
+
+<!-- image -->
+
+## CAPÍTULO V OFERTA PARA POLÍTICA DE CUOTAS
+
+## SECCIÓN I OFERTA DE IES PÚBLICAS PARA POLÍTICA DE CUOTAS
+
+Artículo 31. Oferta de cupos para política de cuotas para las instituciones de educación superior públicas.- De manera obligatoria las IES públicas destinarán entre el 5% y 10% de la oferta cupos por carrera exclusivamente a grupos históricamente excluidos o discriminados, que no cuente con un cupo aceptado a través del SNNA, de acuerdo con lo que establece la normativa legal vigente.
+
+El porcentaje de política de cuotas por carrera es de obligatorio cumplimiento en todas las carreras que oferta cada IES públicas, a excepción de las carreras que requieran para su ingreso el contar con el examen de suficiencia.
+
+Para el efecto, las IES públicas deberán remitir un informe a la SENESCYT que justifique la medida respecto del grupo seleccionado como política de cuotas y cargarán dicha oferta como política de cuotas en la plataforma determinada para el efecto, considerando que estos cupos únicamente podrán ser asignados al grupo determinado como política de cuotas.
+
+En caso de que los cupos destinados a política de cuotas no sean otorgados en su totalidad por falta de demanda, los mismos serán liberados para la oferta de cupos de población general.
+
+## SECCIÓN II OFERTA DE IES PARTICULARES PARA POLÍTICA DE CUOTAS
+
+Artículo 32. Oferta de Política de Cuotas de IES particulares.- Las IES particulares en el marco de la política de cuotas deberán destinar de manera obligatoria hasta el 10% de los cupos ofertados por periodo académico, para el acceso a un grupo históricamente excluido y/o discriminado, de acuerdo con lo que establece la normativa legal vigente.
+
+Artículo 33. Porcentaje de beca en el marco de política de cuotas.- Las IES particulares deberán otorgar beca o becas del 75% al 100% del valor de la matrícula y aranceles a los estudiantes que accedan a los cupos establecidos en el artículo precedente, para cursar sus estudios, con la finalidad de garantizar el acceso, permanencia y culminación de estudios de este grupo beneficiario.
+
+Los beneficiarios de política de cuotas no podrán contar con un título tercer nivel registrado en la SENESCYT, para el efecto las IES particulares serán responsables de validar esta información.
+
+Artículo 34. Reporte de los beneficiarios de política de cuotas en IES particulares.- Las IES particulares deberán remitir a la SENESCYT, la información detallada de los beneficiarios de política de cuotas que accedieron a los cupos determinados en el marco de la Ley, en el plazo de un mes contado a partir de la culminación de su proceso de admisión y matrícula.
+
+## CAPÍTULO VI ETAPA DE INSCRIPCIÓN
+
+Artículo 35. Inscripción en las instituciones de educación superior.- Los aspirantes deberán realizar la etapa de inscripción de manera obligatoria, en cada una de las IES públicas de su elección de acuerdo con los mecanismos, lineamientos y cronogramas establecidos por cada entidad.
+
+Para el acceso a los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos se realizará en la plataforma que la SENESCYT habilite para el efecto.
+
+<!-- image -->
+
+<!-- image -->
+
+## CAPÍTULO VII EVALUACIÓN DE CAPACIDADES Y COMPETENCIAS
+
+Artículo 36. De la evaluación para el proceso de acceso a educación superior.- Es el instrumento que medirá las capacidades y competencias de los aspirantes inscritos en las IES públicas.
+
+En el marco de su autonomía responsable, las IES públicas determinarán en su normativa interna lo siguiente:
+
+1. Modalidad de aplicación: en línea y/o de forma presencial
+2. Tipos de evaluación:
+1. Evaluación general de capacidades y competencias.
+2. Evaluación por campo específico de conocimiento y/o por carreras específicas conforme la nomenclatura aprobada por el Consejo de Educación Superior, la cual podría incluir pruebas, entrevistas, trabajos académicos, entre otros.
+3. Asignación de sede, fecha y horario para rendir la evaluación.
+4. Mecanismos para evaluar población privada de la libertad, adolescentes infractores y/o residentes en el exterior: coordinar con las instancias correspondientes las contingencias para la aplicar el instrumento de evaluación a esta población.
+5. Adaptaciones consideradas para población con discapacidad: determinar facilidades que permitan cumplir con lo establecido en la Constitución de la República del Ecuador y demás normativa aplicable.
+6. Acciones determinadas como actos de deshonestidad académica: establecer en su normativa interna, la determinación y acciones para estos casos.
+7. Mecanismos para reprogramación: definirán los casos y mecanismos para reprogramar la evaluación.
+
+Artículo 37. Certificado de puntaje de evaluación.- Los resultados de las evaluaciones aplicadas en los procesos de acceso deberán ser calificados sobre mil (1.000) puntos, a fin de realizar el cálculo del puntaje de postulación.
+
+Las IES deberán entregar a los aspirantes evaluados el certificado del puntaje de evaluación obtenido, a través del mecanismo que determine para el efecto la institución en la que rindió la evaluación.
+
+El puntaje de evaluación será válido únicamente para el periodo académico en curso y deberá ser reportado a la SENESCYT.
+
+## SECCIÓN I EVALUACIÓN APLICADA PARA EL ACCESO A LOS INSTITUTOS SUPERIORES TÉCNICOS, TECNOLÓGICOS, PEDAGÓGICOS DE ARTES Y CONSERVATORIOS SUPERIORES PÚBLICOS
+
+Artículo 38. Asignación de sede de evaluación, modalidad y horario para rendir la evaluación.- Para el acceso a los cupos de los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos, esta Cartera de Estado notificará a los aspirantes la modalidad de evaluación, día, hora y sede, de ser necesario, para rendir la evaluación.
+
+Artículo 39. Tipos de evaluación.- La SENESCYT coordinará y gestionará el diseño, elaboración y aplicación de la evaluación para el acceso a los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos.
+
+Para las evaluaciones a personas con discapacidad se considerará la aplicación de adaptaciones, procedimientos y/o el uso de herramientas necesarias que brinden las facilidades para su ejecución.
+
+Artículo 40. Articulación de la aplicación del instrumento de evaluación para PPLs, adolescentes
+
+<!-- image -->
+
+<!-- image -->
+
+infractores, residentes en el exterior y grupos de atención prioritaria.- La SENESCYT implementará mecanismos para evaluar a las personas privadas de la libertad (PPL/ Adolescentes infractores), ecuatorianos residentes en el exterior y grupos de atención prioritaria.
+
+Artículo 41. Deshonestidad Académica.- Para los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos, la SENESCYT determinará y notificará las acciones que constituyan casos de deshonestidad académica; y, conocerá, sustanciará y resolverá los mismos conforme a la normativa interna e iniciarán las acciones legales según corresponda.
+
+Artículo 42.- Reprogramación.- Los aspirantes que por caso fortuito o fuerza mayor debidamente justificadas no puedan rendir la evaluación en la sesión asignada, deberán solicitar la reprogramación a través del mecanismo que la SENESCYT determine para los aspirantes a los cupos de los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos.
+
+## CAPÍTULO VIII POSTULACIÓN
+
+Artículo 43. Postulación.- Bajo el principio de libre elección de carrera, los aspirantes podrán seleccionar la o las carreras de acuerdo con la oferta de cupos disponible en cada IES públicas.
+
+Las IES públicas podrán gestionar las etapas de postulación necesarias con el objetivo de colocar la totalidad de su oferta, de acuerdo con su proceso de acceso.
+
+La SENESCYT gestionará las etapas de postulación para los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos conforme al cronograma establecido para el efecto.
+
+Artículo 44. Opciones de postulación.- En el marco de su autonomía responsable, las IES públicas determinarán en su normativa interna el número de carreras a seleccionar, el número de instancias de postulación y la prioridad de elección de carrera.
+
+Para el acceso a los cupos de los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos, los aspirantes evaluados pueden seleccionar hasta un máximo de tres (3) opciones de carrera con orden de prioridad.
+
+Artículo 45. Postulantes residentes en la provincia de Galápagos.- Los aspirantes residentes en la provincia de Galápagos tendrán a su disposición toda la oferta de cupos.
+
+La población no residente en esta provincia, sin importar su segmento, no podrá postular por la oferta de cupos disponible dentro de la provincia de Galápagos.
+
+Artículo 46. Certificado de postulación.- Al finalizar la etapa de postulación, los postulantes podrán generar el comprobante a través de la plataforma informática desarrollada para el efecto en las IES públicas en la/las que participó; y/o, en la plataforma de la SENESCYT para los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos.
+
+Una vez finalizada la etapa de postulación, la información no podrá ser anulada ni modificada.
+
+## SECCIÓN I PUNTAJE DE POSTULACIÓN
+
+Artículo 47. Componentes del puntaje de postulación.- Corresponde a la calificación calculada entre los componentes del mismo, según lo establecido en el presente instrumento, con el cual el postulante opta por un cupo de la oferta disponible.
+
+<!-- image -->
+
+<!-- image -->
+
+El puntaje de postulación estará compuesto por los siguientes componentes:
+
+1. Puntaje de evaluación (entre el 50% y el 75%).
+2. Puntaje de antecedentes académicos, corresponde a la nota de grado más alta del bachillerato (entre el 25% y el 50%).
+3. Puntaje adicional por acciones afirmativas en caso de que corresponda.
+
+Los aspirantes que no cuenten con la información referente a sus antecedentes académicos y que realizaron los procesos de homologación del título de bachiller con el Ministerio de Educación, el puntaje de postulación estará determinado por la totalidad del puntaje de evaluación más el puntaje adicional por políticas de acción afirmativa, en los casos que corresponda.
+
+En el marco de su autonomía responsable, las IES públicas determinarán en su normativa interna la ponderación correspondiente a cada componente.
+
+Para los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos, el puntaje de evaluación y los antecedentes académicos tendrán una ponderación del 50% cada uno.
+
+El puntaje de postulación deberá ser diferente de cero (0) y con un máximo de mil (1.000) puntos.
+
+Artículo 48. Antecedentes académicos.- Corresponde a la nota de grado más alta de bachillerato que posea cada postulante, que será entregada por el Ministerio de Educación para poner a disposición de la IES, en función al cronograma establecido para el efecto.
+
+Para los casos de bachilleratos técnicos, el MINEDUC deberá proporcionar las dos notas de grado y la SENESCYT de conformidad con lo determinado en el Reglamento de la LOES diferenciará el ingreso de esta población a través del reconocimiento de su nota de grado más alta.
+
+Artículo 49. Puntaje adicional por políticas de acción afirmativa.- En aplicación de las políticas de acción afirmativa, se otorgarán puntos adicionales a los postulantes, de conformidad a los siguientes criterios:
+
+1. Condición socioeconómica: Quince (15) puntos adicionales a los aspirantes identificados en condición de pobreza, de conformidad a la información entregada por la Unidad del Registro Social.
+2. Ruralidad: Cinco (5) puntos adicionales, a los aspirantes que estudien o hayan estudiado en instituciones educativas públicas (fiscales, fiscomisionales y municipales) pertenecientes a las zonas rurales, de conformidad a la información reportada por el ente rector de la política nacional en educación.
+3. Territorialidad: Diez (10) puntos adicionales, a los aspirantes que residan en una de las parroquias con mayor índice de pobreza, de conformidad con lo determinado por la Unidad de Registro Social.
+4. Condiciones de vulnerabilidad: Cinco (5) puntos adicionales, hasta un máximo de treinta y cinco (35) puntos, de conformidad a las siguientes condiciones:
+5. Personas con discapacidad con un porcentaje mínimo del 30% debidamente registradas por la Autoridad Sanitaria Nacional - cinco (5 puntos).
+6. Personas calificadas como beneficiarios del Bono Joaquín Gallegos Lara y/o sus cuidadores, que consten registrados en el Ministerio de Inclusión Económica y Social - cinco (5 puntos).
+7. Víctimas de violencia sexual o de género siempre que haya realizado la denuncia ante la Fiscalía General del Estado - cinco (5 puntos).
+8. Personas ecuatorianas residentes en el exterior o emigrantes retornados con la certificación del Ministerio de Relaciones Exteriores y Movilidad Humana - cinco (5 puntos).
+9. Hijas e hijos de mujeres víctimas de femicidio o muerte violenta, esta información será verificada a partir de los datos proporcionados por el Ministerio de la Mujer y Derechos Humanos - cinco (5 puntos).
+10. Personas que adolezcan de enfermedades catastróficas, raras o de alta complejidad debidamente reportados por la Autoridad Sanitaria Nacional - cinco (5 puntos).
+11. Personas que en alguna etapa de su niñez o adolescencia fueron ingresadas en una unidad de
+
+<!-- image -->
+
+<!-- image -->
+
+atención de acogimiento institucional como medida de protección, emitida registrados en el Ministerio de Inclusión Económica y Social - cinco (5 puntos).
+
+A las personas que tengan una o más condiciones descritas dentro de un mismo numeral, únicamente se les otorgará el puntaje máximo de 5 puntos.
+
+5. Pueblos y nacionalidades: Diez (10) puntos adicionales a las personas pertenecientes a las comunidades, pueblos y nacionalidades indígenas, afroecuatorianos y montubios, entre otras.
+
+La SENESCYT, suscribirá con otras entidades del Estado convenios y acuerdos que permitan el intercambio y la interoperabilidad de la información necesaria para la aplicación de este Reglamento.
+
+Artículo 50. Puntaje mínimo de postulación.- Las IES públicas podrán establecer un puntaje mínimo de postulación para sus carreras de acuerdo al perfil de ingreso de las mismas.
+
+Para determinar el puntaje mínimo se considerará el histórico de los puntajes de postulación en la aceptación de cupos, teniendo en cuenta al menos dos (2) periodos académicos.
+
+Para los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos no existirá puntaje mínimo para ninguna de las carreras ofertadas.
+
+Para las carreras con oferta focalizada, se observará el puntaje mínimo establecido en la normativa interna de la Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y demás instituciones, en los casos que corresponda.
+
+## CAPÍTULO IX ASIGNACIÓN DE CUPOS
+
+Artículo 51. Asignación de cupos.- La asignación de cupos será un proceso automatizado determinado por las IES públicas, que será realizado en función de los siguientes parámetros y en atención a los principios de mérito e igualdad de oportunidades:
+
+1. Oferta de cupos disponible
+2. Puntaje de postulación, desde el puntaje de postulación más alto, al más bajo
+3. Elección de carrera.
+4. Orden de asignación.
+
+El resultado de la asignación de cupos se cargará en la plataforma que la SENESCYT determine para el efecto, a fin de ejecutar la siguiente etapa.
+
+Artículo 52. Orden de asignación.- La asignación de cupos considerará el siguiente orden de segmentos:
+
+1) Grupo de política de cuotas: lo conforman los grupos históricamente excluidos o discriminados determinados por las IES públicas y por la SENESCYT para los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos.
+
+Para este grupo se segmentará entre el 5% y 10% de la oferta por carrera, de conformidad a lo determinado en el artículo 31 de este cuerpo normativo.
+
+- 2) Grupo de mayor vulnerabilidad socioeconómica: Lo conforman los aspirantes en condición de pobreza, de conformidad a la información entregada por la Unidad del Registro Social.
+
+Para este grupo se segmentará al menos el 10% de la oferta por carrera.
+
+- 3) Grupo de Mérito Académico: el mismo estará conformado por el cuadro de honor de las instituciones educativas del último régimen escolar en curso. Para este grupo se segmentará al menos el 20% de la oferta por carrera.
+
+<!-- image -->
+
+<!-- image -->
+
+- 4) Grupo de Otros Reconocimientos al Mérito: en el marco de la autonomía responsable, las IES públicas podrán determinar otros grupos de reconocimiento al mérito de tipo: académico, cultural, deportivo, entre otros, los cuales deberán estar regulados en su normativa interna.
+
+De igual manera, deberán justificar el tipo de reconocimiento adicional, a través de un informe técnico que se remitirá a la SENESCYT previo al inicio de la etapa de inscripción de la convocatoria en curso, en el que conste los mecanismos de verificación para la fase de monitoreo.
+
+Para este grupo se segmentará un máximo del 2% de la oferta por carrera:
+
+5) Bachilleres del último régimen escolar en curso: los conforman los bachilleres del último régimen escolar de conformidad con la información provista por el MINEDUC:
+
+- La asignación inicia por aquellos pertenecientes a pueblos y nacionalidades. Para este grupo se segmentará un máximo del 10% de la oferta por carrera.
+- Continuará con los demás bachilleres de la convocatoria en curso. Para este grupo se segmentará al menos el 20% de la oferta por carrera.Los bachilleres participaran en la asignación de este grupo por una sola ocasión.
+- 6) Población general: se encuentra conformado por bachilleres de años anteriores que no pertenecen a los grupos antes descritos, más la población que no se asigne un cupo en su segmento.
+
+Para este grupo se segmentará al menos el 20% de la oferta por carrera.
+
+La asignación se realizará en instancias, por cada segmento, y en cada grupo siempre se deberá contemplar el principio de meritocracia.
+
+Si un postulante cumple con más de un (1) criterio participará inicialmente en el grupo que más le favorezca y de no obtener un cupo asignado en dicho grupo será reasignado para continuar participando en el o los siguientes grupos a los que pertenezca, hasta llegar a población general de ser el caso.
+
+Si un postulante registra título de tercer nivel o superior, participará únicamente en el grupo de población general.
+
+En caso de que dentro de cada grupo no se cumpla el porcentaje establecido por no tener postulantes que demanden la carrera, los cupos serán liberados y serán incrementados al grupo correspondiente a población general.
+
+El orden de asignación detallado será de carácter obligatorio.
+
+Los porcentajes establecidos en los segmentos para el orden de asignación serán determinados por las IES públicas, en el marco de su autonomía responsable.
+
+Artículo 53. Determinación de porcentajes por grupo de asignación.- Para los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos, la asignación de cupos considerará los siguientes porcentajes por segmento:
+
+1. Grupo de política de cuotas: a este grupo se segmentará el 10% de la oferta por carrera.
+2. Grupo de mayor vulnerabilidad socioeconómica: a este grupo se segmentará el 20% de la oferta por carrera.
+3. Grupo de Mérito Académico: a este grupo se segmentará el 20% de la oferta por carrera.
+4. Grupo de Otros Reconocimiento al Mérito: la SENESCYT no determina este grupo poblacional.
+5. Bachilleres del último régimen escolar en curso:
+6. A los bachilleres pertenecientes a pueblos y nacionalidades se segmentará el 5% de la oferta por carrera.
+7. A los bachilleres se les segmentará el 25% de la oferta por carrera.
+6. Población general: a este grupo se segmentará al menos el 20% de la oferta por carrera.
+
+<!-- image -->
+
+<!-- image -->
+
+La SENESCYT, a través de la Subsecretaría Técnica competente gestionará la asignación, en la plataforma informática del Sistema Nacional de Nivelación y Admisión, de acuerdo con el cronograma establecido para el efecto.
+
+Artículo 54. Empate en el puntaje de postulación para el último cupo.- En caso de presentarse empates en el puntaje para asignar el último cupo disponible en la oferta de cupos de la carrera correspondiente, las IES públicas o la SENESCYT implementarán los mecanismos para dirimir el empate, con criterios verificables.
+
+Para el acceso a los cupos de los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos adscritos a SENESCYT, los criterios de desempate corresponden a índice de vulnerabilidad de menor a mayor, en caso de mantener el empate, se considerará la fecha inscripción de más antigua a más reciente.
+
+Artículo 55. Estrategias para lograr una asignación eficiente de cupos.- Las IES públicas y la SENESCYT podrán desarrollar estrategias para lograr una asignación de cupos eficiente, con base en un análisis técnico del comportamiento de la demanda de la convocatoria en curso, con la finalidad de agotar la oferta de cupos disponibles.
+
+## CAPÍTULO X ACEPTACIÓN DE CUPOS
+
+Artículo 56. Aceptación de cupo.- La aceptación es el acto consciente, libre y voluntario que realiza el postulante para pronunciarse sobre el cupo asignado a través de la plataforma que se defina para el efecto por la SENESCYT en coordinación con las IES públicas.
+
+El cupo aceptado en una determinada carrera no podrá modificado, ni anulado y tampoco se podrá renunciar al mismo.
+
+El postulante deberá hacer uso del cupo en el período correspondiente a su obtención.
+
+Los postulantes solamente podrán aceptar un único cupo en la plataforma informática del SNNA, en el proceso de acceso en curso.
+
+Aquellos cupos que no sean aceptados en el plazo establecido en el cronograma definido para cada proceso de acceso en curso serán liberados automáticamente, para la siguiente etapa de postulación y/o asignación según corresponda.
+
+A fin de garantizar el acceso universal a la educación superior y el uso eficiente de los recursos estatales, los ciudadanos que acepten un cupo en el periodo académico en curso, no podrán participar en el siguiente proceso de acceso.
+
+Se exceptúan, los casos en los que las carreras no cumplan con el número mínimo de estudiantes para abrir el curso.
+
+Artículo 57.- Certificado de aceptación de cupo.- Los postulantes que deseen obtener una certificación de haber aceptado un cupo de la convocatoria vigente, lo podrán hacer ingresando con el usuario y contraseña de su cuenta personal en la plataforma informática establecida por la SENESCYT, siguiendo los pasos que se determinen para la generación e impresión automática de dicho certificado.
+
+Para los postulantes de carreras focalizadas, el certificado estará disponible una vez que el cupo haya sido registrado dentro de la plataforma informática de esta Cartera de Estado.
+
+Artículo 58. Consolidado de aceptación de cupo.- De conformidad a los cronogramas de las IES, las instituciones de educación superior públicas podrán acceder al consolidado de aceptación de cupo, en el que se detallará el listado de postulantes que aceptaron un cupo, de acuerdo con los mecanismos establecidos por la SENESCYT.
+
+<!-- image -->
+
+<!-- image -->
+
+## CAPÍTULO XI MATRICULACIÓN
+
+Artículo 59. Matriculación.- La matriculación se realizará mediante el registro de las asignaturas, cursos o sus equivalentes, en nivelación de carrera o en primer periodo académico de carrera, en cada una de las instituciones de educación superior públicas.
+
+Los postulantes con cupos aceptados podrán realizar los procesos de matrícula ordinaria, extraordinaria o especial, según lo establecido en el Reglamento de Régimen Académico vigente y la normativa interna de cada institución.
+
+Las instituciones de educación superior públicas, podrán únicamente matricular a los postulantes que consten en el Consolidado de Acepta Cupo.
+
+La SENESCYT, podrá requerir a las instituciones de educación superior públicas, presentar el registro de matriculados en función del Consolidado de Acepta Cupo.
+
+Artículo 60. No apertura del primer periodo académico de una carrera de tercer nivel. - En el caso de que las instituciones de educación superior decidan no aperturar el primer periodo académico de una carrera de tercer nivel, por no contar con el número mínimo de aspirantes, deberán realizar las siguientes acciones:
+
+1. Notificar a los aspirantes que no se apertura el primer nivel de carrera;
+2. Realizar el proceso de reubicación a los aspirantes, considerando lo siguiente:
+- Si se aplicó una evaluación por área de conocimientos, la carrera receptora deberá pertenecer al mismo campo de conocimiento de la carrera de origen.
+- La disponibilidad de cupos.
+- La libre elección y aceptación de los aspirantes.
+
+Una vez realizadas estas acciones, se procederá con la matriculación correspondiente en la nueva carrera.
+
+Para las y los postulantes que no hayan aceptado la reubicación, se inactivará el cupo previamente aceptado.
+
+ArtiÌculo 61. Determinación de la gratuidad en la admisión.- En cumplimiento a la normativa legal vigente a la fecha, las IES públicas determinarán en su normativa interna, el beneficio de gratuidad que le corresponda a cada aspirante en el proceso de acceso en el periodo en curso.
+
+Artículo 62. Casos de segunda carrera.- Se considera segunda carrera cuando el postulante ya cuenta con un cupo activo en el SNNA. Para acceder a su segunda carrera, deberá cumplir con el proceso de acceso establecido en este reglamento.
+
+Las IES podrán determinar en su normativa interna los casos de segunda carrera de conformidad a la normativa legal vigente.
+
+Artículo 63. Gratuidad en nivelación de carrera.- El principio de gratuidad cubrirá únicamente la primera matrícula en nivelación de carrera, siempre que la misma corresponda al primer programa de nivelación financiado por el Estado.
+
+La gratuidad no cubrirá la segunda matricula del programa de nivelación de carrera, ni el costo correspondiente a los créditos relacionados con la misma, siendo responsabilidad de cada IES, definir el valor correspondiente.
+
+La pérdida del beneficio de gratuidad en nivelación de carrera no afectará la gratuidad del estudiante durante el programa de formación en carrera.
+
+<!-- image -->
+
+<!-- image -->
+
+No habrá tercera matrícula para el programa de nivelación de carrera.
+
+Artículo 64. Acciones para la permanencia y sostenimiento.- Las instituciones de educación superior, deberán analizar la situación de las personas que ingresan en el marco de las políticas de acción afirmativa y de cuotas, con el propósito de promover acciones para la permanencia y sostenimiento de estos grupos de personas a lo largo de sus estudios de tercer nivel.
+
+## TÍTULO III NIVELACIÓN
+
+Artículo 65. Programas de nivelación general.- La SENESCYT y las IES públicas podrán implementar programas de nivelación general, con el objetivo de brindar herramientas a los aspirantes que busquen acceder a la educación superior, los mismos que deberán ser gratuitos para los ciudadanos.
+
+Artículo 66. Curso de nivelación de carrera.- La nivelación de carrera tiene por objetivo equiparar el perfil de egreso de los bachilleres con el perfil de ingreso a las diferentes carreras, así como homologar conocimientos y destrezas para mejorar el desempeño de los aspirantes que obtuvieron un cupo, a partir del desarrollo de capacidades de aprendizaje específicas y adecuadas a los contenidos de su carrera de preferencia.
+
+Las instituciones de educación superior definirán si ofertan cupos para nivelación de carrera, considerando la heterogeneidad en la formación del bachillerato y/o las características de cada carrera.
+
+Artículo 67. Criterios para ejecutar la nivelación de carrera.- Las IES públicas que realicen la nivelación de carrera, serán responsables de su desarrollo, observando los lineamientos emitidos por la SENESCYT, los cuales desarrollarán entre otros, los siguientes puntos:
+
+1. La nivelación de carrera deberá ser financiada por las IES públicas.
+2. El modelo pedagógico-curricular de la nivelación de carrera, es de competencia de las IES públicas y tendrá como objetivo principal el incremento progresivo de las tasas de aprobación y retención de los estudiantes.
+3. Los cursos de nivelación de carrera deberán garantizar calidad en su implementación.
+4. En los cursos de nivelación de carrera se matriculará únicamente a los postulantes que hayan aceptado un cupo.
+5. Las Universidades y Escuelas Politécnicas públicas, deberán remitir un informe general del curso de nivelación de carrera a la SENESCYT, en un término máximo de 30 días, tras el cierre del periodo académico respectivo, conforme los lineamientos establecidos.
+
+Artículo 68. Aprobación del curso de nivelación de carrera.- La aprobación del curso de nivelación de carrera permitirá a los estudiantes vincularse al primer periodo académico de la carrera de tercer nivel en la que aceptó el cupo.
+
+Las IES públicas que ejecuten el curso de nivelación de carrera, en ejercicio de su autonomía responsable, regularán los procesos y criterios de aprobación de la misma.
+
+La matrícula en el primer periodo académico de una carrera de tercer nivel deberá realizarse en el período académico inmediato siguiente a la aprobación del curso de nivelación de carrera.
+
+Una vez transcurrido dos (2) periodos académicos, las IES públicas en ejercicio de su autonomía responsable, analizarán las solicitudes de reingreso, siempre que no hayan realizado su matrícula en el primer nivel de carrera por caso fortuito y fuerza mayor, siempre y cuando el cupo no se encuentran inactivo en el SNNA, de acuerdo con su normativa interna.
+
+Artículo 69. Estudiantes que no aprueben el curso de nivelación de carrera.- Los estudiantes que no aprueben el curso de nivelación de carrera, podrán:
+
+<!-- image -->
+
+<!-- image -->
+
+1. Solicitar el retiro definitivo de conformidad a los procedimientos establecidos en la IES.
+2. Cursar la nivelación de carrera como segunda matrícula, siempre y cuando se encuentre dentro de dos (2) periodos académicos posteriores a la primera matrícula.
+
+Artículo 70. Retiro de la nivelación de carrera.- Los estudiantes podrán retirarse del curso de nivelación de carrera, de acuerdo con los procedimientos y plazos establecidos por las IES públicas, de conformidad al siguiente detalle:
+
+1. Voluntario: de acuerdo con los casos establecidos por las IES públicas.
+2. Definitivo: este tipo de retiro inactiva el cupo. Sin excepcionalidad, podrá participar en nuevo proceso de acceso, una vez que haya transcurrido un (1) periodo académico desde la matrícula en nivelación de carrera del cupo aceptado.
+3. Por circunstancias de caso fortuito o fuerza mayor: Para los presentes casos, no se contabilizará la matrícula realizada, en el marco de lo establecido en el presente reglamento, referente a la gratuidad
+
+Los estudiantes del curso de nivelación de carrera podrán hacer efectiva su matrícula hasta dos (2) periodos académicos subsiguientes al retiro voluntario y excepcionalmente para casos fortuitos o fuerza mayor, o justificados de enfermedades catastróficas, raras o de alta complejidad debidamente certificados por el órgano rector del Sistema Nacional de Salud Pública, que serán analizados por cada IES públicas; siempre y cuando el cupo no se encuentran inactivo en el SNNA.
+
+Las instituciones de educación superior deberán remitir a la SENESCYT en el informe general de nivelación de carrera, los casos de retiro de la nivelación de carrera.
+
+Artículo 71. Anulación de la matrícula en nivelación de carrera.- Las IES públicas anularán de oficio o a petición de parte, la matrícula en nivelación de carrera, que haya sido realizada contraviniendo lo dispuesto en la Ley Orgánica de Educación Superior y demás normativa aplicable vigente, respetando el debido proceso en el trámite de anulación. Para el efecto, las IES públicas emitirán la normativa correspondiente que regule lo dispuesto en el presente artículo.
+
+En los casos que se anule la matrícula conforme a lo establecido en el presente artículo, las IES públicas, podrán solicitar a la SENESCYT la inhabilitación de los aspirantes en la participación a los procesos de acceso, por un lapso de cuatro (4) periodos académicos posteriores al hecho.
+
+Las IES públicas deberán reportar en el informe general de nivelación de carrera a la SENESCYT, los casos de anulación de matrícula del curso de nivelación de carrera.
+
+## TÍTULO IV CARRERAS CON OFERTA FOCALIZADA
+
+Artículo 72. Carreras con oferta focalizada.- Son las carreras ofertadas por IES públicas, que tienen por objetivo la profesionalización de los ciudadanos; de servidoras y servidores públicos en el campo de conocimiento específico; y, aquellas que se encuentran enmarcados en un convenio entre una institución de educación superior y una entidad formadora, observando lo establecido en el Reglamento para Carreras y Programas en Modalidad de Formación Dual expedido por el Consejo de Educación Superior.
+
+En los casos de focalización de cupos, se requerirá elaborar, como parte del mencionado convenio, un informe técnico expedido por las entidades que lo suscriban, en el que se justifique la focalización de la oferta y su pertinencia, el cual deberá ser enviado a la SENESCYT, para su conocimiento.
+
+Podrán aplicar a la oferta de carreras de formación dual focalizada, aspirantes sin relación laboral con una organización, empresa, cámara o asociación privada, así como trabajadores en relación de dependencia.
+
+La entidad formadora, en ningún caso, podrá solicitar a los ciudadanos que hayan obtenido un cupo en la
+
+<!-- image -->
+
+<!-- image -->
+
+carrera, la compensación o devengamiento de los estudios cursados, en periodos posteriores a la culminación de esta.
+
+Artículo 73. Oferta focalizada de cupos.- La oferta focalizada de cupos será determinada por las instituciones de educación superior públicas, en el momento de la carga de oferta académica, considerando las plazas que otorguen las entidades formadoras y los convenios específicos suscritos para el efecto, garantizando al menos un cupo para población general.
+
+La política de cuotas no será aplicada para este tipo de carreras.
+
+Artículo 74. Requisitos para el acceso a carreras con oferta focalizada.- La Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y demás entidades que implementen carreras con oferta focalizada, coordinarán con las IES públicas y determinarán dentro su normativa los requisitos adicionales, de ser el caso, a más del puntaje de postulación vigente, así como los procedimientos y cronogramas de acceso a estas carreras.
+
+Las instituciones que implementen procesos focalizados serán las encargadas de determinar el periodo académico con el que los aspirantes tienen que cumplir con el Registro Nacional y el puntaje de postulación.
+
+Para los aspirantes de carreras militares y policiales que requieran una segunda carrera de formación como parte de su perfeccionamiento profesional, la misma no se considerará como gratuita.
+
+Artículo 75. Restricción de postulación y aceptación de cupo en carreras focalizadas.- Los aspirantes que se encuentren participando en el proceso de la Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y demás entidades con quienes se implementen carreras con oferta focalizada, no podrán aceptar más de un cupo en el mismo periodo dentro del Sistema Nacional de Nivelación y Admisión.
+
+La Subsecretaría Técnica competente procederá con el bloqueo y desbloqueo de los aspirantes para participar en los diferentes procesos de acceso, en función de la información remitida por la Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y entidades con quienes se implementen carreras focalizadas, y en función del cronograma establecido en la convocatoria nacional.
+
+Artículo 76. Excepcionalidad de la Etapa del Registro Nacional para el registro de aceptación de carrera focalizada.- Para los aspirantes de carreras focalizadas no es obligatorio realizar la etapa del Registro Nacional en el periodo en que se va a registrar el cupo, siempre y cuando los aspirantes hayan cumplido con los requisitos de la SENESCYT en el periodo en el que se validó su nota de postulación, conforme a lo solicitado por las fuerzas del orden en su proceso de reclutamiento y selección.
+
+Artículo 77. Listado de aptos finales de carreras focalizadas.- La Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y demás entidades con quienes se implementen carreras con oferta focalizada, notificarán a la SENESCYT el listado de sus aptos finales que hayan superado los procesos de reclutamiento y selección; y, que aceptaron un cupo en la carrera con oferta focalizada de su elección.
+
+Artículo 78. Periodo académico de registro de cupos.- En el caso de la Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y demás entidades, las mismas determinarán el periodo académico de registro de los cupos otorgados, lo cual deberá notificarse a la SENESCYT durante el proceso de acceso correspondiente.
+
+Respecto de las entidades formadoras del sector privado, podrán determinarlo junto con las instituciones de educación superior, lo cual deberán notificar a la SENESCYT.
+
+El proceso de matrícula será en el periodo que se registre el cupo aceptado por el postulante en la plataforma informática del Sistema Nacional de Nivelación y Admisión.
+
+Artículo 79. Registro de cupos de carreras con oferta focalizada en los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos.- Una vez culminadas las etapas de reclutamiento y selección en la Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y demás entidades, la SENESCYT registrará el cupo aceptado en la carrera con oferta focalizada de la elección de los aspirantes en los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos, que hayan superado los mencionados procesos, conforme a las regulaciones establecidas para el efecto por la SENESCYT.
+
+<!-- image -->
+
+<!-- image -->
+
+La SENESCYT, notificará el registro a la Subsecretaría Técnica competente, a la Policía Nacional, las Fuerzas del orden en general, las Carteras de Estado y demás entidades con quienes se implementen carreras con oferta focalizada.
+
+## TÍTULO V CAMBIOS DE CARRERA O DE INSTITUCIÓN DE EDUCACIÓN SUPERIOR
+
+Artículo 80. Cambios de carrera o de institución de educación superior.- Los cambios de carrera o de institución de educación superior de los estudiantes, serán realizados, de conformidad con lo dispuesto en el Reglamento de Régimen Académico, normativa interna de las IES y demás normativa vigente aplicable.
+
+En todos los casos la carrera e institución receptora deberá observar que el aspirante cumpla con el puntaje mínimo de cohorte de la carrera en el periodo académico correspondiente al que solicita la movilidad.
+
+## TÍTULO VI
+
+## CAPÍTULO I MONITOREO Y CONTROL
+
+Artículo 81. Monitoreo y seguimiento.- La SENESCYT realizará el monitoreo y seguimiento de todas las etapas del proceso de acceso ejecutado por cada una de las IES públicas, con la finalidad de verificar, validar y garantizar el fiel cumplimento de la normativa legal vigente.
+
+Para el efecto, solicitará la información que considere pertinente del proceso en curso o de procesos anteriores en los tiempos establecidos por esta Cartera de Estado.
+
+Adicionalmente, las IES públicas, deberán enviar a la SENESCYT un informe que permita verificar y validar la implementación del proceso en todas sus etapas, así como la normativa interna que aplicó para su efecto.
+
+Esta información deberá ser entregada en un plazo no mayor a 30 días término posterior a la finalización del proceso de acceso.
+
+Por otro lado, para las Universidades y Escuelas Politécnicas públicas que implementen cursos de nivelación de carrera, además del informe detallado en el párrafo precedente, deberán remitir un informe general de nivelación de carrera que contenga la información dispuesta en el presente reglamento.
+
+Artículo 82. Consolidado de estados de los aspirantes.- La SENESCYT establecerá mecanismos para que las IES públicas reporten la etapa del proceso hasta la cual avanzaron los aspirantes (inscripción, postulación, evaluación, asignación, aceptación y matrícula) en cada institución.
+
+Artículo 83. Consolidado de aspirantes a carreras Focalizadas.- La SENESCYT establecerá mecanismos para que las IES públicas que implementan carreras focalizadas reporten el proceso de acceso.
+
+<!-- image -->
+
+<!-- image -->
+
+## DISPOSICIONES GENERALES
+
+PRIMERA.- El presente Reglamento rige para los procesos de acceso a la educación superior desde el primer periodo académico 2025.
+
+SEGUNDA.- Las Instituciones de Educación Superior Pública deberán ajustar su normativa interna para la correcta ejecución y regulación de las etapas de acceso previo al inicio de su inscripción.
+
+TERCERA.- Los aspirantes que participen en los procesos de acceso a la educación superior, serán responsables del cuidado y uso personal del usuario y contraseña generados para acceder a las plataformas habilitadas para el efecto.
+
+CUARTA.- De conformidad a lo determinado en el presente Reglamento, la SENESCYT, no ejecutará el proceso de admisión correspondiente a los institutos no adscritos a esta Secretaria, que soliciten de manera justificada y motivada, la aprobación de realizar el proceso de manera propia, previo a la fase de inscripción determinada por esta Cartera de Estado.
+
+QUINTA.- Las personas privadas de la libertad (PPL) y los adolescentes infractores, podrán postular en la oferta académica disponible de las instituciones de educación superior, en observancia de su situación jurídica a la fecha del proceso de acceso.
+
+SEXTA.- La SENESCYT, solicitará al Ministerio de Educación la información de los postulantes que se encuentren cursando el tercer año de bachillerato en artes del periodo en curso; y, de los ciudadanos graduados en años anteriores que tengan un título de bachiller en artes, para el proceso de acceso.
+
+Únicamente los postulantes que cuenten con un bachillerato en artes; y, quienes hayan aprobado el examen de suficiencia podrán postular por una carrera en artes ofertada por la Universidad de las Artes y los conservatorios e institutos superiores públicos de artes, independientemente de la nota de grado con la que se realizó el cálculo de su puntaje de postulación.
+
+La SENESCYT, pondrá a disposición de las Universidades y Escuelas Politécnicas públicas la información de los aspirantes que cuenten con título de bachiller en artes en la plataforma informática del Sistema Nacional de Nivelación y Admisión y podrán revisar dicha información de acuerdo con los mecanismos establecidos para el efecto.
+
+SÉPTIMA.- Los aspirantes que deseen optar por un cupo en la Universidad de las Artes y los conservatorios e institutos superiores públicos de artes, que no cuenten con un título de bachiller en artes, deberán aprobar un examen de suficiencia como requisito para el ingreso en cada proceso de acceso.
+
+La Universidad de las Artes y los conservatorios e institutos superiores públicos de artes, implementará el examen de suficiencia antes de la evaluación para el ingreso a la educación superior; y, remitirán a la SENESCYT los resultados de la aplicación del examen de suficiencia en cada proceso de acceso, conforme el cronograma y formatos que se establezca para el efecto, en los casos que corresponda.
+
+OCTAVA.- Las Universidades y Escuelas Politécnicas públicas garantizarán el acceso y publicidad de la información de cada proceso de acceso sin ningún costo para los aspirantes.
+
+NOVENA.- De encontrar incumplimiento a lo establecido en la presente normativa, la SENESCYT notificará al Consejo de Educación Superior, a fin de que inicie los procesos correspondientes, de conformidad con sus competencias y la normativa que rige al sistema de educación superior.
+
+DÉCIMA.- El proceso de registro de cupos focalizados para los aspirantes que no hayan realizado la etapa de Registro Nacional, no afectará la información previamente cerrada del registro nacional del periodo en curso.
+
+<!-- image -->
+
+<!-- image -->
+
+## DISPOSICIONES TRANSITORIAS
+
+PRIMERA.- Los estudiantes que hayan pertenecido al grupo de Grupo de Alto Rendimiento Internacional, podrán participar de los procesos de acceso, siempre y cuando su estado académico así lo permita, conforme al Reglamento Codificado de Becas y Ayudas Económicas.
+
+Para el efecto, se deberá observar lo siguiente:
+
+- a) Los estudiantes que cuenten con un estado de: en estudios o incumplidos serán bloqueados y no podrán participar en el proceso de acceso.
+- b) Los estudiantes que cuenten con un estado de: ex becario, finalizó beca, seguimiento a la compensación y terminó estudios estarán habilitados para participar del proceso de acceso. De obtener un cupo, la nueva carrera no será gratuita.
+
+SEGUNDA.- Los aspirantes que rindieron la evaluación en los procesos de acceso a la educación superior previo a la expedición del presente Reglamento, podrán mantener la vigencia de su puntaje de evaluación, conforme a lo establecido en la normativa vigente a la fecha de la evaluación correspondiente, sin embargo deberán realizar las demás etapas del proceso de acceso establecidas en este reglamento.
+
+Las IES determinarán el mecanismo para la aplicación de la presente disposición.
+
+## DISPOSICIÓN DEROGATORIA
+
+PRIMERA.- Con la entrada en vigencia del presente instrumento se deroga el Reglamento del Sistema Nacional de Nivelación y Admisión expedido mediante Acuerdo Nro.
+
+SENESCYT-SENESCYT-2023-0003-AC de 07 de julio de 2023, el Acuerdo Nro.
+
+SENESCYT-SENESCYT-2023-0010-AC de 14 de julio de 2023 y el Acuerdo Nro.
+
+SENESCYT-SENESCYT-2023-0025-AC, de 20 de septiembre de 2023 y sus posteriores reformas.
+
+SEGUNDA.- Se deroga totalmente las normas de igual o menor jerarquía que regulan el actual Sistema Nacional de Nivelación y Admisión.
+
+## DISPOSICIONES FINALES
+
+PRIMERA.- De la ejecución del presente Acuerdo, encárguese a la Subsecretaría de Acceso a la Educación Superior, Subsecretaría de Instituciones de Educación Superior, a la Coordinación General de Tecnologías de la Información y Comunicación, Dirección de Comunicación Social; y a las instituciones de educación superior.
+
+SEGUNDA.- Encárguese a la Coordinación General de Tecnologías de la Información y Comunicación de esta Cartera de Estado la respectiva publicación del presente Acuerdo en la página web de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación.
+
+TERCERA.- Encárguese a la Dirección de Comunicación Social de esta Cartera de Estado la difusión del presente Acuerdo a través de los canales oficiales de la Secretaría de Educación Superior, Ciencia, Tecnología e Innovación.
+
+CUARTA.- Encárguese a la Coordinación General de Asesoría Jurídica la notificación del presente Acuerdo a la Subsecretaría General de Educación Superior, Ciencia, Tecnología e Innovación, Subsecretaría de Acceso a la Educación Superior, Subsecretaría de Instituciones de Educación Superior, a la Dirección de Comunicación Social, Coordinación General de Tecnologías de la Información y Comunicación.
+
+QUINTA. - Encárguese a la Subsecretaría de Acceso a la Educación Superior la notificación con el
+
+<!-- image -->
+
+<!-- image -->
+
+presente Acuerdo a las instituciones de educación superior públicas y particulares del país.
+
+SEXTA.- Encárguese a la Subsecretaría de Instituciones de Educación Superior, la notificación con el presente Acuerdo a los institutos superiores técnicos, tecnológicos, pedagógicos de artes y conservatorios superiores públicos del país.
+
+SÉPTIMA.- El presente Acuerdo entrará en vigencia a partir de su suscripción, sin perjuicio de su publicación en el Registro Oficial.
+
+Dado en el Distrito Metropolitano de San Francisco de Quito, a los 26 días del mes de noviembre de 2024.
+
+Notifíquese y publíquese.-
+
+Dado en Quito, D.M., a los 26 día(s) del mes de Noviembre de dos mil veinticuatro.
+
+## Documento firmado electrónicamente
+
+SR. MGS. CÉSAR AUGUSTO VÁSQUEZ MONCAYO SECRETARIO DE EDUCACIÓN SUPERIOR, CIENCIA, TECNOLOGÍA E INNOVACIÓN.
+
+<!-- image -->

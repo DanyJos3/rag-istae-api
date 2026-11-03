@@ -1,0 +1,285 @@
+**REGLAMENTO DE USO DEL ENTORNO VIRTUAL DE APRENDIZAJE (EVA)**
+
+**INSTITUTO SUPERIOR TECNOLÓGICO ALBERTO ENRÍQUEZ**
+
+**EL ÓRGANO COLEGIADO SUPERIOR DEL INSTITUTO SUPERIOR TECNOLOGICO ALBERTO ENRÍQUEZ**
+
+Considerando:
+
+**Que** , el artículo 350 de la Constitución de la República dispone que el Sistema de Educación Superior tiene como finalidad la formación académica y profesional con visión científica y humanista; la investigación científica y tecnológica, la innovación, promoción, desarrollo y difusión de los saberes y las culturas; la constitución de soluciones para los problemas del país, en relación con los objetivos del régimen de desarrollo;
+
+**Que** , el artículo 352 de la Constitución de la República determina que el Sistema de Educación Superior está integrado por universidades y escuelas politécnicas; institutos superiores técnicos, tecnológicos y pedagógicos; y conservatorios de música y artes, debidamente acreditados y evaluados. Estas instituciones, sean públicas o particulares, no tendrán fines de lucro;
+
+**Que,** el artículo 3 de la Ley Orgánica de Educación Superior, establece: “La Educación superior de carácter humanista, intercultural y científica constituye un derecho de las personas y un bien público social que, de conformidad con la Constitución de la República, responderá al interés público y no estará al servicio de intereses individuales y corporativos”;
+
+**Que,** el artículo 8 de la Ley Orgánica de Educación Superior, entre sus fines establece: “d) Formar académicos y profesionales responsables, en todos los campos del conocimiento, con conciencia ética y solidaria, capaces de contribuir al desarrollo de las instituciones de la República, a la vigencia del orden democrático, y a estimular la participación social”;
+
+**Que,** el literal b) del artículo 14 de la Ley Orgánica de Educación Superior establece: son instituciones del Sistema de Educación Superior: “b) Los institutos Superiores técnicos, tecnológicos, pedagógicos y de artes, tanto públicos como particulares debidamente evaluados y acreditados”;
+
+**Que,** el artículo 84 de la Ley Orgánica de Educación Superior (LOES), establece: “Los requisitos de carácter académico y disciplinario necesarios para la aprobación de cursos y carreras, constarán en el Reglamento de Régimen Académico, en los respectivos estatutos, reglamentos y demás normas que rigen al Sistema de Educación Superior”;
+
+**Que,** el artículo 118 de la LOES, determina que son niveles de formación de la educación superior: 1) Tercer nivel técnico-tecnológico y de grado; 2) Cuarto nivel o de posgrado;
+
+**Que,** la disposición general tercera de la Ley Orgánica de Educación Superior LOES, establece “La oferta y ejecución de 3s de educación superior es atribución exclusiva de las instituciones de educación superior legalmente autorizadas (…)”;
+
+**Que,** mediante Resolución RPC-SO-08-No 111-2019 de 27 de febrero de 2019, reformada con Resolución RCP-SO-16-No. 331-2020 de 15 de julio 2020 el Pleno del Consejo de Educación Superior expidió el Reglamento de Régimen académico, que regula y orienta el que hacer académico de las instituciones de educación superior en sus diversos niveles de formación; y,
+
+En ejercicio de sus competencias, deberes y atribuciones RESUELVE expedir el siguiente:
+
+RES-ISTAE-OCS-2024-SO-13-R009
+
+**REGLAMENTO DE USO DEL ENTORNO VIRTUAL DE APRENDIZAJE (EVA)**
+
+**INSTITUTO SUPERIOR TECNOLÓGICO ALBERTO ENRÍQUEZ**
+
+## CAPITULO I
+
+## GENERALIDADES
+
+### Articulo 1.-Objeto
+
+El presente reglamento tiene por objeto regular los procesos de aprendizaje que se apoyen en los entornos virtuales, herramientas digitales y tecnologías en el Instituto Superior Tecnológico Alberto Enrique.
+
+### Articulo 2.-Ámbito
+
+Este reglamento es de aplicación obligatoria para todos los usuarios que usan entornos virtuales y requieran el apoyo de la Unidad de Control y Soporte del Entorno Virtual
+
+### Artículo 3.- Campus
+
+La plataforma oficial para el diseño y desarrollo de cursos de formación y capacitación virtual o hibrida se alojará en el Campus Virtual del Instituto Superior Tecnológico Alberto Enríquez.
+
+## CAPITULO II
+
+## TERMINOLOGÍAS
+
+### Artículo 4.- Definiciones
+
+Se definen los siguientes conceptos:
+
+- a) **Campus Virtual:** También conocido como Sistema de Gestión de Aprendizajes (LMS por sus siglas en inglés), se trata de un software que se instala en un servidor y que permite administrar, distribuir y controlar actividades de formación en línea. Aloja las aulas virtuales de una institución u organización.
+- b) **Modalidad En Línea** : Formación educativa que desarrolla un programa de cursos, mediante un campus virtual, utilizando medios sincrónicos y asincrónicos. Todas las actividades se desarrollan en línea
+- c) **Modalidad Presencial:** Formación Educativa que desarrolla un programa de cursos con actividades presenciales
+- d) **Herramientas Virtuales:** Aplicaciones informáticas o herramientas digitales disponibles y que permiten la interacción sincrónica o asincrónica de las personas que facilitan el desarrollo de experiencias de aprendizaje.
+- e) **Perfil Profesional** : Conjunto de conocimientos, habilidades y actitudes que la persona posee para desempeñar funciones y actividades específicas en una determinada profesión o trabajo
+- f) **Mediador Virtual:** Docente en un área específica con habilidades comunicacionales, de mediación e interacción y en el manejo de software de tele formación (campus virtual), dentro de los ambientes virtuales de aprendizaje
+- g) **Estudiante:** Para todos los efectos, esta definición contempla a servidores o estudiantes de carrera, cursos libres, programas técnicos, tecnológicos o de investigación
+
+## CAPÍTULO III
+
+## CAMPUS VIRTUAL
+
+### Artículo 5.- De la inscripción de estudiantes
+
+Para inscribirse en cursos, talleres y asignaturas, que requieran el uso del campus virtual del Instituto Superior Tecnológico Alberto Enrique, los interesados deben cumplir con los siguientes requisitos:
+
+- a) Ser estudiantes legalmente matriculados en una de las carreras, asignaturas, cursos, talleres o similares que se oferten en el ISTAE, de conformidad con las normas institucionales;
+- b) Ser personal académico o docente que se matriculen en cursos de capacitación ofertados por el instituto, deben haber cumplido con la legalización de su proceso de contratación en la Unidad de Talento Humano;
+- c) Contar con el equipo informático y acceso a internet necesarios.
+- d) Cualquier otro requisito especial establecido en este reglamento institucional o requisitos específicos del curso, asignaturas, talleres o similar ofertados por el instituto.
+
+### Artículo 6.- De las credenciales
+
+La Unidad de Tecnologías de la Información será la encargada de proporcionar los datos de acceso el usuario y contraseña una vez que se haya culminado con los procesos de inscripción y/o matriculación, dependiendo el caso, estas credenciales serán para el uso exclusivo del participante del aula virtual.
+
+### Artículo 7.- De los Docentes
+
+Los docentes encargados del proceso formativo o de capacitación (cursos, talleres y otros de índole académico), son los responsables directos de brindar a los estudiantes, el acompañamiento académico permanente durante todo el periodo en el que se lleve a cabo la actividad formativa o capacitación.
+
+### Artículo 8.- De la Unidad de Educación Virtual
+
+La Unidad de control y soporte del entorno virtual (UCSEV) es la dependencia responsable de administrar el campus virtual y brindar al participante el acompañamiento técnico ante cualquier consulta sobre el manejo del campus virtual. La Unidad de control y soporte del entorno virtual (UCSEV) estará encargada de las siguientes actividades:
+
+- a) Guiar al docente en el uso de la Plataforma Virtual, proporcionándole las herramientas tecnológicas necesarias para el cumplimiento de sus actividades.
+- b) Brindar Asesoría técnica a los docentes que requieran de su ayuda en el uso adecuado de las aulas virtuales, previa planificación y horario de atención personalizada.
+- c) Informar de forma permanente a los docentes sobre las actividades que se desarrollen acerca del uso de aulas virtuales.
+- d) Coordinar con la unidad de TICS los requerimientos de utilización de software adicional instalado, con la finalidad de tomar decisiones conjuntas a la adecuación, incorporación o modificación de herramientas y recursos existentes.
+
+## CAPÍTULO IV
+
+## DISEÑO E IMPLEMENTACIÓN DE CURSOS EN EL CAMPUS VIRTUAL
+
+### Artículo 9.- De los componentes virtuales
+
+Las unidades académicas determinan aquellos cursos que estarán acompañados de componentes virtuales, de acuerdo con el plan de estudios y el programa del curso o capacitación. Los criterios que se utilicen para determinar si un curso se puede ofrecer en entornos virtuales deben ser analizados por las Coordinaciones de Carreras del ISTAE; en caso de que las coordinaciones de carrera no cuenten con la experiencia o formación en entornos virtuales deben ser capacitados por la Unidad de Tecnologías de la Información en conjunto con la Unidad de Control y Soporte del Entorno Virtual (UCSEV).
+
+### Artículo 10.- De la capacitación
+
+Para impartir un curso mediante el uso de herramientas virtuales, el docente deberá estar plenamente capacitado por la Unidad de Tecnologías de la Información en conjunto con la Unidad de Control y Soporte del Entorno Virtual (UCSEV), o poseer una certificación o título que lo acredite en los siguientes temas:
+
+- a) Manejo de la plataforma desde el rol docente
+- b) Mediación Virtual en un entorno de aprendizaje
+- c) Diseño de entornos virtuales de aprendizaje.
+
+### Artículo 11.- De la solicitud de diseño
+
+Para diseñar un curso en entornos virtuales, UCSEV proporcionará la estructura de creación de aulas virtuales a los coordinadores de carreras, áreas y comisiones con dos (2) semanas de anticipación a la apertura del curso, asignatura, talleres o similares, el mismo que consta en el reglamento vigente.
+
+### Artículo 12.- Del término
+
+La Unidad de Tecnologías de la Información, en un término no mayor a diez (10) días, creará una arquitectura en el espacio virtual para cada carrera, con el objetivo que se inicie el proceso de diseño, producción y montaje en la plataforma por los delegados de cada carrera.
+
+### Artículo 13.- De las políticas de uso
+
+Una vez que la Unidad de Tecnologías de la Información finalice con la creación de los cursos, deberá notificar a los equipos docentes quienes deberán cumplir con las siguientes políticas de uso:
+
+- a) Usar de manera obligatoria el EVA en el período académico según las materias asignadas en el distributivo docente, y que consta en el SIGA (Sistema Integrado de Gestión Académico)
+- b) En ninguna circunstancia será revelada a terceros la contraseña ya que todo daño o perjuicio que pudiera derivarse de este hecho serán atribuidos al usuario titular, y, por consiguiente, de su absoluta responsabilidad
+- c) El docente debe cumplir el orden de forma existente en el formato de diseño del entorno virtual
+- d) Desarrollar y/o relacionar todo el material digital que suba y/o envíe a la plataforma virtual según la legislación vigente en los temas de derechos de autor, propiedad intelectual y patentes.
+- e) Asegurar que los recursos utilizados (juegos, aplicaciones, entre otros) sean para promover el aprendizaje de los contenidos planteados
+- f) Dirigirse con respeto hacia todo usuario de la plataforma virtual
+- g) Utilizar la plataforma virtual exclusivamente para actividades académicas
+- h) Manejar confidencialmente los datos e información de los estudiantes que están matriculados en el aula virtual
+- i) La UCSEV será el único estamento que podrá otorgar la información para el uso de la herramienta del EVA.
+
+### Articulo 14.- De las Herramientas Colaborativas Externas
+
+La UCSEV, en razón de las características de capacidad de almacenamiento del servidor, se sugiere al personal docente la utilización de herramientas tecnológicas externas que permitan comprimir o almacenar información académica utilizada en el proceso enseñanza aprendizaje para compartir material a los estudiantes a través de links desde el recurso enlace de la plataforma virtual, por lo que recomienda la práctica y uso de las siguientes herramientas:
+
+- a) El docente puede utilizar las plataformas como herramientas colaborativas virtuales externas
+- b) El docente deberá ingresar y utilizar su correo institucional para las gestiones académicas y administrativas
+- c) **El docente podrá utilizar herramientas externas, con el fin de liberar la congestión de la plataforma del Instituto.**
+
+## CAPÍTULO V
+
+## ESTRUCTURA Y RECURSOS DEL CURSO VIRTUAL
+
+### Art. 15.- De la estructura de Archivos Obligatoria
+
+El docente deberá organizar la sección de recursos principales creando carpetas obligatorias con los siguientes nombres:
+
+- Misión y Visión institucionales
+- PEA (Programa de Estudio de la Asignatura).
+- GUÍAS.
+- HORARIO DOCENTE.
+
+### Art. 16.- De los Estándares de Contenido y Formatos
+
+1. Carga Académica Mínima: En cada curso debe existir, como mínimo, una tarea o actividad y un recurso semanal, en concordancia con la planificación aprobada por el coordinador a través del sistema SIGA.
+2. Formatos de Documentos: Los documentos administrativos y de lectura deben subirse exclusivamente en formato PDF.
+3. Recursos Multimedia:
+- Las imágenes deben tener extensión JPG.
+- Los videos no deben subirse directamente al servidor; deben ser integrados mediante el uso de enlaces externos (URL) para optimizar el rendimiento del sistema.
+4. Finalidad Pedagógica: Todos los recursos adicionales (juegos, aplicaciones externas, herramientas interactivas) deben tener como fin exclusivo promover el aprendizaje de los contenidos planteados en el PEA.
+
+### Art. 17.- De las actividades y recursos básicos del EVA
+
+El entorno Moodle del ISTAE pone a disposición las siguientes herramientas básicas para el proceso de enseñanza-aprendizaje:
+
+- Actividades: Herramientas que permiten la interacción y evaluación, tales como Cuestionarios, Tareas, Foros, Chats, Talleres, Lecciones y Wikis.
+- Recursos: Elementos de consulta que incluyen Archivos (PDF), Carpetas, Etiquetas, Páginas, Libros y URLs (enlaces externos).
+
+### Art. 18.- Guías de Uso
+
+Se informa a la comunidad educativa que existen manuales detallados de capacitación dentro del mismo entorno virtual. Los usuarios pueden acceder a estos recursos en la sección de **"GUÍAS DE USO"** , donde se encuentran disponibles de forma permanente:
+
+1. **Guía de Uso EVA Estudiantes** .
+2. **Guía de Uso EVA Docentes** .
+
+Esta documentación debe ser revisada para solventar cualquier duda técnica sobre el manejo de las herramientas institucionales
+
+## CAPÍTULO VI
+
+## OBLIGACIONES Y PROHIBICIONES DE LOS DOCENTES
+
+### Art. 19.- Obligaciones del Personal Docente
+
+Son deberes de los docentes inscritos en el campus virtual:
+
+1. Uso Obligatorio: Utilizar de manera obligatoria el "Entorno Virtual de Aprendizaje" durante el período académico, conforme a las materias asignadas en su distributivo docente.
+2. Responsabilidad de Credenciales: Mantener la confidencialidad de su contraseña. Todo daño o perjuicio derivado de la revelación de la misma a terceros será de absoluta responsabilidad del usuario titular.
+3. Identificación de Perfil: Subir una imagen personal de su rostro para el perfil de usuario, que cumpla con las normas institucionales. Caso contrario, podrá ser retirada sin previo aviso.
+4. Interacción Inicial: Colocar un saludo motivador de bienvenida en el área de "Avisos" de cada aula virtual (con una extensión mínima de 10 líneas).
+5. Gestión de Matrícula: Matricular a los estudiantes en el EVA según las listas oficiales de cada asignatura, verificando la integridad de los listados.
+6. Ética y Respeto: Dirigirse con respeto hacia todos los usuarios de la plataforma y utilizarla exclusivamente para fines académicos.
+7. Confidencialidad: Manejar con estricta reserva los datos e información de los estudiantes matriculados en sus aulas virtuales.
+8. Capacitación Continua: Revisar el manual de uso de Moodle disponible en la plataforma para solventar dudas sobre los recursos y herramientas brindadas.
+
+### Art. 20.- Prohibiciones para el Docente
+
+1. Cargar archivos que superen el límite de 8Mb, priorizando la calidad de la información sobre la cantidad para no saturar la base de datos.
+2. Subir material que vulnere la legislación vigente sobre derechos de autor, propiedad intelectual y patentes.
+3. Utilizar el EVA para fines ajenos a la planificación académica aprobada.
+
+## CAPÍTULO VII
+
+## OBLIGACIONES Y PROHIBICIONES DE LOS INSCRITOS EN EL CAMPUS VIRTUAL (EVA)
+
+### Artículo 21.- De las obligaciones
+
+Los estudiantes inscritos al Entorno de Aprendizaje Virtual, deberán cumplir con las siguientes obligaciones:
+
+1. El estudiante inscrito deberá subir una imagen personal para el perfil de usuario, siempre y cuando sea de su rostro y no atente contra las normas vigentes de la institución, de lo contrario esta podrá ser retirada sin previo aviso
+2. Utilizar la plataforma exclusivamente para actividades académicas.
+3. El estudiante debe participar y elaborar las tareas y actividades asignadas durante las semanas de cada una de las asignaturas correspondientes al nivel, asignatura o taller que se encuentre cursando, durante su vigencia en el EVA.
+4. Ingresar de manera regular a la plataforma que le corresponda para conocer sobre las actividades diarias necesarias para conseguir los resultados de aprendizaje.
+5. Las actividades solicitadas como adjuntos deben cumplir todos los parámetros establecidos por el docente.
+6. Comunicar a su docente o al coordinador de la carrera cualquier incumplimiento a las normas establecidas en el presente documento, durante el uso del EVA.
+7. **Tomar responsabilidad por todo el material digital publicado desde su usuario que incumpla el presente reglamento.**
+
+### Artículo 22.- De las prohibiciones
+
+Los estudiantes inscritos al Entorno de Aprendizaje Virtual, tienen las siguientes las siguientes prohibiciones:
+
+- a) Subir archivos, anunciar, o transmitir cualquier contenido ilegal, amenazador, abusivo, malicioso, agraviante, difamatorio, vulgar, obsceno, pornográfico, invasivo de la privacidad, de odio, de discriminación racial o étnicamente inaceptable y/o cualquier otro que generen responsabilidades administrativas, civiles y penales.
+- b) Acceder a recursos digitales no autorizados por cada docente.
+- c) Suplantar la identidad de una persona para acceder a la plataforma.
+- d) Falsificar encabezamientos o manipular identificadores para enmascarar el origen de cualquier contenido transmitido a través del servicio;
+- e) Subir archivos, anunciar, o transmitir cualquier contenido que infrinja cualquier ley, acuerdo de confidencialidad, patente, marca de fábrica, secreto de comercio, derechos de propiedad literaria u otros derechos de propiedad de cualquier parte; deberá estar enmarcado en lo que dispone la ley de propiedad intelectual, la cual prohíbe la fotocopia de libros, gráficos, música o software que tenga derechos reservados. Ante duda de lo anteriormente descrito, se recomienda no subir el material en cuestión y elevar la consulta a la UCSEV;
+- f) Subir archivos, anunciar, o transmitir cualquier publicidad no solicitada, materiales de promoción, "correo basura", "spam", "cadenas," o cualquier otra forma de petición u ofrecimiento, exceptuado en las áreas que se designan para tal propósito;
+- g) Subir archivos, anunciar, o transmitir cualquier material que contenga virus o cualquier otro código, archivos o programas diseñados para interrumpir, destruir o limitar la funcionalidad de cualquier software, hardware o equipo de computación y telecomunicaciones.
+- h) Irrespetar las pizarras y/o presentaciones compartidas.
+- i) Manipular las aplicaciones en perjuicio de sus compañeros.
+- j) Emitir ruidos fuertes de fondo que interrumpan el buen desarrollo de la clase.
+- k) **Adquirir malas posturas en clase, realizar mímicas o gestos que distraigan a los demás.**
+- l) Interferir o interrumpir el servicio, o desobedecer cualquier requisito, procedimiento, política o regulaciones al presente servicio;
+- m) Acechar o acosar a otros usuarios del entorno virtual, dentro y fuera de este
+- n) Coleccionar o guardar datos personales sobre otros usuarios.
+- o) Las prohibiciones señaladas en este articulo están sujetas a la aplicación de sanciones, de conformidad a las normas internas del ISTAE.
+
+## CAPÍTULO VIII
+
+## DE LA SEGURIDAD Y RESPONSABILIDAD INFORMÁTICA
+
+### Artículo 23.- De la información publicada en el EVA
+
+Cualquier información personal revelada en el perfil del usuario o en espacios colectivos como foros, chats, wikis o blogs se publica bajo la exclusiva responsabilidad del docente encargado. Se recomienda que en ninguna circunstancia se revelen datos de ideologías, creencias, religión, origen racial, salud o vida sexual. La revelación de estos datos son responsabilidad exclusiva del usuario titular y por tanto el Instituto no asume ninguna responsabilidad u obligación por este hecho.
+
+### Artículos 24.- De la Ciberseguridad y respaldo de la información
+
+El entorno virtual de aprendizaje deberá contar con las siguientes herramientas de Ciberseguridad, las mismas que son suministradas por el prestador servicios de DataCenter CNT:
+
+- Firewall Virtual de Perímetro
+- Firewall Virtual de WAF
+- Revisión y Depuración de FW WAF y Perímetro
+- Soporte FIREWALL
+- **Sistemas de respaldo de información**
+
+### Artículo 25.- Del material digital utilizado en el EVA
+
+El usuario es el único responsable por el material que sube a la plataforma, en este sentido queda terminantemente prohibido en ninguna circunstancia se podrán subir recursos que incumplan con la legislación vigente en el tema de infancia y adolescencia, derechos de autor, propiedad intelectual y patentes. Todo material que pueda ser subido a la plataforma virtual, cumpliendo los términos anteriores, debe estar libre de virus y en formatos que impidan su modificación posterior al envió.
+
+## DISPOSICIONES GENERALES
+
+### Primera. - El ISTAE se compromete a no revelar los datos personales de sus usuarios a no emplearlos para fines comerciales o publicitarios. El uso de estos datos es exclusivo de la institución y serán empleados con fines estadísticos y académicos.
+
+### Segunda. - En específicos lugares del EVA, el usuario encontrará referencias o enlaces a sitios externos al dominio del ISTAE, con fines de proveer información complementaria, el ISTAE no se responsabiliza por los contenidos de los referidos sitios externos.
+
+### Tercera. - Cada usuario es responsable por el uso personal que realice de la información contenida u obtenida de los EVA y el Instituto no asume ninguna responsabilidad que se pueda derivar de problemas técnicos o fallos en los equipos informáticos, que se produzcan durante la conexión a Internet, así como de daños que pudieran ser causados por terceras personas mediante intromisiones ilegítimas fuera del control del ISTAE.
+
+### Cuarta. - El Instituto queda exonerado de toda responsabilidad ante posibles daños o perjuicios que pueda sufrir el usuario a consecuencia de errores, defectos u omisiones en la información que se facilite, cuando provenga de fuentes ajenas al ISTAE.
+
+### Quinta. - Siendo el EVA un espacio de intercambio colaborativo entre sus usuarios, el ISTAE facilitará y promoverá el derecho a la libertad de expresión.
+
+### Sexta. - Todo lo que no estuviese previsto en el presente Reglamento, así como su interpretación será resuelto por el Órgano Colegiado Superior.
+
+**DISPOSICIÓN FINAL**
+
+Única. - El presente reglamento entrará en vigencia a partir de su aprobación por parte del Órgano Colegiado Superior del Instituto Superior Tecnológico Alberto Enríquez.
+
+La presente codificación contiene la Resolución RES-ISTAE-OCS-2024-SO-13-R009, expedida en la ciudad de San Lorenzo, a los 27 días del mes de diciembre, en la décimo tercera Sesión Ordinaria del Órgano Colegiado Superior (OCS).
+
+| Mgtr. Alejandro Palacios | MSc. Ana Karen Solís |
+|----------------------------|------------------------|
+| **RECTOR ISTAE** | **SECRETARIA OCS** |
+| **Fecha: 02/03/2026** | **Fecha: 02/03/2026** |

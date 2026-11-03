@@ -1,0 +1,62 @@
+Tabla 1.- Pesos de los criterios
+
+| Criterio | Total de indicadores | N° indicadores cualitativos | N° indicadores cuantitativos | Ponderación |
+|-----------------------------|------------------------|-------------------------------|--------------------------------|---------------|
+| Organización | 7 | 7 | 0 | 21% |
+| Infraestructura | 4 | 2 | 2 | 10% |
+| Profesores | 10 | 3 | 7 | 22% |
+| Docencia | 17 | 12 | 5 | 25% |
+| I+D e Innovación | 3 | 2 | 1 | 12% |
+| Vinculación con la sociedad | 2 | 2 | 0 | 10% |
+| Total | 43 | 28 | 15 | 100% |
+
+Tabla 2.- Pesos de los indicadores
+
+| N° | Indicadores | A Pesos de los indicadores | B Pesos sin TP | C Pesos sin MT ni TP |
+|------|----------------------------------------------------------------------------------|------------------------------|------------------|------------------------|
+| 1 | Planificación estratégica y operativa | 4,0% | 4,0% | 4,0% |
+| 2 | Relaciones interinstitucionales para el desarrollo | 2,0% | 2,0% | 2,0% |
+| 3 | Aseguramiento interno de la calidad | 3,0% | 3,0% | 3,0% |
+| 4 | Sistema informático de gestión | 3,0% | 3,0% | 3,0% |
+| 5 | Igualdad de oportunidades | 3,0% | 3,0% | 3,0% |
+| 6 | Ética y transparencia | 3,0% | 3,0% | 3,0% |
+| 7 | Bienestar psicológico | 3,0% | 3,0% | 3,0% |
+| 8 | Puestos de trabajo de los profesores | 3,0% | 3,0% | 3,0% |
+| 9 | Seguridad y salud ocupacional | 2,5% | 2,5% | 2,5% |
+| 10 | Accesibilidad física y esparcimiento | 2,0% | 2,0% | 2,0% |
+| 11 | Ancho de banda | 2,5% | 2,5% | 2,5% |
+| 12 | Selección de profesores | 2,0% | 2,2% | 2,3% |
+| 13 | Formación de posgrado | 2,0% | 2,2% | 2,3% |
+| 14 | Experiencia profesional práctica de profesores TC de contenidos profesionales | 2,0% | 2,2% | 2,6% |
+| 15 | Ejercicio profesional práctico de profesores MT y TP de contenidos profesionales | 3,0% | 3,2% | |
+| 16 | Titularidad de profesores TC y MT | 2,0% | 2,2% | 2,3% |
+| 17 | Carga horaria semanal de los profesores TC | 2,0% | 2,2% | 2,3% |
+| 18 | Evaluación de profesores | 2,0% | 2,2% | 2,3% |
+| 19 | Formación académica en curso y capacitación | 3,0% | 3,2% | 3,3% |
+| 20 | Remuneración promedio mensual TC y MT | 2,0% | 2,4% | 2,3% |
+| 21 | Remuneración promedio por hora TP | 2,0% | | 2,3% |
+| 22 | Programas de estudio de las asignaturas | 1,50% | 1,50% | 1,50% |
+| 23 | Afinidad formación-docencia | 1,50% | 1,50% | 1,50% |
+| 24 | Seguimiento, control y evaluación del proceso docente | 1,50% | 1,50% | 1,50% |
+| 25 | Asignaturas con cobertura bibliográfica adecuada | 1,00% | 1,00% | 1,00% |
+| 26 | Publicaciones docentes | 1,50% | 1,50% | 1,50% |
+| 27 | Aulas | 1,00% | 1,00% | 1,00% |
+| 28 | Formación complementaria | 1,50% | 1,50% | 1,50% |
+
+| 29 | Acompañamiento pedagógico a estudiantes | 2,00% | 2,00% | 2,00% |
+|------|------------------------------------------------------------------------------------|---------|---------|---------|
+| 30 | Relación con los graduados | 1,00% | 1,00% | 1,00% |
+| 31 | Entorno virtual de aprendizaje | 1,50% | 1,50% | 1,50% |
+| 32 | Informatización en el aprendizaje | 1,50% | 1,50% | 1,50% |
+| 33 | Educación ambiental y desarrollo sostenible | 1,00% | 1,00% | 1,00% |
+| 34 | Formación en valores y desarrollo de habilidades blandas | 1,50% | 1,50% | 1,50% |
+| 35 | Formación práctica en el entorno académico | 2,00% | 2,00% | 2,00% |
+| 36 | Formación práctica en el entorno laboral real | 2,00% | 2,00% | 2,00% |
+| 37 | Funcionamiento de la biblioteca | 1,50% | 1,50% | 1,50% |
+| 38 | Acervo de la biblioteca y relación de la biblioteca con las asignaturas y carreras | 1,50% | 1,50% | 1,50% |
+| 39 | Investigación y desarrollo | 4,5% | 4,5% | 4,5% |
+| 40 | Publicaciones y eventos científicos y técnicos | 4,5% | 4,5% | 4,5% |
+| 41 | Innovación y capacidad de absorción | 3,0% | 3,0% | 3,0% |
+| 42 | Planificación y ejecución de la vinculación con la sociedad | 6,0% | 6,0% | 6,0% |
+| 43 | Presencia de la institución en la comunidad | 4,0% | 4,0% | 4,0% |
+| | Total | 100,0% | 100,0% | 100,0% |

@@ -3,6 +3,7 @@
 Endpoints:
 
 - ``GET /health``: estado del servicio y versión del corpus.
+- ``GET /units/{unit_id}``: texto completo de un artículo o sección citado.
 - ``POST /chat``: responde una pregunta como flujo de eventos (Server-Sent Events):
     ``delta``  → fragmento de texto a medida que el modelo responde;
     ``answer`` → respuesta final con el texto sin la sección «Fuentes» del
@@ -19,7 +20,7 @@ import logging
 from collections.abc import AsyncIterator, Iterator
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 
@@ -45,8 +46,9 @@ def build_assistant(settings: Settings) -> Assistant:
         base_url=settings.llm_base_url,
         api_key=settings.llm_api_key.get_secret_value(),
         model=settings.llm_model,
+        fallback_models=settings.llm_fallback_models,
         reasoning_effort=settings.llm_reasoning_effort,
-        timeout_seconds=settings.llm_timeout_seconds,
+        start_timeout_seconds=settings.llm_start_timeout_seconds,
     )
     return Assistant(
         documents,
@@ -66,6 +68,8 @@ def _sse(event: str, data: dict) -> str:
 def _error_message(exc: LLMError) -> str:
     if exc.status_code == 429:
         return "Se alcanzó el límite de consultas del modelo. Intente nuevamente en unos minutos."
+    if exc.status_code in (408, 502, 503, 504):
+        return "El modelo está saturado o tardó demasiado en responder. Intente nuevamente en unos minutos."
     return "El servicio del modelo no respondió correctamente. Intente nuevamente."
 
 
@@ -107,6 +111,13 @@ def create_app(settings: Settings | None = None, assistant: Assistant | None = N
             "units": len(current.units),
             "corpus_version": current.corpus_version,
         }
+
+    @app.get("/units/{unit_id}")
+    def get_unit(unit_id: str, request: Request) -> dict:
+        unit = request.app.state.assistant.get_unit(unit_id)
+        if unit is None:
+            raise HTTPException(status_code=404, detail="El artículo no existe en la normativa disponible.")
+        return unit
 
     @app.post("/chat")
     def chat(body: ChatRequest, request: Request) -> StreamingResponse:

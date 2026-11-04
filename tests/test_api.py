@@ -94,3 +94,13 @@ def test_rate_limit_is_reported_as_readable_event(data_dir) -> None:
 def test_empty_question_is_rejected(data_dir) -> None:
     with make_client(data_dir, FakeClient()) as client:
         assert client.post("/chat", json={"question": "   "}).status_code == 422
+
+
+def test_unit_returns_full_article_or_404(data_dir) -> None:
+    with make_client(data_dir, FakeClient()) as client:
+        found = client.get("/units/INT08-art12")
+        missing = client.get("/units/INT08-art99")
+    assert found.json()["document_name"] == "Reglamento de Titulación"
+    assert found.json()["label"] == "Art. 12"
+    assert "Declaratoria de aptitud" in found.json()["text"]
+    assert missing.status_code == 404

@@ -76,11 +76,27 @@ class Assistant:
             unit.unit_id: (doc.info.document_id, unit.text) for doc in documents for unit in doc.parsed.units
         }
         self.document_names = {doc.info.document_id: doc.info.name for doc in documents}
+        self._unit_details = {
+            unit.unit_id: {
+                "unit_id": unit.unit_id,
+                "document_id": doc.info.document_id,
+                "document_name": doc.info.name,
+                "label": unit.label,
+                "title": unit.title,
+                "text": unit.text,
+            }
+            for doc in documents
+            for unit in doc.parsed.units
+        }
         digest = hashlib.sha256()
         for part in (variant, self.system, self.context, self.reminder, client.model):
             digest.update(part.encode("utf-8"))
         # Identifica qué instrucciones, corpus y modelo produjeron cada respuesta.
         self.corpus_version = digest.hexdigest()[:16]
+
+    def get_unit(self, unit_id: str) -> dict[str, str] | None:
+        """Texto completo de un artículo o sección, para mostrarlo al usuario."""
+        return self._unit_details.get(unit_id)
 
     def build_request(self, question: str, history: Sequence[ChatMessage] = ()) -> LLMRequest:
         recent = tuple(history)[-self.max_history_messages:] if self.max_history_messages else ()

@@ -15,6 +15,7 @@ reemplazar al asistente sin cambiar el contrato con el frontend.
 | Método | Ruta | Descripción |
 |---|---|---|
 | GET | `/health` | Estado, modelo, variante y versión del corpus |
+| GET | `/units/{unit_id}` | Texto completo de un artículo o sección citado (para "Ver artículo") |
 | POST | `/chat` | Responde una pregunta como flujo de eventos (SSE) |
 
 `POST /chat` recibe:
@@ -35,11 +36,30 @@ y emite eventos:
   los identificadores inventados, las fuentes externas detectadas y el uso de tokens;
 - `error`: `{"message": "…", "status": 429}`, mensaje legible si el proveedor falla.
 
+## Modelo y respaldo
+
+El modelo principal es `nvidia/nemotron-3-ultra-550b-a55b:free` (OpenRouter, ventana
+de 1 millón de tokens). Si no empieza a responder en `LLM_START_TIMEOUT_SECONDS`
+(150 s) o devuelve un error de caída o saturación, la consulta se repite con los
+modelos de `LLM_FALLBACK_MODELS` (por defecto `nvidia/nemotron-3.5-super-vl:free`).
+Solo se cambia de modelo antes de mostrar texto, y cada respuesta indica qué
+modelo contestó.
+
+Para la evaluación de la tesis, `LLM_FALLBACK_MODELS=[]`: todas las variantes
+deben usar el mismo modelo.
+
+## Despliegue (Render)
+
+- Build: `pip install -r requirements.txt`
+- Start: `uvicorn app.main:create_app --factory --host 0.0.0.0 --port $PORT`
+- Variables: `LLM_API_KEY` y `CORS_ORIGINS` (lista JSON con la URL del frontend)
+- Python: `.python-version`
+
 ## Estructura
 
 ```
 app/
-  main.py            API (FastAPI): /health y /chat
+  main.py            API (FastAPI): /health, /units y /chat
   config.py          configuración por variables de entorno
   schemas.py         validación de la entrada
   assistant.py       asistente de contexto largo (variantes A y A+J)

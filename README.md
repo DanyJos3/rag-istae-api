@@ -14,7 +14,9 @@ reemplazar al asistente sin cambiar el contrato con el frontend.
 
 | Método | Ruta | Descripción |
 |---|---|---|
-| GET | `/health` | Estado, modelo, variante y versión del corpus |
+| GET | `/health` | Estado, modelo, normas cargadas y arquitecturas disponibles |
+| GET | `/architectures` | Arquitecturas que se pueden elegir en el chat y si están disponibles |
+| GET | `/documents` | Normas del sistema: nombre, tipo, emisor, jerarquía y artículos detectados |
 | GET | `/units/{unit_id}` | Texto completo de un artículo o sección citado (para "Ver artículo") |
 | POST | `/chat` | Responde una pregunta como flujo de eventos (SSE) |
 
@@ -23,7 +25,8 @@ reemplazar al asistente sin cambiar el contrato con el frontend.
 ```json
 {
   "question": "¿Cuál es la nota mínima para aprobar el trabajo de integración curricular?",
-  "history": [{"role": "user", "content": "…"}, {"role": "assistant", "content": "…"}]
+  "history": [{"role": "user", "content": "…"}, {"role": "assistant", "content": "…"}],
+  "architecture": "A"
 }
 ```
 
@@ -59,12 +62,13 @@ deben usar el mismo modelo.
 
 ```
 app/
-  main.py            API (FastAPI): /health, /units y /chat
+  main.py            API (FastAPI): /health, /architectures, /documents, /units y /chat
   config.py          configuración por variables de entorno
   schemas.py         validación de la entrada
-  assistant.py       asistente de contexto largo (variantes A y A+J)
+  architectures/     arquitecturas que responden: base.py (contrato y catálogo),
+                     long_context.py (contexto largo, variantes A y A+J)
   llm/               contrato con el proveedor y cliente compatible con OpenAI
-  normativa/         limpieza, división en artículos, corpus y verificación de citas
+  normativa/         limpieza, división en artículos, corpus, biblioteca de normas y verificación de citas
 prompts/             instrucciones del sistema y recordatorio de formato
 data/                texto extraído de las normas y catálogo normativo
 tests/               pruebas sin red (modelo simulado)

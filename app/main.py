@@ -2,9 +2,11 @@
 
 Endpoints:
 
-- ``GET /health``: estado del servicio y versión del corpus.
+- ``GET /health``: estado del servicio.
+- ``GET /architectures``: arquitecturas que se pueden elegir en el chat y si están disponibles.
+- ``GET /documents``: normas con las que trabaja el sistema (catálogo y estructura detectada).
 - ``GET /units/{unit_id}``: texto completo de un artículo o sección citado.
-- ``POST /chat``: responde una pregunta como flujo de eventos (Server-Sent Events):
+- ``POST /chat``: responde una pregunta con la arquitectura elegida, como flujo de eventos (SSE):
     ``delta``  → fragmento de texto a medida que el modelo responde;
     ``answer`` → respuesta final con el texto sin la sección «Fuentes» del
                  modelo y las fuentes verificadas, agrupadas por documento;
@@ -24,17 +26,20 @@ from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 
-from app.assistant import Answer, Assistant
+from app.architectures.base import ARCHITECTURES, Answer, ChatArchitecture
+from app.architectures.long_context import LongContextAssistant
 from app.config import Settings
 from app.llm.base import ChatMessage
 from app.llm.openai_compatible import LLMError, OpenAICompatibleClient
 from app.normativa.corpus import load_catalog, load_corpus
+from app.normativa.library import Library
 from app.schemas import ChatRequest
 
 logger = logging.getLogger("app")
 
 
-def build_assistant(settings: Settings) -> Assistant:
+def build_architectures(settings: Settings) -> tuple[Library, dict[str, ChatArchitecture]]:
+    """Carga las normas una sola vez y arma las arquitecturas disponibles."""
     catalog = load_catalog(settings.data_dir / "catalogo_normativo.json")
     documents = load_corpus(settings.data_dir, catalog)
     warnings = [(doc.info.document_id, w) for doc in documents for w in doc.parsed.warnings]
@@ -42,6 +47,8 @@ def build_assistant(settings: Settings) -> Assistant:
         logger.debug("%s: %s", document_id, warning)
     if warnings:
         logger.info("Análisis de estructura: %d advertencias (detalle en nivel DEBUG)", len(warnings))
+
+    library = Library(documents)
     client = OpenAICompatibleClient(
         base_url=settings.llm_base_url,
         api_key=settings.llm_api_key.get_secret_value(),
@@ -50,15 +57,13 @@ def build_assistant(settings: Settings) -> Assistant:
         reasoning_effort=settings.llm_reasoning_effort,
         start_timeout_seconds=settings.llm_start_timeout_seconds,
     )
-    return Assistant(
-        documents,
-        catalog,
-        settings.variant,
-        client,
-        settings.prompts_dir,
-        max_history_messages=settings.max_history_messages,
-        max_output_tokens=settings.llm_max_output_tokens,
-    )
+    options = {"max_history_messages": settings.max_history_messages, "max_output_tokens": settings.llm_max_output_tokens}
+    # Las variantes RAG (B y C) se agregan aquí cuando estén implementadas.
+    architectures: dict[str, ChatArchitecture] = {
+        "A": LongContextAssistant(library, catalog, "A", client, settings.prompts_dir, **options),
+        "AJ": LongContextAssistant(library, catalog, "AJ", client, settings.prompts_dir, **options),
+    }
+    return library, architectures
 
 
 def _sse(event: str, data: dict) -> str:
@@ -73,24 +78,32 @@ def _error_message(exc: LLMError) -> str:
     return "El servicio del modelo no respondió correctamente. Intente nuevamente."
 
 
-def create_app(settings: Settings | None = None, assistant: Assistant | None = None) -> FastAPI:
+def create_app(
+    settings: Settings | None = None,
+    library: Library | None = None,
+    architectures: dict[str, ChatArchitecture] | None = None,
+) -> FastAPI:
+    """``library`` y ``architectures`` se pasan solo en las pruebas (modelo simulado)."""
     settings = settings or Settings()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
     @asynccontextmanager
     async def lifespan(app: FastAPI) -> AsyncIterator[None]:
-        app.state.assistant = assistant or build_assistant(settings)
+        if library is not None and architectures is not None:
+            app.state.library, app.state.architectures = library, architectures
+        else:
+            app.state.library, app.state.architectures = build_architectures(settings)
         logger.info(
-            "Corpus listo: %d documentos, %d unidades, variante %s, versión %s",
-            app.state.assistant.document_count,
-            len(app.state.assistant.units),
-            app.state.assistant.variant,
-            app.state.assistant.corpus_version,
+            "Listo: %d documentos, %d unidades, arquitecturas %s",
+            len(app.state.library.documents),
+            len(app.state.library.unit_texts),
+            ", ".join(app.state.architectures),
         )
         yield
-        close = getattr(app.state.assistant.client, "close", None)
-        if callable(close):
-            close()
+        for architecture in app.state.architectures.values():
+            client = getattr(architecture, "client", None)
+            if client is not None and callable(getattr(client, "close", None)):
+                client.close()
 
     app = FastAPI(title="API de consulta normativa ISTAE", lifespan=lifespan)
     app.add_middleware(
@@ -102,35 +115,47 @@ def create_app(settings: Settings | None = None, assistant: Assistant | None = N
 
     @app.get("/health")
     def health(request: Request) -> dict:
-        current: Assistant = request.app.state.assistant
         return {
             "status": "ok",
-            "variant": current.variant,
-            "model": current.client.model,
-            "documents": current.document_count,
-            "units": len(current.units),
-            "corpus_version": current.corpus_version,
+            "model": settings.llm_model,
+            "documents": len(request.app.state.library.documents),
+            "units": len(request.app.state.library.unit_texts),
+            "architectures": list(request.app.state.architectures),
         }
+
+    @app.get("/architectures")
+    def list_architectures(request: Request) -> list[dict]:
+        available = request.app.state.architectures
+        return [
+            {"id": info.id, "name": info.name, "description": info.description, "available": info.id in available}
+            for info in ARCHITECTURES
+        ]
+
+    @app.get("/documents")
+    def list_documents(request: Request) -> list[dict]:
+        return request.app.state.library.document_summaries()
 
     @app.get("/units/{unit_id}")
     def get_unit(unit_id: str, request: Request) -> dict:
-        unit = request.app.state.assistant.get_unit(unit_id)
+        unit = request.app.state.library.get_unit(unit_id)
         if unit is None:
             raise HTTPException(status_code=404, detail="El artículo no existe en la normativa disponible.")
         return unit
 
     @app.post("/chat")
     def chat(body: ChatRequest, request: Request) -> StreamingResponse:
-        current: Assistant = request.app.state.assistant
+        architecture = request.app.state.architectures.get(body.architecture)
+        if architecture is None:
+            raise HTTPException(status_code=400, detail=f"La arquitectura {body.architecture} no está disponible.")
         history = [ChatMessage(turn.role, turn.content) for turn in body.history]
 
         def events() -> Iterator[str]:
             try:
-                for item in current.stream(body.question, history):
+                for item in architecture.stream(body.question, history):
                     if isinstance(item, Answer):
                         logger.info(
-                            "Respuesta: modelo=%s entrada=%s (caché %s) salida=%s latencia=%sms citas_inválidas=%s",
-                            item.model, item.input_tokens, item.cached_input_tokens,
+                            "Respuesta %s: modelo=%s entrada=%s (caché %s) salida=%s latencia=%sms citas_inválidas=%s",
+                            item.architecture, item.model, item.input_tokens, item.cached_input_tokens,
                             item.output_tokens, item.latency_ms, item.unknown_citations,
                         )
                         yield _sse("answer", item.to_dict())

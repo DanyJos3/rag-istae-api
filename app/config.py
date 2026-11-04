@@ -6,7 +6,6 @@ La API key solo se lee del entorno; nunca va en el código ni en el repositorio.
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Literal
 
 from pydantic import SecretStr
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -28,7 +27,6 @@ class Settings(BaseSettings):
     llm_max_output_tokens: int = 8192
     llm_start_timeout_seconds: float = 150  # si el modelo no empieza a responder, se usa el respaldo
 
-    variant: Literal["A", "AJ"] = "A"
     max_history_messages: int = 6
     data_dir: Path = ROOT / "data"
     prompts_dir: Path = ROOT / "prompts"

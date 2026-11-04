@@ -7,12 +7,13 @@ from collections.abc import Iterator
 
 from fastapi.testclient import TestClient
 
-from app.assistant import Assistant
+from app.architectures.long_context import LongContextAssistant
 from app.config import ROOT, Settings
 from app.llm.base import LLMRequest, LLMResult
 from app.llm.openai_compatible import LLMError
 from app.main import create_app
 from app.normativa.corpus import load_catalog, load_corpus
+from app.normativa.library import Library
 
 ANSWER = (
     "Necesitas la declaratoria de aptitud [INT08-art12].\n\nFuentes:\nReglamento de Titulación (INT08)\n"
@@ -37,9 +38,14 @@ class FakeClient:
 
 
 def make_client(data_dir, fake: FakeClient) -> TestClient:
+    """API con las dos arquitecturas de contexto largo (A y A+J) usando el modelo simulado."""
     catalog = load_catalog(data_dir / "catalogo_normativo.json")
-    assistant = Assistant(load_corpus(data_dir, catalog), catalog, "A", fake, ROOT / "prompts", max_history_messages=2)
-    return TestClient(create_app(Settings(llm_api_key="test"), assistant))
+    library = Library(load_corpus(data_dir, catalog))
+    architectures = {
+        variant: LongContextAssistant(library, catalog, variant, fake, ROOT / "prompts", max_history_messages=2)
+        for variant in ("A", "AJ")
+    }
+    return TestClient(create_app(Settings(llm_api_key="test"), library, architectures))
 
 
 def read_events(response) -> list[tuple[str, dict]]:
@@ -55,7 +61,7 @@ def test_health_reports_corpus(data_dir) -> None:
         body = client.get("/health").json()
     assert body["status"] == "ok"
     assert body["documents"] == 2
-    assert body["variant"] == "A"
+    assert body["architectures"] == ["A", "AJ"]
 
 
 def test_chat_streams_text_then_verified_answer(data_dir) -> None:
@@ -104,3 +110,28 @@ def test_unit_returns_full_article_or_404(data_dir) -> None:
     assert found.json()["label"] == "Art. 12"
     assert "Declaratoria de aptitud" in found.json()["text"]
     assert missing.status_code == 404
+
+
+def test_documents_lists_catalog_and_structure(data_dir) -> None:
+    with make_client(data_dir, FakeClient()) as client:
+        documents = client.get("/documents").json()
+    assert [d["document_id"] for d in documents] == ["EXT01", "INT08"]
+    int08 = documents[1]
+    assert (int08["name"], int08["doc_type"], int08["rank"]) == ("Reglamento de Titulación", "Interno", 6)
+    assert int08["articles"] == 4
+
+
+def test_architectures_mark_rag_as_not_available_yet(data_dir) -> None:
+    with make_client(data_dir, FakeClient()) as client:
+        architectures = client.get("/architectures").json()
+    assert [(a["id"], a["available"]) for a in architectures] == [("A", True), ("AJ", True), ("B", False), ("C", False)]
+
+
+def test_chat_uses_the_chosen_architecture(data_dir) -> None:
+    fake = FakeClient()
+    with make_client(data_dir, fake) as client:
+        stream = read_events(client.post("/chat", json={"question": "Hola", "architecture": "AJ"}))
+        unavailable = client.post("/chat", json={"question": "Hola", "architecture": "B"})
+    assert stream[-1][1]["architecture"] == "AJ"
+    assert "JERARQUÍA NORMATIVA" in fake.requests[0].system
+    assert unavailable.status_code == 400

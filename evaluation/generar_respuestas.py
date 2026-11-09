@@ -41,8 +41,14 @@ HEADERS = [
     "Exactitud (0-2)", "Trazabilidad (0-2)", "¿Cita la norma superior? (Sí/No)", "Evaluador", "Observaciones del evaluador",
     "Tiempo de respuesta (s)", "Tokens de entrada", "Tokens de salida", "Modelo", "Estado",
 ]
-# Las columnas amarillas son las que llena el experto.
 TO_FILL = HEADERS[18:23]
+# Encabezados: azul = Gold Standard, verde = respondió el sistema, amarillo = llena el experto, gris = datos de ejecución.
+GOLD_COLOR = "9DC3E6"
+HEADER_COLORS = {
+    **dict.fromkeys(["Respuesta generada", "Documentos citados", "Artículos o secciones citados"], "A9D18E"),
+    **dict.fromkeys(TO_FILL, "FFD966"),
+    **dict.fromkeys(HEADERS[23:], "D9D9D9"),
+}
 WIDTHS = {"Pregunta": 38, "Respuesta esperada": 60, "Respuesta generada": 70, "Documentos citados": 40}
 
 
@@ -123,8 +129,7 @@ def write_excel(path: Path, questions: list[dict[str, str]], results: dict[str, 
     for column, header in zip(sheet.iter_cols(), HEADERS):
         sheet.column_dimensions[column[0].column_letter].width = WIDTHS.get(header, 20)
         column[0].font = Font(bold=True)
-        if header in TO_FILL:
-            column[0].fill = PatternFill("solid", fgColor="FFD966")
+        column[0].fill = PatternFill("solid", fgColor=HEADER_COLORS.get(header, GOLD_COLOR))
         for cell in column:
             cell.alignment = Alignment(wrap_text=True, vertical="top")
             if isinstance(cell.value, str):

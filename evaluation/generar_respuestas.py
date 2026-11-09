@@ -100,7 +100,8 @@ def row_values(question: dict[str, str], record: dict[str, Any]) -> dict[str, An
         "Respuesta generada": plain_text(answer.get("body", "")),
         "Documentos citados": "\n".join(f"{d['document_id']} – {d['document_name']}" for d in sources),
         "Artículos o secciones citados": "\n".join(
-            f"{d['document_id']} · {u.get('label') or u['unit_id']}" for d in sources for u in d["units"]
+            [f"{d['document_id']} · {u.get('label') or u['unit_id']}" for d in sources for u in d["units"]]
+            + [f"{citation} (no reconocida por el sistema)" for citation in answer.get("unknown_citations", [])]
         ),
         "¿Cita la norma superior? (Sí/No)": "N/A" if question.get("Estrato") == "Directa" else "",
         "Tiempo de respuesta (s)": record.get("seconds", ""),

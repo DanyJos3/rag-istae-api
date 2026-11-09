@@ -5,6 +5,9 @@ Usa ``POST {base_url}/chat/completions`` con ``stream: true`` (eventos SSE).
 Modelo de respaldo: si el modelo principal falla o no empieza a responder a
 tiempo, se repite la consulta con el siguiente modelo de la lista. Solo se
 cambia de modelo antes de mostrar texto, para no mezclar dos respuestas.
+
+Clave de respaldo: si la cuenta se queda sin cupo, se repite la consulta con la
+otra clave y el mismo modelo, y se sigue usando hasta reiniciar el servicio.
 """
 
 from __future__ import annotations
@@ -23,6 +26,8 @@ logger = logging.getLogger("app")
 
 # Errores en los que tiene sentido probar con el modelo de respaldo.
 RETRYABLE_STATUS = {408, 429, 500, 502, 503, 504}
+# Errores de límite o saldo de la cuenta: tiene sentido probar con la clave de respaldo.
+QUOTA_STATUS = {402, 429}
 
 
 class LLMError(RuntimeError):
@@ -39,12 +44,15 @@ class OpenAICompatibleClient:
         api_key: str,
         model: str,
         fallback_models: list[str] | None = None,
+        backup_api_key: str | None = None,
         reasoning_effort: str | None = None,
         start_timeout_seconds: float = 150,
         http_client: httpx.Client | None = None,
     ) -> None:
         self.model = model
         self.fallback_models = fallback_models or []
+        self._api_keys = [api_key, *([backup_api_key] if backup_api_key else [])]
+        self._key_index = 0
         self.reasoning_effort = reasoning_effort
         # Tiempo máximo para que el modelo EMPIECE a responder. Hace falta además del
         # timeout de httpx porque el proveedor envía comentarios de "sigo procesando"
@@ -52,7 +60,7 @@ class OpenAICompatibleClient:
         self.start_timeout_seconds = start_timeout_seconds
         self._http = http_client or httpx.Client(
             base_url=base_url.rstrip("/"),
-            headers={"Authorization": f"Bearer {api_key}", "X-Title": "Consulta normativa ISTAE"},
+            headers={"X-Title": "Consulta normativa ISTAE"},
             # read: tiempo máximo sin recibir nada una vez abierta la conexión.
             timeout=httpx.Timeout(connect=30, read=90, write=60, pool=30),
         )
@@ -78,7 +86,7 @@ class OpenAICompatibleClient:
         for attempt, model in enumerate(models, start=1):
             wrote_text = False
             try:
-                for item in self._stream_model(request, model):
+                for item in self._stream_with_keys(request, model):
                     wrote_text = wrote_text or isinstance(item, str)
                     yield item
                 return
@@ -88,12 +96,30 @@ class OpenAICompatibleClient:
                     raise
                 logger.warning("Modelo %s no disponible (%s). Se usa el respaldo %s.", model, error, models[attempt])
 
-    def _stream_model(self, request: LLMRequest, model: str) -> Iterator[str | LLMResult]:
+    def _stream_with_keys(self, request: LLMRequest, model: str) -> Iterator[str | LLMResult]:
+        """Usa la clave vigente; si la cuenta se quedó sin cupo antes de escribir, pasa a la de respaldo."""
+        while True:
+            key_index = self._key_index
+            wrote_text = False
+            try:
+                for item in self._stream_model(request, model, self._api_keys[key_index]):
+                    wrote_text = wrote_text or isinstance(item, str)
+                    yield item
+                return
+            except LLMError as error:
+                can_switch = error.status_code in QUOTA_STATUS and not wrote_text and key_index + 1 < len(self._api_keys)
+                if not can_switch:
+                    raise
+                self._key_index = max(self._key_index, key_index + 1)
+                logger.warning("La cuenta llegó a su límite (%s). Se usa la clave de respaldo.", error)
+
+    def _stream_model(self, request: LLMRequest, model: str, api_key: str) -> Iterator[str | LLMResult]:
         result = LLMResult(model=model)
         start_deadline = time.monotonic() + self.start_timeout_seconds
         started = False
         try:
-            with self._http.stream("POST", "/chat/completions", json=self.payload(request, model)) as response:
+            headers = {"Authorization": f"Bearer {api_key}"}
+            with self._http.stream("POST", "/chat/completions", json=self.payload(request, model), headers=headers) as response:
                 if response.status_code >= 400:
                     response.read()
                     raise LLMError(_error_message(response), response.status_code)

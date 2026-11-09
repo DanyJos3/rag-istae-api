@@ -16,6 +16,7 @@ class ChatTurn(BaseModel):
 
 class ChatRequest(BaseModel):
     question: Question
-    history: list[ChatTurn] = Field(default_factory=list, max_length=20)
+    # El frontend envía toda la conversación: RAG busca con la primera pregunta y al modelo solo van los últimos turnos.
+    history: list[ChatTurn] = Field(default_factory=list, max_length=200)
     # Id de la arquitectura elegida en el chat (ver GET /architectures).
     architecture: str = "C"

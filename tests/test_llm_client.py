@@ -66,6 +66,44 @@ def test_fallback_is_used_when_main_model_stalls_or_is_down() -> None:
         assert "".join(i for i in items if isinstance(i, str)) == "Hola mundo"
 
 
+def client_with_keys(exhausted: set[str], **options) -> tuple[OpenAICompatibleClient, list[str]]:
+    """Servidor simulado que responde 429 a las claves sin cupo."""
+    used: list[str] = []
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        key = request.headers["Authorization"].removeprefix("Bearer ")
+        used.append(key)
+        if key in exhausted:
+            return httpx.Response(429, json={"error": {"message": "sin cupo"}})
+        return httpx.Response(200, text=ANSWER)
+
+    http = httpx.Client(base_url="https://x.test", transport=httpx.MockTransport(handler))
+    return OpenAICompatibleClient(base_url="https://x.test", api_key="principal", model="m", http_client=http, **options), used
+
+
+def test_backup_key_takes_over_and_stays_when_quota_runs_out() -> None:
+    client, used = client_with_keys({"principal"}, backup_api_key="respaldo")
+    assert "".join(i for i in client.stream(REQUEST) if isinstance(i, str)) == "Hola mundo"
+    assert used == ["principal", "respaldo"]
+    list(client.stream(REQUEST))
+    assert used == ["principal", "respaldo", "respaldo"]
+
+
+def test_quota_error_is_raised_when_every_key_is_exhausted() -> None:
+    client, used = client_with_keys({"principal", "respaldo"}, backup_api_key="respaldo")
+    with pytest.raises(LLMError) as error:
+        list(client.stream(REQUEST))
+    assert error.value.status_code == 429
+    assert used == ["principal", "respaldo"]
+
+
+def test_quota_error_is_raised_without_backup_key() -> None:
+    client, used = client_with_keys({"principal"})
+    with pytest.raises(LLMError):
+        list(client.stream(REQUEST))
+    assert used == ["principal"]
+
+
 def test_invalid_request_is_not_retried() -> None:
     client, asked = make_client(
         {"principal": httpx.Response(400, json={"error": {"message": "bad"}})}, fallback_models=["respaldo"]

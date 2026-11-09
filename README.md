@@ -45,14 +45,15 @@ y emite eventos:
 
 ## Modelo y respaldo
 
-El modelo principal es `nvidia/nemotron-3-ultra-550b-a55b:free` (OpenRouter). Si no
-empieza a responder en `LLM_START_TIMEOUT_SECONDS` (150 s) o devuelve un error de
-caída o saturación, la consulta se repite con los modelos de `LLM_FALLBACK_MODELS`
-(por defecto `nvidia/nemotron-3.5-super-vl:free`). Solo se cambia de modelo antes de
-mostrar texto, y cada respuesta indica qué modelo contestó.
+El modelo es `nvidia/nemotron-3-ultra-550b-a55b:free` (OpenRouter) y por defecto no
+hay modelo de respaldo: todas las respuestas salen del mismo modelo, como exige la
+evaluación de la tesis. Para activar uno, defina `LLM_FALLBACK_MODELS` (lista JSON);
+se usa si el principal no responde en `LLM_START_TIMEOUT_SECONDS` (150 s) o está caído.
+Cada respuesta indica qué modelo contestó.
 
-Para la evaluación de la tesis, `LLM_FALLBACK_MODELS=[]`: todas las variantes
-deben usar el mismo modelo.
+**Clave de respaldo:** con `LLM_BACKUP_API_KEY`, si la cuenta principal se queda sin
+cupo (error 429 o 402), la consulta se repite con esa clave y el mismo modelo, y se
+sigue usando hasta reiniciar el servicio.
 
 ## Despliegue (Render)
 

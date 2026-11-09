@@ -46,6 +46,7 @@ def build_architectures(settings: Settings) -> tuple[Library | None, dict[str, C
         api_key=settings.llm_api_key.get_secret_value(),
         model=settings.llm_model,
         fallback_models=settings.llm_fallback_models,
+        backup_api_key=settings.llm_backup_api_key.get_secret_value() if settings.llm_backup_api_key else None,
         reasoning_effort=settings.llm_reasoning_effort,
         start_timeout_seconds=settings.llm_start_timeout_seconds,
     )

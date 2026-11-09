@@ -17,12 +17,14 @@ class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=ROOT / ".env", env_file_encoding="utf-8", extra="ignore")
 
     llm_api_key: SecretStr
+    # Clave de otra cuenta, opcional: se usa con el mismo modelo si la principal se queda sin cupo.
+    llm_backup_api_key: SecretStr | None = None
     llm_base_url: str = "https://openrouter.ai/api/v1"
     llm_model: str = "nvidia/nemotron-3-ultra-550b-a55b:free"
-    # Respaldo si el modelo principal está caído o no empieza a responder a tiempo (solo para la interfaz; en la evaluación
-    # de la tesis debe ir vacío para que todas las variantes usen el mismo modelo).
+    # Modelos de respaldo si el principal está caído o no empieza a responder a tiempo. Vacío por defecto: en la evaluación
+    # de la tesis todas las respuestas deben salir del mismo modelo.
     # Deben ser modelos :free: si el respaldo es de pago, OpenRouter lo cobra.
-    llm_fallback_models: list[str] = ["nvidia/nemotron-3.5-super-vl:free"]
+    llm_fallback_models: list[str] = []
     llm_reasoning_effort: str | None = "medium"
     llm_max_output_tokens: int = 8192
     llm_start_timeout_seconds: float = 150  # si el modelo no empieza a responder, se usa el respaldo

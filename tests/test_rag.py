@@ -201,6 +201,17 @@ def test_chat_uses_c_by_default() -> None:
     assert retrieval.calls == [("Hola", True, 1)]
 
 
+@pytest.mark.parametrize(("turns", "status"), [(22, 200), (200, 200), (201, 422)])
+def test_long_conversations_keep_working(turns: int, status: int) -> None:
+    retrieval = FakeRetrieval()
+    history = [{"role": "user" if i % 2 == 0 else "assistant", "content": f"turno {i}"} for i in range(turns)]
+    with TestClient(create_app(rag_settings(), None, {"C": assistant("C", retrieval)})) as client:
+        response = client.post("/chat", json={"question": "Hola", "history": history})
+    assert response.status_code == status
+    if status == 200:
+        assert retrieval.calls[0][0] == "turno 0"
+
+
 def test_retrieval_failure_is_reported_as_readable_event() -> None:
     architectures = {"C": assistant("C", FakeRetrieval(RetrievalError("caído", 503)))}
     with TestClient(create_app(rag_settings(), None, architectures)) as client:

@@ -32,3 +32,10 @@ class Settings(BaseSettings):
     prompts_dir: Path = ROOT / "prompts"
 
     cors_origins: list[str] = ["http://localhost:3000"]
+
+    # Servicio de recuperación (rag-istae-query) para B y C.
+    retrieval_url: str = "http://127.0.0.1:8100"
+    rag_api_key: SecretStr  # mismo nombre y valor que RAG_API_KEY del servicio de recuperación
+    retrieval_timeout_seconds: float = 90  # C tarda hasta ~12 s en CPU; más si el servicio estaba dormido
+    # A/AJ (contexto largo) quedan como históricos: no se cargan salvo que se pida.
+    enable_long_context: bool = False

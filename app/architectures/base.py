@@ -23,10 +23,10 @@ class ArchitectureInfo:
 
 # Las cuatro arquitecturas del diseño 2×2 de la tesis, en el orden en que se muestran.
 ARCHITECTURES = [
-    ArchitectureInfo("A", "Contexto largo", "El modelo lee las 46 normas completas en cada consulta."),
+    ArchitectureInfo("A", "Contexto largo (histórico)", "El modelo lee las 46 normas completas en cada consulta."),
     ArchitectureInfo(
         "AJ",
-        "Contexto largo + jerarquía",
+        "Contexto largo + jerarquía (histórico)",
         "Las normas completas, ordenadas por rango, con la regla de prevalencia del art. 425 de la Constitución.",
     ),
     ArchitectureInfo(

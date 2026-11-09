@@ -45,7 +45,7 @@ def make_client(data_dir, fake: FakeClient) -> TestClient:
         variant: LongContextAssistant(library, catalog, variant, fake, ROOT / "prompts", max_history_messages=2)
         for variant in ("A", "AJ")
     }
-    return TestClient(create_app(Settings(llm_api_key="test"), library, architectures))
+    return TestClient(create_app(Settings(llm_api_key="test", rag_api_key="test"), library, architectures))
 
 
 def read_events(response) -> list[tuple[str, dict]]:
@@ -68,7 +68,7 @@ def test_chat_streams_text_then_verified_answer(data_dir) -> None:
     fake = FakeClient()
     with make_client(data_dir, fake) as client:
         history = [{"role": "user", "content": f"p{i}"} for i in range(4)]
-        response = client.post("/chat", json={"question": "  ¿Qué necesito para egresar?  ", "history": history})
+        response = client.post("/chat", json={"question": "  ¿Qué necesito para egresar?  ", "history": history, "architecture": "A"})
     stream = read_events(response)
     assert response.headers["content-type"].startswith("text/event-stream")
     assert "".join(data["text"] for name, data in stream if name == "delta") == ANSWER
@@ -90,7 +90,7 @@ def test_chat_streams_text_then_verified_answer(data_dir) -> None:
 
 def test_rate_limit_is_reported_as_readable_event(data_dir) -> None:
     with make_client(data_dir, FakeClient(LLMError("Rate limit", 429))) as client:
-        stream = read_events(client.post("/chat", json={"question": "Hola"}))
+        stream = read_events(client.post("/chat", json={"question": "Hola", "architecture": "A"}))
     assert stream == [("error", {
         "message": "Se alcanzó el límite de consultas del modelo. Intente nuevamente en unos minutos.",
         "status": 429,

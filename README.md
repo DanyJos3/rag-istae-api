@@ -4,21 +4,23 @@ Backend del sistema conversacional de consulta sobre la normativa institucional
 y nacional del Instituto Superior Tecnológico Alberto Enríquez (ISTAE). Trabajo
 de titulación de la Maestría en Inteligencia Artificial Aplicada (UIDE), Grupo 3.
 
-Hoy implementa la arquitectura de **contexto largo**: el corpus completo
-(46 normas, unos 830.000 tokens) se envía al modelo en cada
-consulta, y el sistema verifica las citas de la respuesta contra el texto de las
-normas. La API está pensada para que otra arquitectura (por ejemplo, RAG) pueda
-reemplazar al asistente sin cambiar el contrato con el frontend.
+Responde con las arquitecturas **RAG**: **B** (híbrido con reranking) y **C**
+(además, jerarquía normativa). Los artículos y el contexto los entrega el servicio
+`POST /retrieve` de `rag-istae-query`; esta API llama al modelo y verifica las citas
+contra los artículos que realmente se le enviaron. Cada conversación trata un solo
+tema: la búsqueda usa la primera pregunta y los seguimientos reciben los mismos artículos.
+
+Las arquitecturas de **contexto largo** (A y A+J) quedan como históricas: solo se
+cargan con `ENABLE_LONG_CONTEXT=true`.
 
 ## Endpoints
 
 | Método | Ruta | Descripción |
 |---|---|---|
-| GET | `/health` | Estado, modelo, normas cargadas y arquitecturas disponibles |
+| GET | `/health` | Estado, modelo, arquitecturas disponibles y URL del servicio de recuperación |
 | GET | `/architectures` | Arquitecturas que se pueden elegir en el chat y si están disponibles |
-| GET | `/documents` | Normas del sistema: nombre, tipo, emisor, jerarquía y artículos detectados |
-| GET | `/units/{unit_id}` | Texto completo de un artículo o sección citado (para "Ver artículo") |
 | POST | `/chat` | Responde una pregunta como flujo de eventos (SSE) |
+| GET | `/documents`, `/units/{unit_id}` | Solo con `ENABLE_LONG_CONTEXT=true`; si no, responden 404 |
 
 `POST /chat` recibe:
 
@@ -26,7 +28,7 @@ reemplazar al asistente sin cambiar el contrato con el frontend.
 {
   "question": "¿Cuál es la nota mínima para aprobar el trabajo de integración curricular?",
   "history": [{"role": "user", "content": "…"}, {"role": "assistant", "content": "…"}],
-  "architecture": "A"
+  "architecture": "C"
 }
 ```
 
@@ -34,19 +36,20 @@ y emite eventos:
 
 - `delta`: `{"text": "…"}`, fragmentos de la respuesta a medida que llegan;
 - `answer`: respuesta final. `body` es el texto sin la sección «Fuentes» del
-  modelo; `sources` agrupa las citas por documento con su **nombre oficial del
-  catálogo**, la cita textual y si se verificó contra la norma. Incluye también
-  los identificadores inventados, las fuentes externas detectadas y el uso de tokens;
-- `error`: `{"message": "…", "status": 429}`, mensaje legible si el proveedor falla.
+  modelo; `sources` agrupa las citas por documento, con la cita textual, si se
+  verificó y el artículo enviado al modelo (`label`, `title`, `text`, `partial`,
+  `origin`). Incluye también los identificadores inventados, las fuentes externas
+  detectadas y el uso de tokens;
+- `error`: `{"message": "…", "status": 429}`, mensaje legible si falla el proveedor
+  o el servicio de recuperación.
 
 ## Modelo y respaldo
 
-El modelo principal es `nvidia/nemotron-3-ultra-550b-a55b:free` (OpenRouter, ventana
-de 1 millón de tokens). Si no empieza a responder en `LLM_START_TIMEOUT_SECONDS`
-(150 s) o devuelve un error de caída o saturación, la consulta se repite con los
-modelos de `LLM_FALLBACK_MODELS` (por defecto `nvidia/nemotron-3.5-super-vl:free`).
-Solo se cambia de modelo antes de mostrar texto, y cada respuesta indica qué
-modelo contestó.
+El modelo principal es `nvidia/nemotron-3-ultra-550b-a55b:free` (OpenRouter). Si no
+empieza a responder en `LLM_START_TIMEOUT_SECONDS` (150 s) o devuelve un error de
+caída o saturación, la consulta se repite con los modelos de `LLM_FALLBACK_MODELS`
+(por defecto `nvidia/nemotron-3.5-super-vl:free`). Solo se cambia de modelo antes de
+mostrar texto, y cada respuesta indica qué modelo contestó.
 
 Para la evaluación de la tesis, `LLM_FALLBACK_MODELS=[]`: todas las variantes
 deben usar el mismo modelo.
@@ -55,37 +58,39 @@ deben usar el mismo modelo.
 
 - Build: `pip install -r requirements.txt`
 - Start: `uvicorn app.main:create_app --factory --host 0.0.0.0 --port $PORT`
-- Variables: `LLM_API_KEY` y `CORS_ORIGINS` (lista JSON con la URL del frontend)
+- Variables: `LLM_API_KEY`, `RETRIEVAL_URL`, `RAG_API_KEY` y `CORS_ORIGINS` (lista
+  JSON con la URL del frontend)
+- `RAG_API_KEY` es la contraseña compartida con el servicio de recuperación: lleva
+  el mismo nombre y valor en ambos. La guía `rag-istae-query/docs/guia_integracion_api.md`
+  la llama `RETRIEVAL_API_KEY` en esta API; aquí se unificó en `RAG_API_KEY`.
 - Python: `.python-version`
 
 ## Estructura
 
 ```
 app/
-  main.py            API (FastAPI): /health, /architectures, /documents, /units y /chat
+  main.py            API (FastAPI): /health, /architectures, /chat, /documents y /units
   config.py          configuración por variables de entorno
   schemas.py         validación de la entrada
   architectures/     arquitecturas que responden: base.py (contrato y catálogo),
-                     long_context.py (contexto largo, variantes A y A+J)
+                     rag.py (B y C), long_context.py (A y A+J, históricas)
   llm/               contrato con el proveedor y cliente compatible con OpenAI
-  normativa/         limpieza, división en artículos, corpus, biblioteca de normas y verificación de citas
+  normativa/         verificación de citas y, para contexto largo, corpus y división en artículos
 prompts/             instrucciones del sistema y recordatorio de formato
-data/                texto extraído de las normas y catálogo normativo
-tests/               pruebas sin red (modelo simulado)
+data/                texto de las normas y catálogo (solo contexto largo)
+tests/               pruebas sin red (recuperación y modelo simulados)
 ```
-
-`data/` tiene el mismo formato que produce la ingesta (`rag-istae-ingestion`):
-`document_mapping.jsonl`, `extracted_text/<sha256>.txt` y `catalogo_normativo.json`.
 
 ## Desarrollo local
 
-Requisitos: Python 3.11.
+Requisitos: Python 3.11 y el servicio de recuperación en marcha
+(`rag-istae-query/docs/guia_ambiente_local.md`).
 
 ```bash
 python -m venv .venv
 .venv/Scripts/activate        # Windows (en Linux/macOS: source .venv/bin/activate)
 pip install -r requirements-dev.txt
-copy .env.example .env        # y complete LLM_API_KEY
+copy .env.example .env        # y complete LLM_API_KEY y RAG_API_KEY
 uvicorn app.main:create_app --factory --reload
 ```
 
@@ -96,5 +101,5 @@ La documentación interactiva de la API queda en http://localhost:8000/docs.
 ## Repositorios relacionados
 
 - `rag-istae-web`: interfaz (Next.js)
-- `rag-istae-ingestion`: extracción y preparación de los documentos
-- `rag-istae-query`: arquitecturas evaluadas y scripts de evaluación
+- `rag-istae-query`: servicio de recuperación `/retrieve` y línea base RAG
+- `rag-istae-ingestion`: extracción, fragmentación e indexación de los documentos

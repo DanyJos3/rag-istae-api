@@ -48,8 +48,10 @@ class RetrievalClient:
         base_url: str,
         api_key: str,
         timeout_seconds: float = 90,
+        rerank: bool = True,
         http_client: httpx.Client | None = None,
     ) -> None:
+        self.rerank = rerank
         self._http = http_client or httpx.Client(
             base_url=base_url.rstrip("/"),
             headers={"X-API-Key": api_key},
@@ -58,7 +60,9 @@ class RetrievalClient:
 
     def retrieve(self, question: str, *, hierarchy: bool, turn: int) -> dict[str, Any]:
         try:
-            response = self._http.post("/retrieve", json={"question": question, "hierarchy": hierarchy, "turn": turn})
+            response = self._http.post("/retrieve", json={
+                "question": question, "hierarchy": hierarchy, "rerank": self.rerank, "turn": turn,
+            })
         except httpx.TimeoutException as error:
             raise RetrievalError(f"/retrieve: tiempo de espera agotado ({type(error).__name__})", 504) from error
         except httpx.TransportError as error:

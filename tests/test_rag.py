@@ -110,7 +110,7 @@ def test_retrieval_client_sends_body_and_api_key() -> None:
     assert data["baseline"] == "LB-1"
     assert seen[0].url.path == "/retrieve"
     assert seen[0].headers["X-API-Key"] == "clave"
-    assert json.loads(seen[0].content) == {"question": "¿Convalidan?", "hierarchy": True, "turn": 2}
+    assert json.loads(seen[0].content) == {"question": "¿Convalidan?", "hierarchy": True, "rerank": True, "turn": 2}
 
 
 @pytest.mark.parametrize("status", [401, 503])

@@ -55,6 +55,7 @@ def build_architectures(settings: Settings) -> tuple[Library | None, dict[str, C
         base_url=settings.retrieval_url,
         api_key=settings.rag_api_key.get_secret_value(),
         timeout_seconds=settings.retrieval_timeout_seconds,
+        rerank=settings.retrieval_rerank,
     )
     architectures: dict[str, ChatArchitecture] = {
         "B": RagAssistant("B", retrieval, client, settings.prompts_dir, **options),

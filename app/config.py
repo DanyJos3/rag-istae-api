@@ -34,6 +34,9 @@ class Settings(BaseSettings):
     prompts_dir: Path = ROOT / "prompts"
 
     cors_origins: list[str] = ["http://localhost:3000"]
+    # Límite de preguntas a /chat (0 = sin límite): por IP y minuto, y total por día.
+    chat_limit_per_minute: int = 5
+    chat_limit_per_day: int = 100
 
     # Servicio de recuperación (rag-istae-query) para B y C.
     retrieval_url: str = "http://127.0.0.1:8100"

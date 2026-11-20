@@ -64,6 +64,10 @@ sigue usando hasta reiniciar el servicio.
 - `RAG_API_KEY` es la contraseña compartida con el servicio de recuperación: lleva
   el mismo nombre y valor en ambos. La guía `rag-istae-query/docs/guia_integracion_api.md`
   la llama `RETRIEVAL_API_KEY` en esta API; aquí se unificó en `RAG_API_KEY`.
+- Límite de consultas a `/chat`, para no agotar el cupo del modelo:
+  `CHAT_LIMIT_PER_MINUTE` (por IP, 5 por defecto) y `CHAT_LIMIT_PER_DAY` (total,
+  100 por defecto). Al superarlo la API responde 429 con un mensaje legible. Se
+  cuenta en memoria: un reinicio del servicio lo pone en cero. `0` lo desactiva.
 - Python: `.python-version`
 
 ## Estructura
@@ -72,6 +76,7 @@ sigue usando hasta reiniciar el servicio.
 app/
   main.py            API (FastAPI): /health, /architectures, /chat, /documents y /units
   config.py          configuración por variables de entorno
+  limits.py          límite de consultas a /chat (por IP y por día)
   schemas.py         validación de la entrada
   architectures/     arquitecturas que responden: base.py (contrato y catálogo),
                      rag.py (B y C), long_context.py (A y A+J, históricas)

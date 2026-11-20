@@ -30,6 +30,7 @@ from app.architectures.base import ARCHITECTURES, Answer, ChatArchitecture
 from app.architectures.long_context import LongContextAssistant
 from app.architectures.rag import RagAssistant, RetrievalClient, RetrievalError
 from app.config import Settings
+from app.limits import ChatLimiter
 from app.llm.base import ChatMessage
 from app.llm.openai_compatible import LLMError, OpenAICompatibleClient
 from app.normativa.corpus import load_catalog, load_corpus
@@ -113,6 +114,7 @@ def create_app(
                     resource.close()
 
     app = FastAPI(title="API de consulta normativa ISTAE", lifespan=lifespan)
+    limiter = ChatLimiter(settings.chat_limit_per_minute, settings.chat_limit_per_day)
     app.add_middleware(
         CORSMiddleware,
         allow_origins=settings.cors_origins,
@@ -159,6 +161,11 @@ def create_app(
         architecture = request.app.state.architectures.get(body.architecture)
         if architecture is None:
             raise HTTPException(status_code=400, detail=f"La arquitectura {body.architecture} no está disponible.")
+        # Detrás del proxy del hosting, la IP del usuario llega en X-Forwarded-For.
+        forwarded = request.headers.get("x-forwarded-for", "").split(",")[0].strip()
+        reason = limiter.check(forwarded or (request.client.host if request.client else "desconocido"))
+        if reason:
+            raise HTTPException(status_code=429, detail=reason)
         history = [ChatMessage(turn.role, turn.content) for turn in body.history]
 
         def events() -> Iterator[str]:

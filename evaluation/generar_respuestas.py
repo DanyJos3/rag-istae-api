@@ -4,9 +4,13 @@ Cada pregunta se envía a la API como una conversación nueva (arquitectura C). 
 deja la respuesta y las fuentes esperadas junto a lo que respondió el sistema, para que
 una persona las califique. El script no califica nada.
 
-Requiere rag-istae-query y rag-istae-api encendidos. Uso, desde rag-istae-api:
+Requiere rag-istae-query y rag-istae-api encendidos, la API con CHAT_LIMIT_PER_DAY=0
+(si no, el límite diario corta la corrida). Uso, desde rag-istae-api:
 
     .venv\\Scripts\\python.exe evaluation\\generar_respuestas.py
+
+Variante sin reranker: levantar otra API con RETRIEVAL_RERANK=false (por ejemplo en el
+puerto 8001) y ejecutar con --variante C_sin_rerank --api http://127.0.0.1:8001.
 
 Se puede interrumpir y volver a ejecutar: continúa con las preguntas que faltan.
 """
@@ -31,6 +35,8 @@ HERE = Path(__file__).parent
 GOLD_STANDARD = HERE / "Gold_Standard_Bateria_Pruebas_TFM_v4.xlsx"
 RESULTS = HERE / "resultados"
 RATE_LIMITED = 429
+# Variante evaluada → ¿con reranker? La API debe estar configurada igual (RETRIEVAL_RERANK).
+VARIANTES = {"C": True, "C_sin_rerank": False}
 
 HEADERS = [
     "ID", "Origen", "Dominio", "Tipo de consulta", "Estrato", "Tipo de jerarquía",
@@ -65,7 +71,7 @@ def ask(client: httpx.Client, question: str) -> dict[str, Any]:
     event, final = None, None
     started = time.perf_counter()
     try:
-        with client.stream("POST", f"{API}/chat", json=body) as response:
+        with client.stream("POST", "/chat", json=body) as response:
             if response.status_code != 200:
                 return {"status": "error", "error": f"HTTP {response.status_code}", "http_status": response.status_code}
             for line in response.iter_lines():
@@ -143,6 +149,8 @@ def main() -> int:
     sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(description="Genera las respuestas del sistema para el Gold Standard.")
     parser.add_argument("--preguntas", help="IDs separados por coma, por ejemplo Q01,Q27. Por defecto, todas.")
+    parser.add_argument("--variante", choices=VARIANTES, default="C", help="Nombre de los archivos de resultados.")
+    parser.add_argument("--api", default=API, help=f"URL de la API (por defecto {API}).")
     args = parser.parse_args()
 
     questions = load_questions(GOLD_STANDARD)
@@ -150,11 +158,11 @@ def main() -> int:
         wanted = {item.strip() for item in args.preguntas.split(",")}
         questions = [question for question in questions if question["ID"] in wanted]
     RESULTS.mkdir(exist_ok=True)
-    raw_path, excel_path = RESULTS / "respuestas_C.jsonl", RESULTS / "respuestas_C.xlsx"
+    raw_path, excel_path = RESULTS / f"respuestas_{args.variante}.jsonl", RESULTS / f"respuestas_{args.variante}.xlsx"
     results = read_results(raw_path)
 
     timeout = httpx.Timeout(connect=10, read=400, write=60, pool=10)
-    with httpx.Client(timeout=timeout) as client:
+    with httpx.Client(base_url=args.api, timeout=timeout) as client:
         for number, question in enumerate(questions, start=1):
             prefix = f"[{number}/{len(questions)}] {question['ID']}"
             if results.get(question["ID"], {}).get("status") == "ok":

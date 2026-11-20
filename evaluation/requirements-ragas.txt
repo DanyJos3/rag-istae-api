@@ -1,0 +1,3 @@
+# Solo para evaluation/evaluar_ragas.py (entorno aparte: .venv-ragas)
+ragas==0.4.4
+openpyxl
